@@ -54,6 +54,9 @@ Link to Discord context
 
 {% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" caption="" %}
 
+![2021-06-27 (16)](https://user-images.githubusercontent.com/25156451/123561240-2b3b2380-d79f-11eb-8d08-1b8bf5c9f849.png)
+
+
 ### CA Nominations
 
 ![Welcome to \#ca-nominations &amp; nominate Victor Corcino](../.gitbook/assets/2021-06-27-12-.png)
