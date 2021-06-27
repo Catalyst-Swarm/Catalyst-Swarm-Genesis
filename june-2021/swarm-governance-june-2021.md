@@ -12,31 +12,27 @@ description: Swarm Governance for the month of June 2021
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857887059913211904/857888250826719253" %}
-
-
+{% embed url="https://discordapp.com/channels/832894680290951179/857887059913211904/857888250826719253" caption="" %}
 
 ### IOHK Youtube Channel
 
-{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
+{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" caption="" %}
 
 ### Catalyst circle definition
 
-{% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" %}
+{% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" caption="" %}
 
 ### Catalyst Circle Voting Procedure
 
-{% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2\_8aqZ9UFKc/edit" %}
+{% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2\_8aqZ9UFKc/edit" caption="" %}
 
 ### Town Hall Slides
 
-{% embed url="https://docs.google.com/presentation/d/1k\_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit\#slide=id.ge00bc5ea9a\_0\_2845" %}
+{% embed url="https://docs.google.com/presentation/d/1k\_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit\#slide=id.ge00bc5ea9a\_0\_2845" caption="" %}
 
 ### @InputOutputHK Twitter
 
-{% embed url="https://twitter.com/InputOutputHK/status/1408025596878262274?s=20" %}
-
-
+{% embed url="https://twitter.com/InputOutputHK/status/1408025596878262274?s=20" caption="" %}
 
 ## Catalyst Circle Elections
 
@@ -64,16 +60,15 @@ Link to Discord context
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" caption="" %}
 
 ![nominate @jamesdunseith](../.gitbook/assets/2021-06-27-13-.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" caption="" %}
 
 ### Voter Nominations
 
-![2021-06-27 (14)](https://user-images.githubusercontent.com/25156451/123561059-32adfd00-d79e-11eb-8dbe-fc036927de80.png)
-
+![Voter Nominations](https://user-images.githubusercontent.com/25156451/123561059-32adfd00-d79e-11eb-8dbe-fc036927de80.png)
 
