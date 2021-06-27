@@ -20,3 +20,9 @@ description: Swarm Governance for the month of June 2021
 
 {% embed url="https://docs.google.com/document/d/1jVNCqztO\_s88TC1yfB9xLOJOWC2ANhyxtgJbdsofKZw/edit" caption="" %}
 
+Link to Discord context
+
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" %}
+
+
+
