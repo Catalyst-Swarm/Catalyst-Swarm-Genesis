@@ -4,5 +4,10 @@
 
 ## April 2021
 
-* [Swarm Sessions](april-2021/swarm-sessions.md)
+* [Swarm Sessions - April 2021](april-2021/swarm-sessions.md)
+
+## June 2021
+
+* [Swarm Sessions - July 2021](june-2021/swarm-sessions-july-2021.md)
+* [Untitled](june-2021/untitled.md)
 

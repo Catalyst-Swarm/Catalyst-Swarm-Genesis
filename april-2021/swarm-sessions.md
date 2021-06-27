@@ -1,4 +1,4 @@
-# Swarm Sessions
+# Swarm Sessions - April 2021
 
 ## 01 - The First Swarm Session
 
