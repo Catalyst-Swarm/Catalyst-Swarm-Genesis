@@ -4,11 +4,19 @@ description: Swarm Governance for the month of June 2021
 
 # Swarm Governance - June 2021
 
-## Catalyst Circle Elections
+## Catalyst Circle Town Hall Announcement
 
-### Town hall Announcement
+### Discord Announcement
 
 ![Town Hall Announcement](https://user-images.githubusercontent.com/25156451/123560426-e9f44500-d799-11eb-952d-26fe00070474.png)
+
+### IOHK Youtube Channel
+
+{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
+
+
+
+## Catalyst Circle Elections
 
 ### Candidate Nomination Form
 
