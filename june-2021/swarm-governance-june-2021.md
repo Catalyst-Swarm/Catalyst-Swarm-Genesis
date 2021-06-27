@@ -32,6 +32,10 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://docs.google.com/presentation/d/1k\_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit\#slide=id.ge00bc5ea9a\_0\_2845" %}
 
+### @InputOutputHK Twitter
+
+{% embed url="https://twitter.com/InputOutputHK/status/1408025596878262274?s=20" %}
+
 
 
 ## Catalyst Circle Elections
