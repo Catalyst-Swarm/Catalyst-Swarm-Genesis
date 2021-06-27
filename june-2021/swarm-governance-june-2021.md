@@ -62,3 +62,9 @@ Link to Discord context
 
 ![Welcome to \#ca-nominations](../.gitbook/assets/2021-06-27-12-.png)
 
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" %}
+
+
+
