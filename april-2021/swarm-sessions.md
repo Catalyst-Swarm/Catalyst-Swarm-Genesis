@@ -22,25 +22,23 @@ Miro Board \(pass : whathappensinswarm\)
 
 Stefan Montalbetti
 
-
-
 ## 02 - Swarm Session - Hive Edition
 
-![2021-06-27 (3)](https://user-images.githubusercontent.com/25156451/123557604-bdd0c800-d789-11eb-923d-05a714227676.png)
-
+![2021-06-27 \(3\)](https://user-images.githubusercontent.com/25156451/123557604-bdd0c800-d789-11eb-923d-05a714227676.png)
 
 Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 
-{% embed url="https://discordapp.com/channels/832894680290951179/832894680290951182/835264969472737370" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/832894680290951182/835264969472737370" caption="" %}
 
 Miro Board \(pass : whathappensinswarm\)
 
-{% embed url="https://miro.com/app/board/o9J\_lLJueT8=/" %}
+{% embed url="https://miro.com/app/board/o9J\_lLJueT8=/" caption="" %}
 
+### Notice from Felix - Swarm Session - Hive Edition
 
-![2021-06-27 (4)](https://user-images.githubusercontent.com/25156451/123557769-be1d9300-d78a-11eb-9f9d-544182cce370.png)
+![Notice from Felix - Swarm Session - Hive Edition](https://user-images.githubusercontent.com/25156451/123557769-be1d9300-d78a-11eb-9f9d-544182cce370.png)
 
-![2021-06-27 (5)](https://user-images.githubusercontent.com/25156451/123557777-c544a100-d78a-11eb-9a45-bb3f0cf4c9db.png)
+![Notice from Felix - Swarm Session - Hive Edition](https://user-images.githubusercontent.com/25156451/123557777-c544a100-d78a-11eb-9a45-bb3f0cf4c9db.png)
 
 
 
