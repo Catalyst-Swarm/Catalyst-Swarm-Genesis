@@ -6,6 +6,8 @@ description: Swarm Governance for the month of June 2021
 
 ## Catalyst Circle Elections
 
+Townhall Annoucement
+
 ![2021-06-27 \(11\)](https://user-images.githubusercontent.com/25156451/123560426-e9f44500-d799-11eb-952d-26fe00070474.png)
 
 ### Candidate Nomination Form
