@@ -1,6 +1,6 @@
 # Swarm Sessions
 
-## The First Swarm Session - 17/04/21
+## 01 - The First Swarm Session
 
 Saturday, 17th April 2021
 
@@ -24,7 +24,7 @@ Stefan Montalbetti
 
 
 
-## Swarm Session - Hive Edition - 24/04/21
+## 02 - Swarm Session - Hive Edition
 
 
 
