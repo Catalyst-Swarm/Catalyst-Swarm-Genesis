@@ -6,7 +6,5 @@
 
 Discord link to context
 
-{% embed url="https://discordapp.com/channels/842027827829145611/850055514015531078/850318593370357770" %}
-
-
+{% embed url="https://discordapp.com/channels/842027827829145611/850055514015531078/850318593370357770" caption="" %}
 
