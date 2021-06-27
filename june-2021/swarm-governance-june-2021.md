@@ -62,6 +62,10 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ![nominate @stephen.rowan, @Steven.Aldrich, @Steve.Lockhart and Jason Pocaro](https://user-images.githubusercontent.com/25156451/123561325-9ab11300-d79f-11eb-874b-4c1504beeca3.png)
 
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857905118229954590" %}
+
 ### CA Nominations
 
 ![Welcome to \#ca-nominations &amp; nominate Victor Corcino](../.gitbook/assets/2021-06-27-12-.png)
