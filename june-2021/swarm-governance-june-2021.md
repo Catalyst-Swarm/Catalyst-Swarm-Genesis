@@ -58,3 +58,7 @@ Link to Discord context
 
 {% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" caption="" %}
 
+### CA Nominations
+
+![Welcome to \#ca-nominations](../.gitbook/assets/2021-06-27-12-.png)
+
