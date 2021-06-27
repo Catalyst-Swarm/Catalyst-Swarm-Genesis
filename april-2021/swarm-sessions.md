@@ -1,6 +1,6 @@
 # Swarm Sessions
 
-## The First Swarm Session
+## The First Swarm Session - 17/04/21
 
 Saturday, 17th April 2021
 
@@ -21,4 +21,20 @@ Miro Board \(pass : whathappensinswarm\)
 {% embed url="https://www.loom.com/share/daeafd55822d48d8b4731a3111547664" caption="" %}
 
 Stefan Montalbetti
+
+
+
+## Swarm Session - Hive Edition - 24/04/21
+
+
+
+Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
+
+{% embed url="https://discordapp.com/channels/832894680290951179/832894680290951182/835264969472737370" %}
+
+Miro Board \(pass : whathappensinswarm\)
+
+{% embed url="https://miro.com/app/board/o9J\_lLJueT8=/" %}
+
+
 
