@@ -2,6 +2,9 @@
 
 ## Candiatate Nomination Form
 
+![2021-06-27 (8)](https://user-images.githubusercontent.com/25156451/123558713-a3015200-d78f-11eb-942f-431533021ab9.png)
+
+![2021-06-27 (9)](https://user-images.githubusercontent.com/25156451/123558716-a7c60600-d78f-11eb-9f25-995f5dbacd27.png)
 
 
 ## Toolmaker/ Maintainer nomination for Catalyst Circle V1
