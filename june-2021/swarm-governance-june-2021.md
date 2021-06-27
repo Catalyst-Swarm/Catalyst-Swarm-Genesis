@@ -60,11 +60,17 @@ Link to Discord context
 
 ### CA Nominations
 
-![Welcome to \#ca-nominations](../.gitbook/assets/2021-06-27-12-.png)
+![Welcome to \#ca-nominations &amp; nominate Victor Corcino](../.gitbook/assets/2021-06-27-12-.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" %}
+
+![nominate @jamesdunseith](../.gitbook/assets/2021-06-27-13-.png)
+
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" %}
 
 
 
