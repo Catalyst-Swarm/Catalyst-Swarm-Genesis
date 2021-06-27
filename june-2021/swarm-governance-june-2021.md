@@ -22,6 +22,10 @@ description: Swarm Governance for the month of June 2021
 
 {% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2\_8aqZ9UFKc/edit" %}
 
+### Town Hall Slides
+
+{% embed url="https://docs.google.com/presentation/d/1k\_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit\#slide=id.ge00bc5ea9a\_0\_2845" %}
+
 
 
 ## Catalyst Circle Elections
