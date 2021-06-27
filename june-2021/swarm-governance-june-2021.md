@@ -32,7 +32,11 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ### @InputOutputHK Twitter
 
-{% embed url="https://twitter.com/InputOutputHK/status/1408025596878262274?s=20" caption="" %}
+### Cardano Forum Post
+
+{% embed url="https://forum.cardano.org/t/catalyst-circle-nominations-elections-form-leadership-layer-for-cardano-v1/65592" %}
+
+
 
 ## Catalyst Circle Elections
 
