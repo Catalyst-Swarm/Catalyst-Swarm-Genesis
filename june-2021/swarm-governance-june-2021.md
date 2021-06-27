@@ -14,6 +14,10 @@ description: Swarm Governance for the month of June 2021
 
 {% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
 
+### Catalyst circle definition
+
+{% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" %}
+
 
 
 ## Catalyst Circle Elections
