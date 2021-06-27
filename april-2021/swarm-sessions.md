@@ -30,7 +30,7 @@ Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 
 {% embed url="https://discordapp.com/channels/832894680290951179/832894680290951182/835264969472737370" caption="" %}
 
-Miro Board \(pass : whathappensinswarm\)
+### Miro Board \(pass : whathappensinswarm\)
 
 {% embed url="https://miro.com/app/board/o9J\_lLJueT8=/" caption="" %}
 
