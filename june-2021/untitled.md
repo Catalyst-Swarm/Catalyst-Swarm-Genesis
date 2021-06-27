@@ -1,3 +1,7 @@
+---
+description: Swarm Governance for the month of July 2021
+---
+
 # Swarm Governance - June 2021
 
 ## Candidate Nomination Form
