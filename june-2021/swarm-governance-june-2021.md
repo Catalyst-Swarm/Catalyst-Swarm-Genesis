@@ -4,16 +4,13 @@ description: Swarm Governance for the month of June 2021
 
 # Swarm Governance - June 2021
 
-## Elections
+## Catalyst Circle Elections
 
-![2021-06-27 (11)](https://user-images.githubusercontent.com/25156451/123560426-e9f44500-d799-11eb-952d-26fe00070474.png)
-
+![2021-06-27 \(11\)](https://user-images.githubusercontent.com/25156451/123560426-e9f44500-d799-11eb-952d-26fe00070474.png)
 
 ### Candidate Nomination Form
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe4tmJb0lWhk0KpxyPzRWzMEA5NYlMWAh2QNe5pY6gdAErhzw/viewform" %}
-
-
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe4tmJb0lWhk0KpxyPzRWzMEA5NYlMWAh2QNe5pY6gdAErhzw/viewform" caption="" %}
 
 ![Screenshot](https://user-images.githubusercontent.com/25156451/123558713-a3015200-d78f-11eb-942f-431533021ab9.png)
 
@@ -27,7 +24,5 @@ description: Swarm Governance for the month of June 2021
 
 Link to Discord context
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" %}
-
-
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" caption="" %}
 
