@@ -1,2 +1,2 @@
-# Swarm Sessions - July 2021
+# Swarm Sessions - June 2021
 
