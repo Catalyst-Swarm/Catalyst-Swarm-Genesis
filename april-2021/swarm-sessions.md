@@ -14,6 +14,10 @@ Miro Board \(pass : whathappensinswarm\)
 
 {% embed url="https://miro.com/app/board/o9J\_lLJueRk=/" %}
 
+
+![2021-06-27 (2)](https://user-images.githubusercontent.com/25156451/123557249-c1634f80-d787-11eb-91d4-5819e4f660d7.png)
+
+
 ## Loom Recording of first Swarm Session
 
 {% embed url="https://www.loom.com/share/daeafd55822d48d8b4731a3111547664" %}
