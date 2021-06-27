@@ -74,5 +74,6 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ### Voter Nominations
 
+![2021-06-27 (14)](https://user-images.githubusercontent.com/25156451/123561059-32adfd00-d79e-11eb-8dbe-fc036927de80.png)
 
 
