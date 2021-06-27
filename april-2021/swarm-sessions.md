@@ -16,7 +16,7 @@ Miro Board \(pass : whathappensinswarm\)
 
 ![Loom Recording of first Swarm Session](https://user-images.githubusercontent.com/25156451/123557249-c1634f80-d787-11eb-91d4-5819e4f660d7.png)
 
-## Loom Recording of first Swarm Session
+### Loom Recording of first Swarm Session
 
 {% embed url="https://www.loom.com/share/daeafd55822d48d8b4731a3111547664" caption="" %}
 
