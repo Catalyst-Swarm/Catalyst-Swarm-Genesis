@@ -2,5 +2,5 @@
 
 ## Elections
 
-Toolmaker/ Maintainer nomination for Catalyst Circle V1
+## Toolmaker/ Maintainer nomination for Catalyst Circle V1
 
