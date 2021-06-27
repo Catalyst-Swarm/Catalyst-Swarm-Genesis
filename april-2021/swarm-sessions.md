@@ -14,5 +14,9 @@ Miro Board \(pass : whathappensinswarm\)
 
 {% embed url="https://miro.com/app/board/o9J\_lLJueRk=/" %}
 
+## Loom Recording of first Swarm Session
 
+{% embed url="https://www.loom.com/share/daeafd55822d48d8b4731a3111547664" %}
+
+Stefan Montalbetti
 
