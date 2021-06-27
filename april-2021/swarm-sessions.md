@@ -38,4 +38,9 @@ Miro Board \(pass : whathappensinswarm\)
 {% embed url="https://miro.com/app/board/o9J\_lLJueT8=/" %}
 
 
+![2021-06-27 (4)](https://user-images.githubusercontent.com/25156451/123557769-be1d9300-d78a-11eb-9f9d-544182cce370.png)
+
+![2021-06-27 (5)](https://user-images.githubusercontent.com/25156451/123557777-c544a100-d78a-11eb-9a45-bb3f0cf4c9db.png)
+
+
 
