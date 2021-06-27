@@ -8,7 +8,7 @@
 
 ## June 2021
 
-* [Swarm Sessions - June 2021](june-2021/swarm-sessions-july-2021.md)
+* [Swarm Sessions - June 2021](june-2021/swarm-sessions-june-2021.md)
 * [Swarm Governance - June 2021](june-2021/swarm-governance-june-2021.md)
 * [Governance Alive - June 2021](june-2021/governance-alive-june-2021.md)
 
