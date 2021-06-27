@@ -9,5 +9,5 @@
 ## June 2021
 
 * [Swarm Sessions - July 2021](june-2021/swarm-sessions-july-2021.md)
-* [Untitled](june-2021/untitled.md)
+* [Swarm Governance](june-2021/untitled.md)
 
