@@ -1,5 +1,5 @@
 ---
-description: Swarm Governance for the month of July 2021
+description: Swarm Governance for the month of June 2021
 ---
 
 # Swarm Governance - June 2021
