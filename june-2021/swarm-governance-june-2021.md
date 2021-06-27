@@ -18,6 +18,10 @@ description: Swarm Governance for the month of June 2021
 
 {% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" %}
 
+### Catalyst Circle Voting Procedure
+
+{% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2\_8aqZ9UFKc/edit" %}
+
 
 
 ## Catalyst Circle Elections
