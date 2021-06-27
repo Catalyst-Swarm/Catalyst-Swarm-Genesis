@@ -10,5 +10,9 @@ Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 
 {% embed url="https://discordapp.com/channels/832894680290951179/832894680290951182/832896519945584640" %}
 
+Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_lLJueRk=/" %}
+
 
 
