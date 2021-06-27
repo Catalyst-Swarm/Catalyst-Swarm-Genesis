@@ -72,3 +72,9 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ![Voter Nominations](https://user-images.githubusercontent.com/25156451/123561059-32adfd00-d79e-11eb-8dbe-fc036927de80.png)
 
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858757548789071913" %}
+
+
+
