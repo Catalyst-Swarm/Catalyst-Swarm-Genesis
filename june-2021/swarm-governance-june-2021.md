@@ -76,5 +76,8 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858757548789071913" %}
 
+![2021-06-27 (15)](https://user-images.githubusercontent.com/25156451/123561142-ae0fae80-d79e-11eb-9cad-8137a9111b28.png)
+
+
 
 
