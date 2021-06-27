@@ -10,6 +10,12 @@ description: Swarm Governance for the month of June 2021
 
 ![Town Hall Announcement](https://user-images.githubusercontent.com/25156451/123560426-e9f44500-d799-11eb-952d-26fe00070474.png)
 
+Link to Discord context on Catalyst Swarm & Sessiosn
+
+{% embed url="https://discordapp.com/channels/832894680290951179/857887059913211904/857888250826719253" %}
+
+
+
 ### IOHK Youtube Channel
 
 {% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
