@@ -1,6 +1,6 @@
 # Swarm Sessions - April 2021
 
-## 17/04.21 - Community Advisor Swarm.
+## 17/04/21 - Community Advisor Swarm.
 
 Saturday, 17th April 2021
 
@@ -22,9 +22,9 @@ Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 
 Stefan Montalbetti
 
-## 02 - Swarm Session - Hive Edition
+## 24/04/21 - Swarm Session - Hive Edition
 
-![2021-06-27 \(3\)](https://user-images.githubusercontent.com/25156451/123557604-bdd0c800-d789-11eb-923d-05a714227676.png)
+![24/04/21 - Swarm Session - Hive Edition](https://user-images.githubusercontent.com/25156451/123557604-bdd0c800-d789-11eb-923d-05a714227676.png)
 
 Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 
