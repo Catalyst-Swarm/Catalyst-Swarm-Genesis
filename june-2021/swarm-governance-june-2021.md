@@ -34,7 +34,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ### Cardano Forum Post
 
-{% embed url="https://forum.cardano.org/t/catalyst-circle-nominations-elections-form-leadership-layer-for-cardano-v1/65592" %}
+{% embed url="https://forum.cardano.org/t/catalyst-circle-nominations-elections-form-leadership-layer-for-cardano-v1/65592" caption="" %}
 
 ## Catalyst Circle Elections
 
@@ -66,7 +66,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857905118229954590" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857905118229954590" caption="" %}
 
 ### CA Nominations
 
@@ -82,7 +82,13 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" caption="" %}
 
-![2021-06-28](https://user-images.githubusercontent.com/25156451/123613166-1c825a00-d7fb-11eb-935f-d0fb5f57e50d.png)
+#### Victor petition
+
+![Victor petition](https://user-images.githubusercontent.com/25156451/123613166-1c825a00-d7fb-11eb-935f-d0fb5f57e50d.png)
+
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858973054956470282" %}
 
 ### Voter Nominations
 
