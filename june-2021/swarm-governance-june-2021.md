@@ -106,7 +106,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858759764486258708" caption="" %}
 
-### Mercy petition
+#### Mercy petition
 
 ![Mercy petition](https://user-images.githubusercontent.com/25156451/123665207-f9be6880-d82f-11eb-86c2-34c9d9bfd1ec.png)
 
