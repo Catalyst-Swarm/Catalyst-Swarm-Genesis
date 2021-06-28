@@ -108,3 +108,19 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858759764486258708" caption="" %}
 
+## Catalyst Community Announcements
+
+
+
+### Pre Town Hall Announcement
+
+28th June 2021
+
+
+
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/756943420660121600/756943420660121603/859019433925935106" %}
+
+
+
