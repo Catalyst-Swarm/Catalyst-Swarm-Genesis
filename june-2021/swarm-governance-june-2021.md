@@ -116,7 +116,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 28th June 2021
 
-
+![2021-06-28 (2)](https://user-images.githubusercontent.com/25156451/123624717-d206da80-d806-11eb-84f4-8db221699a11.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
