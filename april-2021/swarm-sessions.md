@@ -1,6 +1,6 @@
 # Swarm Sessions - April 2021
 
-## 01 - The first Community Advisor Swarm session.
+## 17/04.21 - Community Advisor Swarm.
 
 Saturday, 17th April 2021
 
