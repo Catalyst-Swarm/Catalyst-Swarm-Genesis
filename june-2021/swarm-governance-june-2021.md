@@ -86,6 +86,10 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ![Victor petition](https://user-images.githubusercontent.com/25156451/123613166-1c825a00-d7fb-11eb-935f-d0fb5f57e50d.png)
 
+{% embed url="https://docs.google.com/document/d/1aqpXPLb0K0UMDBXWbCJfvqqkLJEIJIjrkiG2nosFYmM/edit" %}
+
+
+
 Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858973054956470282" %}
