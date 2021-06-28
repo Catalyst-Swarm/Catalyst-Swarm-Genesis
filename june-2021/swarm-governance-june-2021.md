@@ -18,7 +18,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" caption="" %}
 
-### Catalyst circle definition
+### Catalyst Circle definition
 
 {% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" caption="" %}
 
