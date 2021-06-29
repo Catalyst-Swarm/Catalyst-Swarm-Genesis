@@ -12,7 +12,7 @@ description: For the month of June 2021
 
 ![Saturday 19.06.2021 Invite](https://user-images.githubusercontent.com/25156451/123839455-0b257480-d905-11eb-948f-082acc388fcc.jpg)
 
-### Miro Board
+### Swarm Session Miro Board
 
 {% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" caption="Miro Board" %}
 
@@ -21,6 +21,12 @@ description: For the month of June 2021
 {% embed url="https://www.youtube.com/watch?v=A6iEfcKM6Hw&t=1212s" %}
 
 Discussion about the user experience of the Ideascale Problem Sensing section and how could we can improve it.
+
+#### Miro
+
+{% embed url="https://miro.com/app/board/o9J\_l-K92IU=/" %}
+
+
 
 ## Swarm - Saturday 26.06.2021
 
