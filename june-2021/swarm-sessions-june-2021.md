@@ -1,8 +1,12 @@
 ---
-description: For the month of July 2021
+description: For the month of June 2021
 ---
 
 # Swarm Sessions - June 2021
+
+## Swarm - Saturday 19.06.2021
+
+
 
 ## Swarm - Saturday 26.06.2021
 
