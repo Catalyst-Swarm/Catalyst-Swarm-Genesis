@@ -56,3 +56,9 @@ Link to Discord context
 
 {% embed url="https://miro.com/app/board/o9J\_l9SW-wM=/" caption="" %}
 
+### Ideation Incubator Circle
+
+{% embed url="https://www.youtube.com/watch?v=zP02onJ59yw&t=3247s" %}
+
+
+
