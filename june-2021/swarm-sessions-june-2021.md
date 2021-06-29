@@ -22,7 +22,7 @@ description: For the month of June 2021
 
 Discussion about the user experience of the Ideascale Problem Sensing section and how could we can improve it.
 
-#### Miro
+#### Miro Board for this session
 
 {% embed url="https://miro.com/app/board/o9J\_l-K92IU=/" %}
 
