@@ -36,7 +36,7 @@ Link to Discord context
 
 {% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/858366468516872223" caption="" %}
 
-### Miro Board
+### Swarm Session Miro Board
 
 {% embed url="https://miro.com/app/board/o9J\_l9SW-wM=/" caption="" %}
 
