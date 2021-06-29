@@ -4,7 +4,15 @@ description: For the month of June 2021
 
 # Swarm Sessions - June 2021
 
-## Saturday 19th June 2021
+## Saturday, 5th June 2021
+
+### Fund 6 Improvements Circle
+
+{% embed url="https://www.youtube.com/watch?v=4uOGsgv0-mM&t=3136s" %}
+
+Discussion with Proposer, Community Adviser and veteran Community Advisor about improvements for Fund 6
+
+## Saturday, 19th June 2021
 
 ![Felix Weber Announcement](https://user-images.githubusercontent.com/25156451/123837081-58541700-d902-11eb-9781-ad579455c7fd.png)
 
