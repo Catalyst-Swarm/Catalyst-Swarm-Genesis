@@ -2,9 +2,9 @@
 description: After Town Hall Swarms
 ---
 
-# Town Halls - June 2021
+# Project Catalyst Town Halls - June 2021
 
-## Project Catalyst Town Hall - June 16th
+## June 16th, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=z1yU\_dV2JKg" %}
 
@@ -46,5 +46,7 @@ description: After Town Hall Swarms
 
 #### Open space preparation and break out rooms prep
 
-## Project Catalyst Town Hall - June 23rd
+## June 23rd, Town Hall
+
+
 
