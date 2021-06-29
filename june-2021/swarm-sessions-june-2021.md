@@ -62,3 +62,21 @@ Link to Discord context
 
 Swarm Session 26th June 2021 - moderated by N-Fold
 
+### Pre-Proposal Problem Sensing Process
+
+{% embed url="https://www.youtube.com/watch?v=94MnBLi40d8&t=2378s" %}
+
+Exploring a process framework to identify problems that are worthy to motivate funding proposals, creating community-based consensus of a value-proposition that proposers can point to and not reinvent the "why bother?" part of Catalyst funding proposals
+
+#### [0:00](https://www.youtube.com/watch?v=94MnBLi40d8&t=0s) reducing wheel-reinvention in Catalyst community
+
+#### [10:30](https://www.youtube.com/watch?v=94MnBLi40d8&t=630s) review: what makes a good problem statement?
+
+#### [16:30](https://www.youtube.com/watch?v=94MnBLi40d8&t=990s) a small experiment in process for finding interesting problems
+
+#### [21:00](https://www.youtube.com/watch?v=94MnBLi40d8&t=1260s) 4 people get experience together
+
+#### [56:15](https://www.youtube.com/watch?v=94MnBLi40d8&t=3375s) finding consensus
+
+#### [58:45](https://www.youtube.com/watch?v=94MnBLi40d8&t=3525s) reviewing, feedback, learning
+
