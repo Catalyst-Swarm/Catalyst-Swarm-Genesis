@@ -16,7 +16,7 @@ description: For the month of June 2021
 
 {% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" caption="Miro Board" %}
 
-### Session : Organizing Ideascale Problem Sensing Ideas
+### Organizing Ideascale Problem Sensing Ideas - Session
 
 {% embed url="https://www.youtube.com/watch?v=A6iEfcKM6Hw&t=1212s" %}
 
@@ -30,7 +30,7 @@ Discussion about the user experience of the Ideascale Problem Sensing section an
 
 {% embed url="https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session" %}
 
-### Session  DAO Circle
+### DAO Circle - Session  
 
 {% embed url="https://www.youtube.com/watch?v=vlBAqOKLwK0&t=2464s" %}
 
