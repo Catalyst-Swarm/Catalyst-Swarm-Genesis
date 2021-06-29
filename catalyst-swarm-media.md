@@ -4,11 +4,11 @@ description: Platforms that Catalyst Swarm uses
 
 # Catalyst Swarm Media
 
-## Catalyst Swarm Website
+## Website - Catalyst Swarm 
 
 {% embed url="https://www.swarm4catalyst.com/" caption="" %}
 
-## Catalyst Swarm Twitter
+## Twitter - Catalyst Swarm 
 
 [https://twitter.com/CatalystSwarm](https://twitter.com/CatalystSwarm)
 
@@ -16,5 +16,5 @@ description: Platforms that Catalyst Swarm uses
 
 
 
-## Catalyst Swarm Youtube
+## Youtube - Catalyst Swarm 
 
