@@ -92,13 +92,15 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858973054956470282" caption="" %}
 
-### Voter Nominations
-
 #### Victor nomination statement
 
-![2021-06-29](https://user-images.githubusercontent.com/25156451/123808566-c68be000-d8e8-11eb-8538-e5c05bc72261.png)
+![Victor nomination statement](https://user-images.githubusercontent.com/25156451/123808566-c68be000-d8e8-11eb-8538-e5c05bc72261.png)
 
-[https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079](https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079)
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" %}
+
+
 
 ### Voter Nominations
 
