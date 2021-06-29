@@ -60,5 +60,5 @@ Link to Discord context
 
 {% embed url="https://www.youtube.com/watch?v=zP02onJ59yw&t=3247s" %}
 
-
+Swarm Session 26th June 2021 - moderated by N-Fold
 
