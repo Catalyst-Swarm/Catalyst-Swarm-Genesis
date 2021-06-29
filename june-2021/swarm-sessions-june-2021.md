@@ -6,8 +6,7 @@ description: For the month of June 2021
 
 ## Swarm - Saturday 19.06.2021
 
-![2021-06-29 (1)](https://user-images.githubusercontent.com/25156451/123837081-58541700-d902-11eb-9781-ad579455c7fd.png)
-
+![Felix Weber Announcement](https://user-images.githubusercontent.com/25156451/123837081-58541700-d902-11eb-9781-ad579455c7fd.png)
 
 ## Swarm - Saturday 26.06.2021
 
@@ -15,11 +14,9 @@ description: For the month of June 2021
 
 Link to Discord context
 
-{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/858366468516872223" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/858366468516872223" caption="" %}
 
 ### Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l9SW-wM=/" %}
-
-
+{% embed url="https://miro.com/app/board/o9J\_l9SW-wM=/" caption="" %}
 
