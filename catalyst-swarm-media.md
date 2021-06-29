@@ -8,5 +8,13 @@ description: Platforms that Catalyst Swarm uses
 
 {% embed url="https://www.swarm4catalyst.com/" %}
 
+## Catalyst Swarm Twitter
+
+{% embed url="https://twitter.com/CatalystSwarm" %}
+
+
+
+## Catalyst Swarm Youtube
+
 
 
