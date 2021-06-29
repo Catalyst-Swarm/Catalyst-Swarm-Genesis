@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Catalyst-Swarm-Genesis](README.md)
+* [What is Swarm ?](what-is-swarm.md)
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 
 ## April 2021
