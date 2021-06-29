@@ -12,6 +12,20 @@ description: For the month of June 2021
 
 Discussion with Proposer, Community Adviser and veteran Community Advisor about improvements for Fund 6
 
+### WADA Circle
+
+{% embed url="https://www.youtube.com/watch?v=hXKcDuL287w&t=710s" %}
+
+Mercy, co-founder from WADA \( West-Africa- Decentralized- Alliance \) invites you to have a look in the WADA projects get in touch with WADA: 
+
+#### Website:
+
+{% embed url="https://wadalliance.org/" %}
+
+#### Discord:
+
+{% embed url="https://discord.gg/8bfA77UPam" %}
+
 ## Saturday, 19th June 2021
 
 ![Felix Weber Announcement](https://user-images.githubusercontent.com/25156451/123837081-58541700-d902-11eb-9781-ad579455c7fd.png)
