@@ -38,7 +38,13 @@ Sharing knowledge and thoughts about the concept of a DAO
 
 ### Chill Out Circle
 
-{% embed url="https://www.youtube.com/watch?v=yScOAnTGeH4" %}
+{% embed url="https://www.youtube.com/watch?v=yScOAnTGeH4" caption="Chill Out Circle" %}
+
+### Session Feedback
+
+{% embed url="https://www.youtube.com/watch?v=VfYHKj7\_iKQ" %}
+
+
 
 ## Saturday 26th June 2021
 
