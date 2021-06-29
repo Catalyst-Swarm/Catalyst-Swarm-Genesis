@@ -36,6 +36,10 @@ Discussion about the user experience of the Ideascale Problem Sensing section an
 
 Sharing knowledge and thoughts about the concept of a DAO
 
+### Chill Out Circle
+
+{% embed url="https://www.youtube.com/watch?v=yScOAnTGeH4" %}
+
 ## Saturday 26th June 2021
 
 ![Dominik Tilman Announcement](https://user-images.githubusercontent.com/25156451/123558802-199e4f80-d790-11eb-8ef2-aa1913ae93c6.png)
