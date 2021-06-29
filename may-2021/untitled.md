@@ -4,7 +4,7 @@ description: For the month of May 2021
 
 # Swarm Sessions - May 2021
 
-## Saturday, 29th May
+## Saturday, 29th May 2021
 
 ### Proposer Circle
 
