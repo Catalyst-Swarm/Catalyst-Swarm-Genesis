@@ -30,7 +30,11 @@ Discussion about the user experience of the Ideascale Problem Sensing section an
 
 {% embed url="https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session" %}
 
+### Session  DAO Circle
 
+{% embed url="https://www.youtube.com/watch?v=vlBAqOKLwK0&t=2464s" %}
+
+Sharing knowledge and thoughts about the concept of a DAO
 
 ## Saturday 26th June 2021
 
