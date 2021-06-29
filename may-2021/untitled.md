@@ -16,6 +16,18 @@ Discussion with Fund 5 Proposers: No-Code for Africa, PlayerMint NFTs for Gamers
 
 {% embed url="https://miro.com/app/board/o9J\_lCxjUV..." %}
 
+### Community Adviser Circle
+
+{% embed url="https://www.youtube.com/watch?v=z0QiXc1Tsow&t=1814s" %}
+
+CA Circle - Swarm Session \#1 - 29/05/2021 Brainstorming around the CA/Catalyst School. 
+
+#### Link to this Circle on the previous Miro board:
+
+{% embed url="https://miro.com/app/board/o9J\_lCxjUV..." %}
+
+
+
 ### Session Feedback
 
 {% embed url="https://www.youtube.com/watch?v=D5mFxtuaFTE&t=1057s" %}
