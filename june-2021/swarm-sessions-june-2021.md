@@ -26,6 +26,10 @@ Discussion about the user experience of the Ideascale Problem Sensing section an
 
 {% embed url="https://miro.com/app/board/o9J\_l-K92IU=/" %}
 
+#### GitHub Repository for this session
+
+{% embed url="https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session" %}
+
 
 
 ## Swarm - Saturday 26.06.2021
