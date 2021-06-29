@@ -48,5 +48,51 @@ description: After Town Hall Swarms
 
 ## June 23rd, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
+
+
+
+
+
+### Chapters: [0:00](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=0s)
+
+#### Welcome [2:24](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=144s)
+
+#### Introduction to Spanish live translation [5:31](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=331s)
+
+#### Fund4 timeline recap & updates [7:25](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=445s)
+
+#### Fund5 timeline update [8:38](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=518s)
+
+#### Introducing Catalyst Circle V1 [14:42](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=882s)
+
+#### Where to start [16:16](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=976s)
+
+#### Essential functional pieces [19:37](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1177s)
+
+#### Definition and goals [22:38](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1358s)
+
+#### Functions and success metrics [25:19](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1519s)
+
+#### Budget [26:16](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1576s)
+
+#### Authority & roles [28:43](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1723s)
+
+#### Timeline [30:08](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1808s)
+
+#### Election protocol - voter [31:52](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=1912s)
+
+#### Election protocol - candidate [34:47](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=2087s)
+
+#### Fund4 ballot update [35:48](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=2148s)
+
+#### Next town hall call to register [36:32](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=2192s)
+
+#### Links & resources [37:06](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=2226s)
+
+#### After town hall open space moderated by Catalyst Swarm [51:13](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=3073s)
+
+#### Closing notes
+
 
 
