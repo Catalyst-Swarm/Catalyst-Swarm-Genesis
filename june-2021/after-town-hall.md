@@ -50,9 +50,13 @@ description: After Town Hall Swarms
 
 {% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
 
+###  Presentation slides
 
+{% embed url="https://bit.ly/2UwyJeB" %}
 
+### Tweet recap:
 
+{% embed url="https://bit.ly/3zTYsxS" %}
 
 ### Chapters: [0:00](https://www.youtube.com/watch?v=YRxEKtpoL2o&t=0s)
 
