@@ -14,7 +14,7 @@ description: For the month of June 2021
 
 ### Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" %}
+{% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" caption="Miro Board" %}
 
 ## Swarm - Saturday 26.06.2021
 
