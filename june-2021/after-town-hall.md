@@ -2,7 +2,7 @@
 description: After Town Hall Swarms
 ---
 
-# Project Catalyst Town Halls - June 2021
+# Catalyst Town Halls - June 2021
 
 ## June 16th, Town Hall
 
