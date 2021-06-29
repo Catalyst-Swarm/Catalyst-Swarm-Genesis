@@ -14,7 +14,9 @@ description: Platforms that Catalyst Swarm uses
 
 ![Catalyst Swarm Twitter](https://user-images.githubusercontent.com/25156451/123838126-89811700-d903-11eb-9615-712ac4aab4f3.png)
 
-
-
 ## Youtube - Catalyst Swarm 
+
+{% embed url="https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w" %}
+
+
 
