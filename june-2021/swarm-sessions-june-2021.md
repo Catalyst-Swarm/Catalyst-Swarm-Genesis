@@ -16,6 +16,12 @@ description: For the month of June 2021
 
 {% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" caption="Miro Board" %}
 
+### Session : Organizing Ideascale Problem Sensing Ideas
+
+{% embed url="https://www.youtube.com/watch?v=A6iEfcKM6Hw&t=1212s" %}
+
+Discussion about the user experience of the Ideascale Problem Sensing section and how could we can improve it.
+
 ## Swarm - Saturday 26.06.2021
 
 ![Dominik Tilman Announcement](https://user-images.githubusercontent.com/25156451/123558802-199e4f80-d790-11eb-8ef2-aa1913ae93c6.png)
