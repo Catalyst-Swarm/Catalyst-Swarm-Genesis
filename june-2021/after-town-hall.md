@@ -1,5 +1,5 @@
 ---
-description: Town Halls for the month of June
+description: For the month of June 2021
 ---
 
 # Catalyst Town Halls - June 2021
