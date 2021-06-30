@@ -1,5 +1,8 @@
 # Swarm Sessions - April 2021
 
+![2021-06-30 (6)](https://user-images.githubusercontent.com/25156451/123982821-41253000-d9bb-11eb-8b06-89d4043471d6.png)
+
+
 {% embed url="https://swarmsessions.com/" %}
 
 ## 07/04/21 - Swarm Session 03
