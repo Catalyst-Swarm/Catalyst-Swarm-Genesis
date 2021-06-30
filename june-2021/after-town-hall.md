@@ -110,11 +110,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 {% embed url="https://bit.ly/3dtYLWt" %}
 
-
-
-
-
-###  Timestamps: [00:00:00](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=0s) 
+### Timestamps: [00:00:00](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=0s) 
 
 #### Welcome message from Dor [00:01:53](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=113s) 
 
