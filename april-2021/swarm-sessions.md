@@ -4,6 +4,8 @@
 
 ![Niels Kijf](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
 
+Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
+
 {% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829257845773565982" %}
 
 ## 17/04/21 - Community Advisor Swarm.
