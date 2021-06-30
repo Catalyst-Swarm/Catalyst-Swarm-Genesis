@@ -20,15 +20,22 @@ Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
 ![Niels Kijf- Swarm Sessions 04](https://user-images.githubusercontent.com/25156451/123988006-8cd9d880-d9bf-11eb-921d-8d4a9098e4fb.png)
 
-{% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829617375015206933" %}
+Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
+
+{% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829617375015206933" caption="" %}
 
 ### Swarm Sessions 04 - miro board
 
 {% embed url="https://miro.com/app/board/o9J\_lLKcuEE=/" caption="Swarm Sessions 04 - miro board" %}
 
-## 13/04/21 - Swarm Sessions 05
+## 13/04/21 - Swarm Session 05
 
-![2021-06-30 (8)](https://user-images.githubusercontent.com/25156451/123989707-0faf6300-d9c1-11eb-8249-dc5e5ccb5aa1.png)
+![Niels Kijf - Swarm Session 05](https://user-images.githubusercontent.com/25156451/123989707-0faf6300-d9c1-11eb-8249-dc5e5ccb5aa1.png)
+
+Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
+
+{% embed url="https://discord.com/channels/826440208924016670/828988109973749840/831593083438628894" %}
+
 
 
 
