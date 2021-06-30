@@ -1,10 +1,12 @@
 # Swarm Sessions - April 2021
 
-## 07/04/21
+## 07/04/21 - Swarm Session 03
 
-![2021-06-30 (4)](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
+![Niels Kijf\)](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
 
-https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215
+{% embed url="https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215" %}
+
+
 
 ## 17/04/21 - Community Advisor Swarm.
 
@@ -45,6 +47,4 @@ Link back to Discord context - Catalyst Swarm & Sessions - Welcome - general
 ![Notice from Felix - Swarm Session - Hive Edition](https://user-images.githubusercontent.com/25156451/123557769-be1d9300-d78a-11eb-9f9d-544182cce370.png)
 
 ![Notice from Felix - Swarm Session - Hive Edition](https://user-images.githubusercontent.com/25156451/123557777-c544a100-d78a-11eb-9a45-bb3f0cf4c9db.png)
-
-
 
