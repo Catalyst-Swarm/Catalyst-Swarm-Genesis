@@ -100,6 +100,8 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" %}
 
+#### raghuram withdrawal and nomination of Victor
+
 
 
 ### Voter Nominations
