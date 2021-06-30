@@ -98,5 +98,35 @@ description: After Town Hall Swarms
 
 #### Closing notes
 
+## June 30th, Town Hall
+
+Project Catalyst Town Hall \#14A
+
+{% embed url="https://www.youtube.com/watch?v=i-JgWFOjeX8" %}
+
+
+
+####  Timestamps: [00:00:00](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=0s) 
+
+#### Welcome message from Dor [00:01:53](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=113s) 
+
+#### Introduction from Josiah Odosu - Igbo language translator [00:04:13](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=253s) 
+
+#### Welcome message & Spoca presentation from Ron Hill [00:16:28](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=988s) 
+
+#### When results for fund4? [00:19:13](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=1153s) 
+
+#### Fund5 timeline [00:20:43](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=1243s) 
+
+#### Ideafest presentation by Jacob Dickhaut [00:23:40](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=1420s) 
+
+#### Catalyst Circle overview & election instructions [00:43:38](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=2618s) 
+
+#### Break out rooms
+
+
+
+
+
 
 
