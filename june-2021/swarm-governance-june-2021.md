@@ -102,6 +102,9 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 #### raghuram withdrawal and nomination of Victor
 
+![2021-06-30](https://user-images.githubusercontent.com/25156451/123968112-dbcb4200-d9ae-11eb-8214-2d4e66a382be.png)
+
+
 
 
 ### Voter Nominations
