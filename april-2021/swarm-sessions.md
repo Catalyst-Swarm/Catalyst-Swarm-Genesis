@@ -36,6 +36,12 @@ Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
 {% embed url="https://discord.com/channels/826440208924016670/828988109973749840/831593083438628894" %}
 
+### Swarm Session 05 - miro board
+
+{% embed url="https://miro.com/app/board/o9J\_lLJueVw=/" %}
+
+
+
 ## 17/04/21 - Community Advisor Swarm.
 
 Saturday, 17th April 2021
