@@ -1,5 +1,11 @@
 # Swarm Sessions - April 2021
 
+## 07/04/21
+
+![2021-06-30 (4)](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
+
+https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215
+
 ## 17/04/21 - Community Advisor Swarm.
 
 Saturday, 17th April 2021
