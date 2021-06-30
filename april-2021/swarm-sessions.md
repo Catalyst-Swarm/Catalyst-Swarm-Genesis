@@ -1,3 +1,7 @@
+---
+description: For the month of April 2021
+---
+
 # Swarm Sessions - April 2021
 
 ## 07/04/21 - Swarm Sessions 01, 02 and 03
