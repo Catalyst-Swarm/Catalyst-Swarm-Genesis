@@ -98,12 +98,15 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" caption="" %}
 
 #### raghuram withdrawal and nomination of Victor
 
-![2021-06-30](https://user-images.githubusercontent.com/25156451/123968112-dbcb4200-d9ae-11eb-8214-2d4e66a382be.png)
+![raghuram withdrawal and nomination of Victor](https://user-images.githubusercontent.com/25156451/123968112-dbcb4200-d9ae-11eb-8214-2d4e66a382be.png)
 
+Link to Discord context on Catalyst Swarm & Sessions
+
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859770507271864340" %}
 
 
 
