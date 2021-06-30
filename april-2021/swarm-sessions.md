@@ -1,15 +1,10 @@
 # Swarm Sessions - April 2021
 
-![2021-06-30 (6)](https://user-images.githubusercontent.com/25156451/123982821-41253000-d9bb-11eb-8b06-89d4043471d6.png)
-
-
-{% embed url="https://swarmsessions.com/" %}
-
-## 07/04/21 - Swarm Session 03
+## 07/04/21 - Swarm Sessions 01, 02 and 03
 
 ![Niels Kijf\)](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
 
-{% embed url="https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215" %}
+{% embed url="https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215" caption="" %}
 
 ## 17/04/21 - Community Advisor Swarm.
 
