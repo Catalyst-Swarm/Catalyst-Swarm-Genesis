@@ -104,7 +104,7 @@ Project Catalyst Town Hall \#14A
 
 {% embed url="https://www.youtube.com/watch?v=i-JgWFOjeX8" %}
 
-
+Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and rest of the community for our weekly Catalyst update.
 
 ####  Timestamps: [00:00:00](https://www.youtube.com/watch?v=i-JgWFOjeX8&t=0s) 
 
