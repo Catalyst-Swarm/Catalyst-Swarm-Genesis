@@ -6,17 +6,15 @@ description: For the month of April 2021
 
 ## 07/04/21 - Swarm Sessions 01, 02 and 03
 
-![2021-06-30 (6)](https://user-images.githubusercontent.com/25156451/123984698-c230f700-d9bc-11eb-98a0-d3b6de2216fa.png)
+![Niels Kijf- Swarm Sessions 01, 02 and 03](https://user-images.githubusercontent.com/25156451/123984698-c230f700-d9bc-11eb-98a0-d3b6de2216fa.png)
 
 Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
-{% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829257845773565982" %}
+{% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829257845773565982" caption="" %}
 
 ### Swarm Session - 01 miro-board
 
-{% embed url="https://miro.com/app/board/o9J\_lLl1k60=/" %}
-
-
+{% embed url="https://miro.com/app/board/o9J\_lLl1k60=/" caption="" %}
 
 ## 17/04/21 - Community Advisor Swarm.
 
