@@ -12,7 +12,7 @@ Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
 {% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829257845773565982" caption="" %}
 
-### Swarm Session - 01 miro-board
+### Swarm Session 01 - miro-board
 
 {% embed url="https://miro.com/app/board/o9J\_lLl1k60=/" caption="" %}
 
@@ -21,6 +21,8 @@ Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 ![Niels Kijf- Swarm Sessions 04](https://user-images.githubusercontent.com/25156451/123988006-8cd9d880-d9bf-11eb-921d-8d4a9098e4fb.png)
 
 {% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829617375015206933" %}
+
+### Swarm Sessions 04 - miro board
 
 
 
