@@ -6,7 +6,7 @@ description: For the month of April 2021
 
 ## 07/04/21 - Swarm Sessions 01, 02 and 03
 
-![Niels Kijf](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
+![2021-06-30 (6)](https://user-images.githubusercontent.com/25156451/123984698-c230f700-d9bc-11eb-98a0-d3b6de2216fa.png)
 
 Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
