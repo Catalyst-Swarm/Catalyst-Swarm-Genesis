@@ -1,5 +1,5 @@
 ---
-description: After Town Hall Swarms
+description: Town Halls for the month of June
 ---
 
 # Catalyst Town Halls - June 2021
