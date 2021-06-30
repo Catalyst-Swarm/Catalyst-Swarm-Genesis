@@ -28,6 +28,9 @@ Link back to Discord context - Swarm Sessions \(Discord\) - Create - miro-boards
 
 ## 13/04/21 - Swarm Sessions 05
 
+![2021-06-30 (8)](https://user-images.githubusercontent.com/25156451/123989707-0faf6300-d9c1-11eb-8249-dc5e5ccb5aa1.png)
+
+
 
 
 ## 17/04/21 - Community Advisor Swarm.
