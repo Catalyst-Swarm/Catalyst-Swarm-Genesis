@@ -2,9 +2,9 @@
 
 ## 07/04/21 - Swarm Sessions 01, 02 and 03
 
-![Niels Kijf\)](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
+![Niels Kijf](https://user-images.githubusercontent.com/25156451/123980696-a6782180-d9b9-11eb-8a84-c9c5d8e748ce.png)
 
-{% embed url="https://discordapp.com/channels/826440208924016670/826440208924016673/829238446580957215" caption="" %}
+{% embed url="https://discordapp.com/channels/826440208924016670/828988109973749840/829257845773565982" %}
 
 ## 17/04/21 - Community Advisor Swarm.
 
