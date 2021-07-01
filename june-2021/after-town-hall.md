@@ -128,7 +128,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 #### Break out rooms
 
-## Catalyst Circle Voting - Stake Pool Operator Room Recount
+### Catalyst Circle Voting - Stake Pool Operator Room Recount
 
 {% embed url="https://docs.google.com/document/d/1Lwn6-7yphYBjGDSg80eXgCuCMyKW7S1zEcPvG3rdHhk/edit" %}
 
