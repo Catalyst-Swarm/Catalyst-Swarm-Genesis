@@ -6,7 +6,7 @@
 
 ## July 2021
 
-* [Untitled](july-2021/untitled.md)
+* [Catalyst Town Halls - July 2021](july-2021/untitled.md)
 
 ## June 2021
 
