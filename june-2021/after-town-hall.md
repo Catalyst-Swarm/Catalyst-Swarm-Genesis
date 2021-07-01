@@ -100,7 +100,7 @@ description: For the month of June 2021
 
 ## June 30th, Town Hall
 
-Project Catalyst Town Hall \#14A
+### Project Catalyst Town Hall \#14A
 
 {% embed url="https://www.youtube.com/watch?v=i-JgWFOjeX8" %}
 
