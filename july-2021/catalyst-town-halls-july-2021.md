@@ -6,7 +6,7 @@ description: For the month of July 2021
 
 ## July 1st Town Hall
 
-Project Catalyst Town Hall \#14B
+### Project Catalyst Town Hall \#14B
 
 A recording of June 30th, Town Hall for Eastern Hemisphere Timezones.
 
