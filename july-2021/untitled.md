@@ -4,5 +4,15 @@ description: For the month of July 2021
 
 # Catalyst Town Halls - July 2021
 
-## Project Catalyst Town Hall \#14B
+## July 1st Town Hall
+
+Project Catalyst Town Hall \#14B
+
+A recording of
+
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/june-2021/after-town-hall\#june-30th-town-hall" %}
+
+for Eastern Hemisphere Timezones.
+
+
 
