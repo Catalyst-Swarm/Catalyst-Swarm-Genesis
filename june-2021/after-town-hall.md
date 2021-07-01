@@ -132,7 +132,9 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 ### Catalyst Circle Voting - Stake Pool Operator Room Recount
 
-Ron Hill \([https://members.spocra.io/feed](https://members.spocra.io/feed)\)
+#### Ron Hill
+
+{% embed url="https://members.spocra.io/feed" %}
 
 {% embed url="https://docs.google.com/document/d/1Lwn6-7yphYBjGDSg80eXgCuCMyKW7S1zEcPvG3rdHhk/edit" %}
 
