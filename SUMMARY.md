@@ -16,6 +16,7 @@
 * [Catalyst Town Halls - June 2021](june-2021/after-town-hall.md)
 * [Swarm Sessions - June 2021](june-2021/swarm-sessions-june-2021.md)
 * [Swarm Governance - June 2021](june-2021/swarm-governance-june-2021.md)
+* [Catalyst Community - June 2021](june-2021/catalyst-community-june-2021.md)
 * [Governance Alive - June 2021](june-2021/governance-alive-june-2021.md)
 
 ## May 2021
