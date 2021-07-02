@@ -32,6 +32,11 @@ description: Notable Catalyst Community events in July
 
 ![8](https://user-images.githubusercontent.com/25156451/124305727-5fc32c80-db5d-11eb-88a0-b30187bb8959.png)
 
+## Fund 6 - Challenge Setting
+
+![9](https://user-images.githubusercontent.com/25156451/124305897-9ac56000-db5d-11eb-90df-08ca46949475.png)
+
+
 
 
 
