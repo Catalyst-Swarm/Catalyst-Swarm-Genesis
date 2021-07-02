@@ -16,7 +16,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/860065719851941910/860068303825666078" caption="" %}
 
-### 1st July - Project Catalyst Discord Server
+### Project Catalyst Discord Server
 
 ![Project Catalyst Discord Server](https://user-images.githubusercontent.com/25156451/124178932-fcc48d80-daa9-11eb-96db-74f2b33a1cdf.png)
 
