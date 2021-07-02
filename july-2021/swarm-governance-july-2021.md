@@ -34,7 +34,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ### Catalyst Circle Results
 
-{% embed url="https://t.me/cardanocatalyst/277?single" caption="" %}
+{% embed url="https://t.me/cardanocatalyst/277?single" caption="Telegram Announcement" %}
 
 #### Circle-results
 
