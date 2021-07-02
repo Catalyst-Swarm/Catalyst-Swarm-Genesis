@@ -1,3 +1,7 @@
+---
+description: Notable Catalyst Community events in June
+---
+
 # Catalyst Community - June 2021
 
 ## Community Recognition \| Cardano Stake Pool Operators \(SPOCRA\) -  June 2021
