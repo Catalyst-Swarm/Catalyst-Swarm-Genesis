@@ -4,7 +4,7 @@ description: Swarm Governance for the month of July 2021
 
 # Swarm Governance July 2021
 
-## The start of hemisphere discussions
+## 1st July - The start of hemisphere discussions
 
 ### 1st July - Catalyst Swarm & Sessions Discord Server
 
@@ -20,13 +20,17 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/756943420660121600/860083438823407636/860085570479063061" caption="" %}
 
-### 2nd July - Lets speak about new timezone Formats for Catalyst Events
+## 2nd July - Lets speak about new timezone Formats for Catalyst Events
 
 ![Lets speak about new timezone Formats for Catalyst Events](https://user-images.githubusercontent.com/25156451/124260874-199fa600-db28-11eb-95fd-37dfbe24dd6d.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/860428676567269398" %}
+
+### 2nd July, Catalyst Circle Results
+
+{% embed url="https://t.me/cardanocatalyst/277?single" %}
 
 
 
