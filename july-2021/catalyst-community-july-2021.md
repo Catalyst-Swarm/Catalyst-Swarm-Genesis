@@ -44,3 +44,10 @@ description: Notable Catalyst Community events in July
 
 ![11](https://user-images.githubusercontent.com/25156451/124317978-e54fd800-db6f-11eb-9ef5-413c675d62af.png)
 
+### Challenge : DAPP & Integrations
+
+![12](https://user-images.githubusercontent.com/25156451/124318391-7de65800-db70-11eb-8396-21693ee32b48.png)
+
+
+
+
