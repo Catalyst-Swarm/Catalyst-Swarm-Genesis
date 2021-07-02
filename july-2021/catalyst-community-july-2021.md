@@ -1,10 +1,8 @@
 ---
-description: Notable Catalyst Community events in July
+description: Fund 4 voting results
 ---
 
-# Catalyst Community - July 2021
-
-## Fund 4 voting results
+# Catalyst Fund 4 voting results - July 2021
 
 ![1](https://user-images.githubusercontent.com/25156451/124302146-b0845680-db58-11eb-818b-a892c61861d2.png)
 
@@ -71,8 +69,4 @@ description: Notable Catalyst Community events in July
 ![23](https://user-images.githubusercontent.com/25156451/124327533-f7d20d80-db7f-11eb-9dfb-0988a09cb74e.png)
 
 ![24](https://user-images.githubusercontent.com/25156451/124328713-10432780-db82-11eb-8b04-44bc8d1e16a8.png)
-
-
-
-
 
