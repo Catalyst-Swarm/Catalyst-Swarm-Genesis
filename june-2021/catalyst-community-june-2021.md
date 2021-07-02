@@ -18,5 +18,9 @@ description: Notable Catalyst Community events in June
 
 [https://www.swarm4catalyst.com/](https://www.swarm4catalyst.com/)
 
+### Lucio Coire - [04:37](https://youtu.be/G40Vd65dpz4?t=277)
+
+
+
 
 
