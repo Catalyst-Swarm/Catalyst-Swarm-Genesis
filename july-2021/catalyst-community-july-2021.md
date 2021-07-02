@@ -20,4 +20,9 @@ description: Notable Catalyst Community events in July
 
 ![5](https://user-images.githubusercontent.com/25156451/124303374-48cf0b00-db5a-11eb-9876-bca31e2ff344.png)
 
+## Distributed Decision-making
+
+![6](https://user-images.githubusercontent.com/25156451/124305193-a9f7de00-db5c-11eb-90a9-8d8cde504ad6.png)
+
+
 
