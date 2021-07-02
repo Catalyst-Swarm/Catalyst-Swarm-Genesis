@@ -6,11 +6,11 @@ description: Notable Catalyst Community events in June
 
 ## Community Recognition \| Cardano Stake Pool Operators \(SPOCRA\) -  June 2021
 
-{% embed url="https://www.youtube.com/watch?v=G40Vd65dpz4" %}
+{% embed url="https://www.youtube.com/watch?v=G40Vd65dpz4" caption="" %}
 
-Ahmed Oladele - [02:58](https://youtu.be/G40Vd65dpz4?t=178)
+### Ahmed Oladele - [02:58](https://youtu.be/G40Vd65dpz4?t=178)
 
-https://www.ankachain.com/index.html
+{% embed url="https://www.ankachain.com/index.html" %}
 
 
 
