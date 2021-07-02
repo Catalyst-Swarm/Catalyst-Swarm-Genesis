@@ -30,18 +30,17 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/860428676567269398" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/860428676567269398" caption="" %}
 
 ### Catalyst Circle Results
 
-{% embed url="https://t.me/cardanocatalyst/277?single" %}
+{% embed url="https://t.me/cardanocatalyst/277?single" caption="" %}
+
+#### Circle-results
 
 ![Circle-results](https://user-images.githubusercontent.com/25156451/124263724-86686f80-db2b-11eb-940c-4d4cb1c27b9c.jpg)
 
-
 #### Town Hall Elections Recordings
 
-{% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" %}
-
-
+{% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" caption="" %}
 
