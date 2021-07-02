@@ -40,4 +40,9 @@ description: Notable Catalyst Community events in July
 
 ![10](https://user-images.githubusercontent.com/25156451/124306642-9483b380-db5e-11eb-930f-b30301fbba9c.png)
 
+### Fund 4 voting results in detail
+
+![11](https://user-images.githubusercontent.com/25156451/124317978-e54fd800-db6f-11eb-9ef5-413c675d62af.png)
+
+
 
