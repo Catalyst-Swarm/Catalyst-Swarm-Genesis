@@ -34,5 +34,5 @@ Veteran Community Advisor
 
 ### Victor Corsini - [05:49](https://youtu.be/G40Vd65dpz4?t=349)
 
-Community Advisor, Catalyst School, Swarm Core Team
+Community Advisor, Catalyst School, Swarm Core Team, Catalyst Alliance
 
