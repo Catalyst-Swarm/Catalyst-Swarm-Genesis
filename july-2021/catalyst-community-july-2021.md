@@ -36,3 +36,8 @@ description: Notable Catalyst Community events in July
 
 ![9](https://user-images.githubusercontent.com/25156451/124305897-9ac56000-db5d-11eb-90df-08ca46949475.png)
 
+### Leftover Funds Allocation
+
+![10](https://user-images.githubusercontent.com/25156451/124306642-9483b380-db5e-11eb-930f-b30301fbba9c.png)
+
+
