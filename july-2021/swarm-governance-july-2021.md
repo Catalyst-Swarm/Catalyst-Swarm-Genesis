@@ -36,8 +36,6 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 {% embed url="https://t.me/cardanocatalyst/277?single" %}
 
-
-
 #### Town Hall Elections Recordings
 
 {% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" %}
