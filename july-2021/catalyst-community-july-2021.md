@@ -58,6 +58,9 @@ description: Notable Catalyst Community events in July
 
 ![17](https://user-images.githubusercontent.com/25156451/124322580-986fff80-db77-11eb-8d40-944030568d83.png)
 
+![18](https://user-images.githubusercontent.com/25156451/124322949-4ed3e480-db78-11eb-8ec7-323c4ba25d33.png)
+
+
 
 
 
