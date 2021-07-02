@@ -14,5 +14,5 @@ description: Details of the Catalyst Circle Election Results
 
 ### Town Hall Elections Recordings
 
-{% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" caption="" %}
+{% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" caption="Town Hall Elections Recordings" %}
 
