@@ -2,7 +2,7 @@
 description: Details of the Catalyst Circle Election Results
 ---
 
-# Catalyst Circle Election Results
+# Catalyst Circle Election Results - July 2021
 
 ## Catalyst Circle Results
 
