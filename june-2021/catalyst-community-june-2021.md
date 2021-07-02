@@ -12,7 +12,7 @@ description: Notable Catalyst Community events in June
 
 {% embed url="https://www.ankachain.com/index.html" %}
 
-### Felix Weber - [02:58](https://youtu.be/G40Vd65dpz4?t=237)
+### Felix Weber - [03:58](https://youtu.be/G40Vd65dpz4?t=237)
 
 https://www.swarm4catalyst.com/
 
