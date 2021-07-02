@@ -1,8 +1,8 @@
 ---
-description: Circle Election Results
+description: Details of the Catalyst Circle Election Results
 ---
 
-# Circle Election Results
+# Catalyst Circle Election Results
 
 ## Catalyst Circle Results
 
