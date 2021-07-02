@@ -14,15 +14,15 @@ description: Details of the Catalyst Circle Election Results
 
 ### Community Advisor results \(CA\)
 
-![CA-Voting-Graphic](https://user-images.githubusercontent.com/25156451/124265517-b0229600-db2d-11eb-9f20-5c7325f3f5dc.jpg)
+![Community Advisor results graphic](https://user-images.githubusercontent.com/25156451/124265517-b0229600-db2d-11eb-9f20-5c7325f3f5dc.jpg)
 
 ### Stakepool Operator results \(SPO\)
 
-![SPO-Voting-Graphic](https://user-images.githubusercontent.com/25156451/124265589-cb8da100-db2d-11eb-80ed-6f3edc829edc.jpg)
+![Stakepool Operator results graphic](https://user-images.githubusercontent.com/25156451/124265589-cb8da100-db2d-11eb-80ed-6f3edc829edc.jpg)
 
 ### Toolmaker and Maintainer results
 
-![Toolmaker-Graphic](https://user-images.githubusercontent.com/25156451/124265635-dc3e1700-db2d-11eb-85bf-e6053a723ec6.jpg)
+![Toolmaker and maintainer results graphic](https://user-images.githubusercontent.com/25156451/124265635-dc3e1700-db2d-11eb-85bf-e6053a723ec6.jpg)
 
 ## Town Hall Elections Recordings
 
