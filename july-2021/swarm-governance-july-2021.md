@@ -4,7 +4,9 @@ description: Swarm Governance for the month of July 2021
 
 # Swarm Governance July 2021
 
-## 1st July - The start of hemisphere discussions
+## 1st July 2021
+
+### The start of hemisphere discussions
 
 ### 1st July - Catalyst Swarm & Sessions Discord Server
 
