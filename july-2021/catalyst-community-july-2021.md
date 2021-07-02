@@ -8,11 +8,13 @@ description: Notable Catalyst Community events in July
 
 ![1](https://user-images.githubusercontent.com/25156451/124302146-b0845680-db58-11eb-818b-a892c61861d2.png)
 
+## Dapp & Integrations
+
 ![2](https://user-images.githubusercontent.com/25156451/124302588-50da7b00-db59-11eb-8746-148659c22e20.png)
+
+## Developer Ecosystem
 
 ![3](https://user-images.githubusercontent.com/25156451/124302830-97c87080-db59-11eb-9f30-a1b40835a1d2.png)
 
 ![4](https://user-images.githubusercontent.com/25156451/124303012-d4946780-db59-11eb-8232-3fedfdea4cdb.png)
-
-
 
