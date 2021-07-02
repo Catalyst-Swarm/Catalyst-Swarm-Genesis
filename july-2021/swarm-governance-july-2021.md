@@ -8,7 +8,7 @@ description: Swarm Governance for the month of July 2021
 
 ### The start of hemisphere discussions
 
-### 1st July - Catalyst Swarm & Sessions Discord Server
+### Catalyst Swarm & Sessions Discord Server
 
 ![The start of hemisphere discussions](https://user-images.githubusercontent.com/25156451/124162622-8ec29b00-da96-11eb-90d7-4ec46dd4c48e.png)
 
