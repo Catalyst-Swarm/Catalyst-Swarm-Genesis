@@ -22,3 +22,7 @@ In chronological order
 
 Catalyst Alliance
 
+### Rodrigo Pacini - [05:26](https://youtu.be/G40Vd65dpz4?t=326)
+
+https://twitter.com/rodrigopacini
+
