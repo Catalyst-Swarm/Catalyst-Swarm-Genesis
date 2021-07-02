@@ -40,7 +40,8 @@ gimbalabs, Swarm, Catalyst Alliance
 ### Phil K - [08:04](https://youtu.be/G40Vd65dpz4?t=486)
 Community Landing Page, Community Advisor
 
-
+### Mercy - [08:40](https://youtu.be/G40Vd65dpz4?t=520)
+https://wadalliance.org/
 
 
 
