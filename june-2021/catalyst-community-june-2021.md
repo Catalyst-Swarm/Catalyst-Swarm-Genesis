@@ -37,7 +37,7 @@ Retired Community Manager
 ### Tevo Saks - [07:04](https://youtu.be/G40Vd65dpz4?t=424)
 gimbalabs, Swarm, Catalyst Alliance
 
-### Phil K - [07:04](https://youtu.be/G40Vd65dpz4?t=486)
+### Phil K - [08:04](https://youtu.be/G40Vd65dpz4?t=486)
 Community Landing Page, Community Advisor
 
 
