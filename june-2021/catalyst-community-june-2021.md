@@ -10,11 +10,13 @@ description: Notable Catalyst Community events in June
 
 ### Ahmed Oladele - [02:58](https://youtu.be/G40Vd65dpz4?t=178)
 
-{% embed url="https://www.ankachain.com/index.html" %}
+{% embed url="https://www.ankachain.com/index.html" caption="" %}
 
 ### Felix Weber - [03:58](https://youtu.be/G40Vd65dpz4?t=237)
 
-https://www.swarm4catalyst.com/
+{% embed url="https://www.swarm4catalyst.com/" %}
+
+[https://www.swarm4catalyst.com/](https://www.swarm4catalyst.com/)
 
 
 
