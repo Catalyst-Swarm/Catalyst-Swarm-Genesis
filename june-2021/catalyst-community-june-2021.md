@@ -24,10 +24,7 @@ Catalyst Alliance
 
 ### Rodrigo Pacini - [05:26](https://youtu.be/G40Vd65dpz4?t=326)
 
-
-(https://user-images.githubusercontent.com/25156451/124286138-8cb81500-db46-11eb-86ce-472385741f87.png)(https://twitter.com/rodrigopacini)
-
-![2021-07-02 (1)](https://user-images.githubusercontent.com/25156451/124286138-8cb81500-db46-11eb-86ce-472385741f87.png)(https://twitter.com/rodrigopacini)
+[![2021-07-02 (1)](https://user-images.githubusercontent.com/25156451/124286138-8cb81500-db46-11eb-86ce-472385741f87.png)(https://twitter.com/rodrigopacini)
 
 
 
