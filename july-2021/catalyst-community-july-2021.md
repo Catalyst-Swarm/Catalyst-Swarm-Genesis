@@ -24,9 +24,14 @@ description: Notable Catalyst Community events in July
 
 ![6](https://user-images.githubusercontent.com/25156451/124305193-a9f7de00-db5c-11eb-90a9-8d8cde504ad6.png)
 
-## Proposer outreach
+## Proposer Outreach
 
 ![7](https://user-images.githubusercontent.com/25156451/124305500-17a40a00-db5d-11eb-914c-9c271eecd061.png)
+
+## Catalyst Value On-Boarding
+
+![8](https://user-images.githubusercontent.com/25156451/124305727-5fc32c80-db5d-11eb-88a0-b30187bb8959.png)
+
 
 
 
