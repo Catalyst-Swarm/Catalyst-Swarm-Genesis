@@ -50,17 +50,11 @@ Community Landing Page, Community Advisor
 
 ### Mercy - [08:40](https://youtu.be/G40Vd65dpz4?t=520)
 
-{% embed url="https://wadalliance.org/" %}
+{% embed url="https://wadalliance.org/" caption="" %}
 
 ### Quasar - [09:20](https://youtu.be/G40Vd65dpz4?t=560)
+
 Deryk - for tirelessly sticking his nose in places it may not belong.
 
 ### Rene M - [09:57](https://youtu.be/G40Vd65dpz4?t=597)
-
-
-
-
-
-
-
 
