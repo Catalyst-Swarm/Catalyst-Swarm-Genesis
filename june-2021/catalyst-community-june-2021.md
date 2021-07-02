@@ -12,9 +12,13 @@ In chronological order
 
 ### Ahmed Oladele - [02:58](https://youtu.be/G40Vd65dpz4?t=178)
 
+Ankachain Stakepool Operator
+
 {% embed url="https://www.ankachain.com/index.html" caption="" %}
 
 ### Felix Weber - [03:58](https://youtu.be/G40Vd65dpz4?t=237)
+
+Catalyst Swarm
 
 {% embed url="https://www.swarm4catalyst.com/" caption="" %}
 
