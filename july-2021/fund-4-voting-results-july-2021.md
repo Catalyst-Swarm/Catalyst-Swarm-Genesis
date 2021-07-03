@@ -1,4 +1,3 @@
-![44](https://user-images.githubusercontent.com/25156451/124355883-598b8980-dc0b-11eb-81a0-857214b31860.png)
 ---
 description: Fund 4 voting results
 ---
