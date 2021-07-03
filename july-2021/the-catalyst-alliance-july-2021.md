@@ -70,5 +70,13 @@ How many voters are from community. How many whales decides what happens?
 
 Maybe there is correlation in the worst performed funds? see how much ADA voted against.
 
+### Ideafest
+
+With the help of the Catalyst community we will experiment with a stage for all the proposers to present themselves.
+
+What are effective marketing efforts?
+
+How much do Community Advisor ratings and voting ratings correlate ?
+
 
 
