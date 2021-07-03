@@ -38,7 +38,9 @@ If we lay down measurements then we can align on a track record, we can perhaps 
 
 {% embed url="https://sourcecred.io/" %}
 
+Either for Github or Discord.
 
+But we can start seeing how it will work on Discord.
 
   
 
