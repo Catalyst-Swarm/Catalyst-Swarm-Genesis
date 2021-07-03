@@ -58,11 +58,13 @@ How we could give Gimbalabs the Solidarity the need?
 
 There was a discussion of changing the fund rewarding system. The possibility that proposers could discuss between themselves allocation if proposals are skipped. That budget cuts could be allowed to achieve funding.
 
+![Tier based system](https://user-images.githubusercontent.com/25156451/124367726-caee2b00-dc51-11eb-9e9e-eb9191406411.png)
+
 Connect with James if his interested alternative funding methods
 
 Connect with Rik \(Digital Fortress\) and see if we can run similar campaign like we did for WADA. Community can have powerful message to get behind an idea in public matter
 
-#### 
+
 
 
 
