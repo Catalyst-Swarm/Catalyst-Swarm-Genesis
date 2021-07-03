@@ -56,13 +56,15 @@ We should think out of the box every time - Vladimir
 
 How we could give Gimbalabs the Solidarity the need?
 
-Discussion of changing the rewarding systems
-
-A discussion session between proposers if there is a skip.
-
-Maybe some budget cuts are allowed
+There was a discussion of changing the fund rewarding system. The possibility that proposers could discuss between themselves allocation if proposals are skipped. That budget cuts could be allowed to achieve funding.
 
 Connect with James if his interested alternative funding methods
+
+Connect with Rik \(Digital Fortress\) and see if we can run similar campaign like we did for WADA. Community can have powerful message to get behind an idea in public matter
+
+#### 
+
+
 
   
 
