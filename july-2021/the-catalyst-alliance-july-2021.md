@@ -56,6 +56,14 @@ We should think out of the box every time - Vladimir
 
 How we could give Gimbalabs the Solidarity the need?
 
+Discussion of changing the rewarding systems
+
+A discussion session between proposers if there is a skip.
+
+Maybe some budget cuts are allowed
+
+Connect with James if his interested alternative funding methods
+
   
 
 
