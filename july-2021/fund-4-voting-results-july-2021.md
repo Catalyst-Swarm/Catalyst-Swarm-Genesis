@@ -104,4 +104,5 @@ description: Fund 4 voting results
 
 ![39](https://user-images.githubusercontent.com/25156451/124355401-d36e4380-dc08-11eb-95f6-a17cb334087f.png)
 
+![40](https://user-images.githubusercontent.com/25156451/124355443-13352b00-dc09-11eb-83e7-18babd92f305.png)
 
