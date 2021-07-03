@@ -52,6 +52,10 @@ Congrats to Fund 4 winners
 
 We should think out of the box every time - Vladimir
 
+#### Gimbalabs Solidarity 
+
+How we could give Gimbalabs the Solidarity the need?
+
   
 
 
