@@ -76,7 +76,11 @@ With the help of the Catalyst community we will experiment with a stage for all 
 
 What are effective marketing efforts?
 
-How much do Community Advisor ratings and voting ratings correlate ?
+How much do Community Advisor ratings and voting ratings correlate ? \(Victor on it\).
+
+### What is the core purpose of the Alliance ?
+
+
 
 
 
