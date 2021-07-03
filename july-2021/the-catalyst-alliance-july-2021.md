@@ -4,6 +4,8 @@ description: For the month of July 2021
 
 # The Catalyst Alliance - July 2021
 
+The Catalyst Alliance are an informal group that came together in mid-May to discuss common concerns. They comprise communities within Catalyst such as the Israel community, the Vietnamese community WADA, Community Advisors, SPOCRA \(Stake Pools\), the Swarm and some funded proposals. 
+
 ## Meeting of 3rd, July 2021
 
 ### Agenda
