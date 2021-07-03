@@ -1,3 +1,4 @@
+![44](https://user-images.githubusercontent.com/25156451/124355883-598b8980-dc0b-11eb-81a0-857214b31860.png)
 ---
 description: Fund 4 voting results
 ---
@@ -111,6 +112,8 @@ description: Fund 4 voting results
 ![41](https://user-images.githubusercontent.com/25156451/124355481-4f688b80-dc09-11eb-85aa-4615991ea1f8.png)
 
 ![42](https://user-images.githubusercontent.com/25156451/124355559-a706f700-dc09-11eb-8ed2-28ddf98cecbd.png)
+
+### Proposer Outreach
 
 ![43](https://user-images.githubusercontent.com/25156451/124355621-08c76100-dc0a-11eb-9092-4e1fa2426fcb.png)
 
