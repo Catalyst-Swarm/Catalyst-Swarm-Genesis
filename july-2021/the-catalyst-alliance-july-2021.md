@@ -42,6 +42,12 @@ Either for Github or Discord.
 
 But we can start seeing how it will work on Discord.
 
+### Related discussions on Source Cred Use, Set-Up and Strategy
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/discussions/7\#discussion-3437936" %}
+
+
+
   
 
 
