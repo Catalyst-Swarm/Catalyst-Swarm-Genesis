@@ -30,7 +30,17 @@ We could begin by manually awarding  NFT badges, then later figure out automatio
 
 Looking at our track record, we can emulate who participates which is useful for IOG
 
-If we lay down measurements then we can align on a track record, we can perhaps track the experts ballots created by community.  
+If we lay down measurements then we can align on a track record, we can perhaps track the experts ballots created by community.
+
+### SourceCred
+
+ Source cred is also something we are looking into to experiment with.
+
+{% embed url="https://sourcecred.io/" %}
+
+
+
+  
 
 
 
