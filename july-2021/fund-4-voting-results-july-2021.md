@@ -106,3 +106,8 @@ description: Fund 4 voting results
 
 ![40](https://user-images.githubusercontent.com/25156451/124355443-13352b00-dc09-11eb-83e7-18babd92f305.png)
 
+### Challenge : Distributed Decision Making
+
+![41](https://user-images.githubusercontent.com/25156451/124355481-4f688b80-dc09-11eb-85aa-4615991ea1f8.png)
+
+
