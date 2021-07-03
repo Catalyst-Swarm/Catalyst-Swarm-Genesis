@@ -14,6 +14,10 @@ description: For the month of July 2021
 
 Record of The Catalyst Alliance Meeting adapted from notes by Tevo
 
+### Miro
+
+{% embed url="https://miro.com/app/board/o9J\_lESWSjw=/" %}
+
 ### Creating NFT badges as a means of tracking merit
 
 Newmindflow is interested in contributing to NFT rewards
