@@ -88,6 +88,10 @@ How much do Community Advisor ratings and voting ratings correlate ? \(Victor on
 
 We might be missing pragmatism
 
+IOG doesn't really explain what community should work towards.
+
+Building governance structure using ideascale.
+
 
 
 
