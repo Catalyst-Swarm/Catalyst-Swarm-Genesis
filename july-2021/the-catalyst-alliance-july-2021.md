@@ -26,7 +26,11 @@ Badges could be showcased on platforms such as :
 
 {% embed url="https://somee.social/" %}
 
-We could begin by manually awarding  NFT badges, then later figure out automation.  
+We could begin by manually awarding  NFT badges, then later figure out automation.
+
+Looking at our track record, we can emulate who participates which is useful for IOG
+
+If we lay down measurements then we can align on a track record, we can perhaps track the experts ballots created by community.  
 
 
 
