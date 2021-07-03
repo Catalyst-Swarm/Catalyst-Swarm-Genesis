@@ -102,3 +102,9 @@ Exploring a process framework to identify problems that are worthy to motivate f
 
 #### [58:45](https://www.youtube.com/watch?v=94MnBLi40d8&t=3525s) reviewing, feedback, learning
 
+### DAO Circle Part 2 - DAO City
+
+{% embed url="https://www.youtube.com/watch?v=0xOFAx3H7H8" %}
+
+Swarm Session 26th June 2021 - moderated by Filip
+
