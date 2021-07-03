@@ -10,7 +10,7 @@
 * [Swarm Governance July 2021](july-2021/swarm-governance-july-2021.md)
 * [Catalyst Circle Election Results - July 2021](july-2021/catalyst-circle-election-results-july-2021.md)
 * [Fund 4 voting results - July 2021](july-2021/fund-4-voting-results-july-2021.md)
-* [The Catalyst Alliance](july-2021/the-catalyst-alliance.md)
+* [The Catalyst Alliance - July 2021](july-2021/the-catalyst-alliance.md)
 
 ## June 2021
 
