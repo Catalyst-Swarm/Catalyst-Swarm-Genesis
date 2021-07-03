@@ -80,6 +80,8 @@ How much do Community Advisor ratings and voting ratings correlate ? \(Victor on
 
 ### What is the core purpose of the Alliance ?
 
+We might be missing pragmatism
+
 
 
 
