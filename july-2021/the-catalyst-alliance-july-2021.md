@@ -18,19 +18,17 @@ Record of The Catalyst Alliance Meeting adapted from notes by Tevo
 
 ### Creating NFT badges as a means of tracking merit
 
-newmindflow is interested to contribute on the NFT ideas  
-game development experience  
-Tevo has created a MMORPG game  
-Awarding people for participation with and NFT badge  
+Newmindflow is interested in contributing to NFT rewards
 
+In respect of game development experience, Tevo has created a MMORPG game
 
-Some platforms where the badges could be showcased
+Awarding people for participation with and NFT badge
+
+Badges could be showcased on platforms such as :
 
 {% embed url="https://somee.social/" %}
 
-manually award NFT awards
-
-later we need to figure out automation  
+We could begin by manually awarding  NFT badges, then later figure out automation.  
 
 
 
