@@ -24,9 +24,9 @@ Awarding people for participation with and NFT badge
 
 Badges could be showcased on platforms such as :
 
-{% embed url="https://somee.social/" %}
+{% embed url="https://somee.social/" caption="" %}
 
-We could begin by manually awarding  NFT badges, then later figure out automation.
+We could begin by manually awarding NFT badges, then later figure out automation.
 
 Looking at our track record, we can emulate who participates which is useful for IOG
 
@@ -34,9 +34,9 @@ If we lay down measurements then we can align on a track record, we can perhaps 
 
 ### SourceCred
 
- Source cred is also something we are looking into to experiment with.
+Source cred is also something we are looking into to experiment with.
 
-{% embed url="https://sourcecred.io/" %}
+{% embed url="https://sourcecred.io/" caption="" %}
 
 Either for Github or Discord.
 
@@ -44,7 +44,7 @@ But we can start seeing how it will work on Discord.
 
 ### Related discussions on Source Cred Use, Set-Up and Strategy
 
-{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/discussions/7\#discussion-3437936" %}
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/discussions/7\#discussion-3437936" caption="" %}
 
 ### Fund 4 Results
 
@@ -52,7 +52,7 @@ Congrats to Fund 4 winners
 
 We should think out of the box every time - Vladimir
 
-#### Gimbalabs Solidarity 
+#### Gimbalabs Solidarity
 
 How we could give Gimbalabs the Solidarity the need?
 
@@ -64,12 +64,11 @@ Connect with James if his interested alternative funding methods
 
 Connect with Rik \(Digital Fortress\) and see if we can run similar campaign like we did for WADA. Community can have powerful message to get behind an idea in public matter
 
+### Statistical Analysis of Fund 4 
 
+How many voters are from community. How many whales decides what happens?
 
-
-
-  
-
+Maybe there is correlation in the worst performed funds? see how much ADA voted against.
 
 
 
