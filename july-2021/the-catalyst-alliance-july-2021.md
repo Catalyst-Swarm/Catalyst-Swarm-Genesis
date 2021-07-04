@@ -12,6 +12,12 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ![The Catalyst Alliance - Agenda 3rd July 2021](https://user-images.githubusercontent.com/25156451/124361335-8305de80-dc26-11eb-81ff-bbcd156476e2.png)
 
+### Attendees
+
+\(Alphabetical by First Name\)
+
+FelixWeber, Maria Carmo,  Mercy \(WADA\), 
+
 ### Notes <a id="docs-internal-guid-544d05cd-7fff-e0e3-d8e0-6c3220d1ea64"></a>
 
 Record of The Catalyst Alliance Meeting adapted from notes by Tevo
