@@ -156,6 +156,11 @@ description: Fund 4 voting results
 
 ![61](https://user-images.githubusercontent.com/25156451/124402349-9cdb1a80-dd27-11eb-9080-fa93b3e98762.png)
 
+### Leftover Fund Allocation - detail
+
+![62](https://user-images.githubusercontent.com/25156451/124402383-e3c91000-dd27-11eb-905c-89108310265a.png)
+
+
 
 
 
