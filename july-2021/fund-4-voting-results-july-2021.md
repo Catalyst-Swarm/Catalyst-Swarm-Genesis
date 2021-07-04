@@ -122,5 +122,7 @@ description: Fund 4 voting results
 
 ![47](https://user-images.githubusercontent.com/25156451/124356258-f3076b00-dc0c-11eb-94ee-232ef34b1846.png)
 
+### Catalyst Value On-boarding
+
 ![48](https://user-images.githubusercontent.com/25156451/124356725-7fb32880-dc0f-11eb-960e-ff459e180c90.png)
 
