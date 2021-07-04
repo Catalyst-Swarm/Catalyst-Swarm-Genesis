@@ -6,9 +6,9 @@ description: Catalyst Idea Fest for July 2021
 
 ## Announcement
 
-![2021-07-04 (5)](https://user-images.githubusercontent.com/25156451/124401593-24258f80-dd22-11eb-9b56-ce73ce3f9140.png)
+![Announcement](https://user-images.githubusercontent.com/25156451/124401593-24258f80-dd22-11eb-9b56-ce73ce3f9140.png)
 
-![2021-07-04 (6)](https://user-images.githubusercontent.com/25156451/124401594-27208000-dd22-11eb-9391-f8c43b22de51.png)
+![Announcement](https://user-images.githubusercontent.com/25156451/124401594-27208000-dd22-11eb-9391-f8c43b22de51.png)
 
 ## Idea Fest Registration
 
@@ -20,7 +20,5 @@ description: Catalyst Idea Fest for July 2021
 
 ### Embedded Google Form
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfz8v\_PYf6oKfJMl8RxBs0fuUIQY-bl60sP\_UUc61n-V4R2eQ/formResponse" %}
-
-
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfz8v\_PYf6oKfJMl8RxBs0fuUIQY-bl60sP\_UUc61n-V4R2eQ/formResponse" caption="" %}
 
