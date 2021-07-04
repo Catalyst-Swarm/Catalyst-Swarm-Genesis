@@ -44,7 +44,7 @@ description: Fund 4 voting results
 
 ![11](https://user-images.githubusercontent.com/25156451/124317978-e54fd800-db6f-11eb-9ef5-413c675d62af.png)
 
-### DAPP & Integrations
+### DAPP & Integrations - detail
 
 ![12](https://user-images.githubusercontent.com/25156451/124318391-7de65800-db70-11eb-8396-21693ee32b48.png)
 
@@ -80,7 +80,7 @@ description: Fund 4 voting results
 
 ![28](https://user-images.githubusercontent.com/25156451/124329595-990e9300-db83-11eb-908a-0cc841855be6.png)
 
-### Developer Ecosystem
+### Developer Ecosystem - detail
 
 ![29](https://user-images.githubusercontent.com/25156451/124329782-002c4780-db84-11eb-9f1d-5fa4f12d0b71.png)
 
@@ -106,7 +106,7 @@ description: Fund 4 voting results
 
 ![40](https://user-images.githubusercontent.com/25156451/124355443-13352b00-dc09-11eb-83e7-18babd92f305.png)
 
-### Distributed Decision Making
+### Distributed Decision Making - detail
 
 ![41](https://user-images.githubusercontent.com/25156451/124355481-4f688b80-dc09-11eb-85aa-4615991ea1f8.png)
 
@@ -114,7 +114,7 @@ description: Fund 4 voting results
 
 ![43](https://user-images.githubusercontent.com/25156451/124355621-08c76100-dc0a-11eb-9092-4e1fa2426fcb.png)
 
-### Proposer Outreach
+### Proposer Outreach - detail
 
 ![45](https://user-images.githubusercontent.com/25156451/124356034-f51cfa00-dc0b-11eb-89e5-8672df3af332.png)
 
@@ -122,7 +122,7 @@ description: Fund 4 voting results
 
 ![47](https://user-images.githubusercontent.com/25156451/124356258-f3076b00-dc0c-11eb-94ee-232ef34b1846.png)
 
-### Catalyst Value On-boarding
+### Catalyst Value On-boarding - detail
 
 ![48](https://user-images.githubusercontent.com/25156451/124356725-7fb32880-dc0f-11eb-960e-ff459e180c90.png)
 
