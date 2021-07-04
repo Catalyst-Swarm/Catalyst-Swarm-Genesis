@@ -16,7 +16,7 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 \(Alphabetical by First Name\)
 
-FelixWeber, Maria Carmo,  Mercy \(WADA\), 
+FelixWeber \(Swarm\), Maria Carmo \(Lovelace Academy\),  Mercy \(WADA\), 
 
 ### Notes <a id="docs-internal-guid-544d05cd-7fff-e0e3-d8e0-6c3220d1ea64"></a>
 
