@@ -10,6 +10,8 @@ description: Catalyst Idea Fest for July 2021
 
 ![Announcement](https://user-images.githubusercontent.com/25156451/124401594-27208000-dd22-11eb-9391-f8c43b22de51.png)
 
+{% embed url="https://mailchi.mp/iohk/g6qpccne38-673882" %}
+
 ## Idea Fest Registration
 
 ### Screenshots
