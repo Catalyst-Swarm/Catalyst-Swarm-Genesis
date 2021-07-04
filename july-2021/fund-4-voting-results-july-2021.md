@@ -142,7 +142,7 @@ description: Fund 4 voting results
 
 ![55](https://user-images.githubusercontent.com/25156451/124402033-5d133380-dd25-11eb-9231-b6cdf3721ae5.png)
 
+### Fund 6 - Challenge Setting - detail
+
 ![56](https://user-images.githubusercontent.com/25156451/124402076-a5caec80-dd25-11eb-836d-656e30da17ec.png)
-
-
 
