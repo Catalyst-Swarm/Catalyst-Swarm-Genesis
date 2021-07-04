@@ -16,7 +16,7 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 \(Alphabetical by First Name\)
 
-jadjei \(\) , FelixWeber \(Swarm\), PeteOK \(\), Maria Carmo \(Lovelace Academy\),  Mercy \(WADA\), 
+DanMercurius \(Secret Decks\), jadjei \(\) , FelixWeber \(Swarm\), PeteOK \(\), Maria Carmo \(Lovelace Academy\),  Mercy \(WADA\), NewMindflow \(Rares & AnaMaria\), Stephen Whitenstall \(Swarm Support\), Steven Aldrich, Steve Lockhart
 
 ### Notes <a id="docs-internal-guid-544d05cd-7fff-e0e3-d8e0-6c3220d1ea64"></a>
 
