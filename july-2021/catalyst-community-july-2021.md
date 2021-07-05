@@ -96,7 +96,7 @@ Note - links open in new tab
 
 {% embed url="https://disco.coop/" %}
 
-{% embed url="https://catalyst-swarm.gitbook.io/cat..." %}
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
 
 ### References : 
 
