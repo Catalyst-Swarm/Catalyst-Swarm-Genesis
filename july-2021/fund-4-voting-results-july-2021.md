@@ -12,6 +12,8 @@ description: Fund 4 voting results
 
 ![2](https://user-images.githubusercontent.com/25156451/124302588-50da7b00-db59-11eb-8746-148659c22e20.png)
 
+![2a](https://user-images.githubusercontent.com/25156451/124483641-7c9c7180-dda2-11eb-8166-7a7f95b68e73.png)
+
 ### Developer Ecosystem
 
 ![3](https://user-images.githubusercontent.com/25156451/124302830-97c87080-db59-11eb-9f30-a1b40835a1d2.png)
