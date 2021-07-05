@@ -102,7 +102,9 @@ Note - links open in new tab
 
 #### NVC Marshall Rosenberg - San Francisco Workshop -
 
-{% embed url="https://www.youtube.com/watch?v=l7TON..." %}
+#### Nonviolent communication.
+
+{% embed url="https://www.youtube.com/watch?v=l7TONauJGfc" %}
 
 #### 6 key interactions for a regenerative team - 
 
