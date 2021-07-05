@@ -14,6 +14,8 @@ Danielo Ospina \(Aragon\), Stephen Whitenstall, Tevo, Seomon \(Catalyst Swarm\) 
 
 ###  Introductions
 
+Note - links open in new tab
+
 ### 1\) Tyler Wales \(Secret Decks\) - [0:07](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=7s)
 
 ### 2\) Tevo \(Catalyst Swarm\) - [0:28](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=28s) 
