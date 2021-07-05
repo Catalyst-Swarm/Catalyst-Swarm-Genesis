@@ -170,9 +170,3 @@ description: Fund 4 voting results
 
 ![66](https://user-images.githubusercontent.com/25156451/124402569-f728ab00-dd28-11eb-923f-c500037f1fc3.png)
 
-
-
-
-
-
-
