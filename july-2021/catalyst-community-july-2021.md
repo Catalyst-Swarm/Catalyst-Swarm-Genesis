@@ -108,7 +108,7 @@ Note - links open in new tab
 
 #### 6 key interactions for a regenerative team - 
 
-{% embed url="https://www.regenerativeteams.com/202..." %}
+{% embed url="https://www.regenerativeteams.com/2021/03/17/6-key-interactions-for-a-regenerative-team/" %}
 
 
 
