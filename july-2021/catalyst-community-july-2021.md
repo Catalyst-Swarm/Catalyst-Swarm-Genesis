@@ -28,6 +28,8 @@ Note - links open in new tab
 
 #### Aragon \([https://aragon.org/dao](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBtTWV3MmtxOG1HVFV6eE5qMGdDYVhTMXd4UXxBQ3Jtc0ttZHZ4ZGlIR2RfbExHT0VDNmRrLWhMeS1RaFlESEViaE05VzR4d1E5YWxTQXhVTk84ZFloMTk0dy1rUHdLR21kY3QyTHpNcWswNG9mM1NIbHVkMFF1cnZsUWZ0bnFHb2l0ZmhoUHRKM093Y1VDVzNnWQ&q=https%3A%2F%2Faragon.org%2Fdao)\) - [5:44](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=344s) 
 
+### Setting up a source cred test server for the whole Catalyst community
+
 #### Setting up a SourceCred Discord test server for the whole Catalyst community \(Stephen\) - [7:15](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=435s) 
 
 #### Secret Decks involvement \(Tyler\) - [8:27](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=507s) 
