@@ -16,19 +16,19 @@ Danielo Ospina \(Aragon\), Stephen Whitenstall, Tevo, Seomon \(Catalyst Swarm\) 
 
 Note - links open in new tab
 
-### 1\) Tyler Wales \(Secret Decks\) - [0:07](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=7s)
+### Tyler Wales \(Secret Decks\) - [0:07](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=7s)
 
-### 2\) Tevo \(Catalyst Swarm\) - [0:28](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=28s) 
+### Tevo \(Catalyst Swarm\) - [0:28](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=28s) 
 
-### 3\) Seomon \(Catalyst Swarm\) - [2:16](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=136s) 
+### Seomon \(Catalyst Swarm\) - [2:16](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=136s) 
 
-### 4\) Stephen Whitenstall \(Catalyst Swarm Support\) - [3:39](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=219s) 
+### Stephen Whitenstall \(Catalyst Swarm Support\) - [3:39](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=219s) 
 
-### 5\) Danielo Ospina \(Aragon\) - [4:38](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=278s) 
+### Danielo Ospina \(Aragon\) - [4:38](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=278s) 
 
 #### Aragon \([https://aragon.org/dao](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBtTWV3MmtxOG1HVFV6eE5qMGdDYVhTMXd4UXxBQ3Jtc0ttZHZ4ZGlIR2RfbExHT0VDNmRrLWhMeS1RaFlESEViaE05VzR4d1E5YWxTQXhVTk84ZFloMTk0dy1rUHdLR21kY3QyTHpNcWswNG9mM1NIbHVkMFF1cnZsUWZ0bnFHb2l0ZmhoUHRKM093Y1VDVzNnWQ&q=https%3A%2F%2Faragon.org%2Fdao)\) - [5:44](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=344s) 
 
-### Setting up a source cred test server for the whole Catalyst community
+### 1\) Setting up a source cred test server for the whole Catalyst community
 
 #### Setting up a SourceCred Discord test server for the whole Catalyst community \(Stephen\) - [7:15](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=435s) 
 
@@ -62,7 +62,7 @@ Note - links open in new tab
 
 #### Secret Decks Mindfulness Policy \(Tyler\) - [23:13](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1393s) 
 
-### A conversation about future funding, future roadmap 
+### 2\) A conversation about future funding, future roadmap 
 
 #### A conversation about future funding, future roadmap \(Stephen\) - [23:49](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1429s) 
 
@@ -72,7 +72,7 @@ Note - links open in new tab
 
 #### Aragon is a platform to create DAOs \(Danielo\) - [26:50](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1610s) 
 
-### General Discussion
+### 3\) General Discussion
 
 #### General Discussion \(Tevo/Danielo\) - [27:59](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1679s) 
 
@@ -90,7 +90,7 @@ Note - links open in new tab
 
 #### We have to do it at some point \(Tevo\) - [36:36](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=2196s) 
 
-### Web links :
+### 4\) Web links :
 
 {% embed url="https://aragon.org/dao" %}
 
@@ -98,7 +98,7 @@ Note - links open in new tab
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
 
-### References : 
+### 5\) References : 
 
 #### NVC Marshall Rosenberg - San Francisco Workshop -
 
