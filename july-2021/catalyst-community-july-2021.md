@@ -62,6 +62,8 @@ Note - links open in new tab
 
 #### Secret Decks Mindfulness Policy \(Tyler\) - [23:13](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1393s) 
 
+### A conversation about future funding, future roadmap 
+
 #### A conversation about future funding, future roadmap \(Stephen\) - [23:49](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1429s) 
 
 #### Aragon deployment on Cardano \(Danielo\) - [24:51](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1491s) 
