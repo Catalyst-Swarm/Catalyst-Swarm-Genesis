@@ -64,6 +64,8 @@ Danielo Ospina \(Aragon\), Stephen Whitenstall, Tevo, Seomon \(Catalyst Swarm\) 
 
 #### Aragon is a platform to create DAOs \(Danielo\) - [26:50](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1610s) 
 
+### General Discussion
+
 #### General Discussion \(Tevo/Danielo\) - [27:59](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1679s) 
 
 #### General Discussion \(Seomon/Danielo\) - [29:11](https://www.youtube.com/watch?v=kv-qXx8UvPc&t=1751s) 
