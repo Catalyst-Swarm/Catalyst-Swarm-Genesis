@@ -70,6 +70,11 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 Community Advisor
 
 ### Jacob Dickhaut - [14:06](https://youtu.be/G40Vd65dpz4?t=846)
+A mastermind
+
+### Stephen Whitenstall - [15:19](https://youtu.be/G40Vd65dpz4?t=921)
+Catalyst Curator
+
 
 
 
