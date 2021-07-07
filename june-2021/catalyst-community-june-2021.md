@@ -62,22 +62,23 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 
 ### Maria Carmo - [11:32](https://youtu.be/G40Vd65dpz4?t=692)
 
-{% embed url="https://www.lovelace.academy/" %}
+{% embed url="https://www.lovelace.academy/" caption="" %}
 
-{% embed url="https://www.youtube.com/channel/UCZAEt853n9repN2cex9W7kA" %}
+{% embed url="https://www.youtube.com/channel/UCZAEt853n9repN2cex9W7kA" caption="" %}
 
 ### Steve Lockhart - [12:33](https://youtu.be/G40Vd65dpz4?t=753)
+
 Community Advisor
 
 ### Jacob Dickhaut - [14:06](https://youtu.be/G40Vd65dpz4?t=846)
+
 A mastermind
 
 ### Stephen Whitenstall - [15:19](https://youtu.be/G40Vd65dpz4?t=921)
+
 Catalyst Curator
 
-### Marta (N+Flow) - [17:09](https://youtu.be/G40Vd65dpz4?t=1029)
+{% embed url="https://github.com/stephen-rowan" %}
 
-
-
-
+### Marta \(N+Flow\) - [17:09](https://youtu.be/G40Vd65dpz4?t=1029)
 
