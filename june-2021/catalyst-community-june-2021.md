@@ -110,12 +110,13 @@ Community Advisor
 
 Cardano Hotel Podcast
 
-{% embed url="https://www.youtube.com/c/CardanoHubs/featured" %}
+{% embed url="https://www.youtube.com/c/CardanoHubs/featured" caption="" %}
 
 ### Sosha - [22:55](https://youtu.be/G40Vd65dpz4?t=1376)
 
 ### Julian M - [23:38](https://youtu.be/G40Vd65dpz4?t=1415)
+
 Co-founder gimbalabs
 
-
+{% embed url="https://gimbalabs.com/" %}
 
