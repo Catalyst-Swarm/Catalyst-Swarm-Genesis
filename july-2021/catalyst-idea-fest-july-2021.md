@@ -24,3 +24,8 @@ description: Catalyst Idea Fest for July 2021
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfz8v\_PYf6oKfJMl8RxBs0fuUIQY-bl60sP\_UUc61n-V4R2eQ/formResponse" caption="" %}
 
+## Idea Fest Discord Announcememt 4th July 2021
+
+![Idea Fest Discord](https://user-images.githubusercontent.com/25156451/124841664-a82b8180-df85-11eb-830b-88332cdd6c91.png)
+
+
