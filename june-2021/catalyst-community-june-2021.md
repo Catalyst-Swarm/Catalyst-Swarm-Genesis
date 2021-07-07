@@ -62,6 +62,8 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 
 ### Maria Carmo - [11:32](https://youtu.be/G40Vd65dpz4?t=692)
 
+#### Lovelace Academy
+
 {% embed url="https://www.lovelace.academy/" caption="" %}
 
 {% embed url="https://www.youtube.com/channel/UCZAEt853n9repN2cex9W7kA" caption="" %}
