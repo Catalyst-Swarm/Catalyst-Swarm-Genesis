@@ -20,7 +20,7 @@ A recording of June 30th, Town Hall for the Eastern Hemisphere Timezone.
 
 ###  Timestamps
 
-Note timestamps open in new tab:
+Please note that timestamps open in a new tab:
 
 ####  [00:00:00](https://www.youtube.com/watch?v=langx68O9QE&t=0s) Welcome to Project Catalyst Town Hall \#15
 
