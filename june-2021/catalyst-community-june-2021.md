@@ -60,3 +60,8 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 
 ### Mike McNulty - [10:37](https://youtu.be/G40Vd65dpz4?t=637)
 
+### Maria Carmo - [11:32](https://youtu.be/G40Vd65dpz4?t=692)
+
+https://www.lovelace.academy/
+
+https://www.youtube.com/channel/UCZAEt853n9repN2cex9W7kA
