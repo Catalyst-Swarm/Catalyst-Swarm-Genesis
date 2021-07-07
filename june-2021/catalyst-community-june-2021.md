@@ -66,5 +66,9 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 
 {% embed url="https://www.youtube.com/channel/UCZAEt853n9repN2cex9W7kA" %}
 
+### Steve Lockhart - [12:33](https://youtu.be/G40Vd65dpz4?t=753)
+
+
+
 
 
