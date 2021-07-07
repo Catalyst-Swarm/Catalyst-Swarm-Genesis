@@ -12,7 +12,7 @@ A recording of June 30th, Town Hall for the Eastern Hemisphere Timezone.
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/june-2021/after-town-hall\#june-30th-town-hall" %}
 
-## July 8th Town Hall
+## July 7th Town Hall
 
 #### Project Catalyst Town Hall \#15
 
