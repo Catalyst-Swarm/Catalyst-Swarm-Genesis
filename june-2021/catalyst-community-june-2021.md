@@ -100,17 +100,17 @@ Combines artistic and coding skills with a remarkable way of engagement.
 
 #### Playermint
 
-{% embed url="https://playermint.com/" %}
+{% embed url="https://playermint.com/" caption="" %}
 
 ### Philip L - [20:29](https://youtu.be/G40Vd65dpz4?t=1229)
+
 Community Advisor
 
 ### Alfred Moesker - [21:55](https://youtu.be/G40Vd65dpz4?t=1315)
+
 Cardano Hotel Podcast
 
-https://www.youtube.com/c/CardanoHubs/featured
-
-
+{% embed url="https://www.youtube.com/c/CardanoHubs/featured" %}
 
 
 
