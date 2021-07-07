@@ -85,7 +85,7 @@ Catalyst Curator
 Combines artistic and coding skills with a remarkable way of engagement.
 
 ### Nori - [18:09](https://youtu.be/G40Vd65dpz4?t=1089)
-Founder, Salmon Nation Decentralized Alliance 
+Salmon Nation Decentralized Alliance 
 
 https://www.sanada.eco/
 
