@@ -44,3 +44,9 @@ Note timestamps open in new tab:
 
 #### [00:47:25](https://www.youtube.com/watch?v=langx68O9QE&t=2845s) Breakout rooms
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1lyHMX\_uGYbAyRvqXgJGBSr-zLjL7VPwrWc7V-fQQJNA/edit" %}
+
+
+
