@@ -116,7 +116,7 @@ Cardano Hotel Podcast
 
 ### Julian M - [23:38](https://youtu.be/G40Vd65dpz4?t=1415)
 
-Co-founder gimbalabs
+Co-founder Gimbalabs
 
 {% embed url="https://gimbalabs.com/" %}
 
