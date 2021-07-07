@@ -69,6 +69,8 @@ Deryk - for tirelessly sticking his nose in places it may not belong.
 ### Steve Lockhart - [12:33](https://youtu.be/G40Vd65dpz4?t=753)
 Community Advisor
 
+### Jacob Dickhaut - [14:06](https://youtu.be/G40Vd65dpz4?t=846)
+
 
 
 
