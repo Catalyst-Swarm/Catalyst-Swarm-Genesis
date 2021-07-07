@@ -102,5 +102,10 @@ Combines artistic and coding skills with a remarkable way of engagement.
 
 {% embed url="https://playermint.com/" %}
 
+### Philip L - [20:29](https://youtu.be/G40Vd65dpz4?t=1229)
+Community Advisor
+
+
+
 
 
