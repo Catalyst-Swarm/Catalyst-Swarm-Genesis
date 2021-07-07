@@ -114,5 +114,7 @@ Cardano Hotel Podcast
 
 ### Sosha - [22:55](https://youtu.be/G40Vd65dpz4?t=1376)
 
+### Julian M - [23:38](https://youtu.be/G40Vd65dpz4?t=1415)
+
 
 
