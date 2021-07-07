@@ -118,15 +118,17 @@ Cardano Hotel Podcast
 
 Co-founder Gimbalabs
 
-{% embed url="https://gimbalabs.com/" %}
+{% embed url="https://gimbalabs.com/" caption="" %}
 
-### Old Crypto Geek (OCG)- [24:47](https://youtu.be/G40Vd65dpz4?t=1487)
+### Old Crypto Geek \(OCG\)- [24:47](https://youtu.be/G40Vd65dpz4?t=1487)
+
 The Silent Architect
 
 ### Ken Adams - [26:39](https://youtu.be/G40Vd65dpz4?t=1599)
-KEWW
 
-https://www.youtube.com/channel/UCJHMqKAgmyd82ylnyBFC79Q
+#### KEWW
+
+{% embed url="https://www.youtube.com/channel/UCJHMqKAgmyd82ylnyBFC79Q" %}
 
 
 
