@@ -88,10 +88,11 @@ Combines artistic and coding skills with a remarkable way of engagement.
 
 Salmon Nation Decentralized Alliance
 
-{% embed url="https://www.sanada.eco/" %}
+{% embed url="https://www.sanada.eco/" caption="" %}
 
 ### Aidan - [19:28](https://youtu.be/G40Vd65dpz4?t=1168)
 
-https://playermint.com/
+{% embed url="https://playermint.com/" %}
+
 
 
