@@ -92,6 +92,8 @@ Salmon Nation Decentralized Alliance
 
 ### Aidan - [19:28](https://youtu.be/G40Vd65dpz4?t=1168)
 
+#### Playermint
+
 {% embed url="https://playermint.com/" %}
 
 
