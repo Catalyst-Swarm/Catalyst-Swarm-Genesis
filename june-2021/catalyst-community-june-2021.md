@@ -120,3 +120,11 @@ Co-founder Gimbalabs
 
 {% embed url="https://gimbalabs.com/" %}
 
+### Old Crypto Geek (OCG)- [24:47](https://youtu.be/G40Vd65dpz4?t=1487)
+
+The Silent Architect
+
+### Ken Adamms - [26:39](https://youtu.be/G40Vd65dpz4?t=1599)
+
+
+
