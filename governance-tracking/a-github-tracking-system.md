@@ -26,6 +26,5 @@ In order to meet the immediate and minimum requirements of an emerging collectiv
 
 At a minimum this Issue records who is working in the collective that day, the major tasks completed, decision made and collects together any associated documentation.
 
-![2021-07-09 (3)](https://user-images.githubusercontent.com/25156451/125093649-6b1cd780-e0ca-11eb-9c33-722b4091c37c.png)
-
+![Major tasks completed](https://user-images.githubusercontent.com/25156451/125093649-6b1cd780-e0ca-11eb-9c33-722b4091c37c.png)
 
