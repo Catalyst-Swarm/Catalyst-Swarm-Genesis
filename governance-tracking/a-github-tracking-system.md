@@ -22,6 +22,7 @@ Using a software platform to track the collective's immediate governance needs p
 
 In order to meet the immediate and minimum requirements of an emerging collective I propose a basic GitHub Issue as the record of the day's work for that collective.
 
+![2021-07-09 (1)](https://user-images.githubusercontent.com/25156451/125092811-9f43c880-e0c9-11eb-8bda-cbbafd9ad322.png)
 
 
 
