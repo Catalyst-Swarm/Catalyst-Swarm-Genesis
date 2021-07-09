@@ -58,5 +58,15 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 ### 15.20 UTC - Proposers start to present their projects
 
+### 16.20 UTC - Closing the breakout rooms
+
+### Award ceremony vote for best performance
+
+### 16.30 UTC - Feedback Session open for everyone
+
+### 17.00 UTC - Open-end after party
+
+### Open-end after party for all who want to stay
+
 
 
