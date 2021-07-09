@@ -6,7 +6,7 @@ description: Building a distributed governance practice with GitHub
 
 ## Adapting the GitHub Issue Management System
 
-GitHub has been predominately oriented towards software development and issues recorded stages in a software development lifecycle \(either as bugs, improvements or feature requests\).
+[GitHub ](https://github.com/)has been predominately oriented towards software development and issues typically recorded stages in a software development lifecycle \(either as bugs, improvements or feature requests\). Later GitHub introduced [Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) where issues could be tracked using [Agile ](https://en.wikipedia.org/wiki/Agile_software_development)or [Kanban ](https://en.wikipedia.org/wiki/Kanban_%28development%29)methods.
 
 
 
