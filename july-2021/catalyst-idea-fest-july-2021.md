@@ -30,6 +30,7 @@ description: Catalyst Idea Fest for July 2021
 
 ## Final Announcement
 
+[IDEA_FEST_July_10th-1.pdf](https://github.com/Catalyst-Swarm/Catalyst-Swarm-Genesis/files/6794028/IDEA_FEST_July_10th-1.pdf)
 
 
 
