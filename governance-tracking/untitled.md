@@ -10,6 +10,10 @@ In order to progress to a distributed governance practice there should be
 
 3\) This should be fully accessible on an open-source, web based platform. The full content of a distributed governance practice should be easily copied and reproduced elsewhere on a non-proprietary platform.
 
+4\) Ideally there should be web-based user-friendly dashboard, so information can be accesed without any specialised knowledge.
+
+
+
 
 
 
