@@ -12,7 +12,11 @@ Presently GitHub repositories do not only hold code but often also act as data s
 
 ## An Issue as the record of a day
 
-In an emerging collective there will often be an immediate need to record who is working, what they are working on, what decisions they are making and the status of those decisons \(e.g. to do, in progress, done\).
+In an emerging collective there will often be an immediate need to record who is working and at what time, what they are working on, what decisions they are making, the status of those decisons \(e.g. to do, in progress, done\) and where they store their information \(data and documenattion\).
+
+
+
+
 
 
 
