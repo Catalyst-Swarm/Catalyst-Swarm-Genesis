@@ -16,6 +16,8 @@ In an emerging collective there will often be an immediate need to record who is
 
 Lack of a structure is a governance choice and will result in issues being forgotten or dismissed arbitrarily, in repetition and duplication of work and those with most persistence leading \(might is right\) \(see "[Decentralized Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782214)"\).
 
+Using a software platform to track the collective's immediate governance needs presents challenges of accessibility, risks of specilaised knowledge \(gatekeepers\) and differences of opinion over methodology \(informal versus formal\).
+
 ## An Issue as the record of a day
 
 
