@@ -1,8 +1,8 @@
 ---
 description: >-
-  Building an accessible front end for the GitHub distributed governance
+  Building an accessible front-end for the GitHub distributed governance
   practice.
 ---
 
-# An Accessible Frontend
+# An Accessible Front-end
 
