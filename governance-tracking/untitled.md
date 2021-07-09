@@ -1,5 +1,5 @@
 ---
-description: Building an accessible a distributed governance practice.
+description: Building an accessible distributed governance practice.
 ---
 
 # Overview
