@@ -48,5 +48,11 @@ Please note that timestamps open in a new tab:
 
 {% embed url="https://docs.google.com/presentation/d/1lyHMX\_uGYbAyRvqXgJGBSr-zLjL7VPwrWc7V-fQQJNA/edit" %}
 
+## July 7th After Town Hall
+
+### Diversity/ Inclusion Breakout room
+
+{% embed url="https://docs.google.com/presentation/d/12\_tDa5UgVG4z7jqKEbqQ6S24y-8YE8VhEuNzot5THPM/edit\#slide=id.ge3f9979aed\_0\_0" %}
+
 
 
