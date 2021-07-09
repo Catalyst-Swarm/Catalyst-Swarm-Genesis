@@ -4,9 +4,13 @@
 
 In order to progress to a distributed governance practice there should be
 
-Transparency of decisions and the decision-making process
+Transparency of what decisions are made and how they are made \(the decision-making process\).
 
-Tracking of who is involved in decision and what decisions are made.
+This requires tracking of who is involved in the decision-making process and the recording of what decisions are made.
+
+This should be fully accessible on an open-source, web accessible platform. The full content of a distributed governance practice should be easily copied and reproduced elaswhere on non-propieratry platform.
+
+
 
 
 
