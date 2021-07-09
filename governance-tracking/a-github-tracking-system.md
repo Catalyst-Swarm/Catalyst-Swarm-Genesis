@@ -10,11 +10,15 @@ description: Building a distributed governance practice with GitHub
 
 Presently GitHub repositories do not only hold code but often also act as data sources, or as a means to subject data formats \(such as the [Cardano Token Repository](https://github.com/cardano-foundation/cardano-token-registry)\) and increasingly as a means to store and maintain documentation. 
 
-## An Issue as the record of a day
+##  Emerging collectives
 
 In an emerging collective there will often be an immediate need to record who is working and at what time, what they are working on, what decisions they are making, the status of those decisions \(e.g. to do, in progress, done\) and where they store their information \(data and documentation\).
 
 Lack of a structure is a governance choice and will result in issues being forgotten or dismissed arbitrarily, in repetition and duplication of work and those with most persistence leading \(might is right\) \(see "[Decentralized Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782214)"\).
+
+## An Issue as the record of a day
+
+
 
 
 
