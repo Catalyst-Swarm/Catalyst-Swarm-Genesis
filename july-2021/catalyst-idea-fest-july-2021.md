@@ -50,5 +50,11 @@ NFT & FT awards that will recognise & reward the participation in the event of a
 
 This is an experiment and pilot. Please, be patient with all of us as we navigate this concept collectively. We appreciate your interest in participating. See you there, your Project Catalyst & Catalyst Swarm Crew
 
+## Timetable
+
+### 15.00 UTC - Opening by Stefan Montalbetti
+
+### 15.15 UTC - Proposer and visitor moving in Breakout rooms
+
 
 
