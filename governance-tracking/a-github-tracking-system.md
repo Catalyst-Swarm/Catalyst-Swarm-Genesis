@@ -24,5 +24,5 @@ In order to meet the immediate and minimum requirements of an emerging collectiv
 
 ![A GitHub Issue as the record of a day](https://user-images.githubusercontent.com/25156451/125092811-9f43c880-e0c9-11eb-8bda-cbbafd9ad322.png)
 
-
+At a minimum this Issue records who is working in the collective that day, the major tasks completed, decision made and collects together any associated documentation.
 
