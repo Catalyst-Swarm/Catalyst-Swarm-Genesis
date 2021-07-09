@@ -46,5 +46,9 @@ Highlights will be edited in a Movie. \( who knows where the Movie will be showe
 
 NFT & FT awards that will recognise & reward the participation in the event of all parties and highlight the best presented proposals. Awards by New MIndflow
 
+### This is an experiment and pilot. 
+
+This is an experiment and pilot. Please, be patient with all of us as we navigate this concept collectively. We appreciate your interest in participating. See you there, your Project Catalyst & Catalyst Swarm Crew
+
 
 
