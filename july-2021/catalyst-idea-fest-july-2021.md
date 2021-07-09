@@ -38,3 +38,7 @@ Further, the Idea Fest is an initiative to meet the teams and people behind prop
 
 ![Final Announcement - 10th July 2021](https://user-images.githubusercontent.com/25156451/125138543-bc4abc80-e106-11eb-83f6-9334f27e9faa.png)
 
+### Extras 
+
+Highlights will be edited in a Movie. \( who knows where the Movie will be showed ;\)
+
