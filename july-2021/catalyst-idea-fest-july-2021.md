@@ -42,3 +42,9 @@ Further, the Idea Fest is an initiative to meet the teams and people behind prop
 
 Highlights will be edited in a Movie. \( who knows where the Movie will be showed ;\)
 
+### Awards
+
+NFT & FT awards that will recognise & reward the participation in the event of all parties and highlight the best presented proposals. Awards by New MIndflow
+
+
+
