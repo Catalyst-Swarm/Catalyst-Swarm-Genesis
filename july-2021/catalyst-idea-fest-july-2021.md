@@ -56,5 +56,7 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 ### 15.15 UTC - Proposer and visitor moving in Breakout rooms
 
+### 15.20 UTC - Proposers start to present their projects
+
 
 
