@@ -28,3 +28,13 @@ description: Details of the Catalyst Circle Election Results
 
 {% embed url="https://drive.google.com/drive/folders/1bWpoE6pCSZXI3dQ9lWE1rgCyxPFF439C" caption="Town Hall Elections Recordings" %}
 
+## Introducing the Catalyst Circle
+
+July 8, 2021 Kriss Baird.
+
+The world’s largest decentralized innovation fund continues to evolve its governance and leadership model
+
+{% embed url="https://iohk.io/en/blog/posts/2021/07/08/introducing-the-catalyst-circle/" %}
+
+
+
