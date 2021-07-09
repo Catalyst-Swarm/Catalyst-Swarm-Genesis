@@ -8,6 +8,7 @@
 
 * [Catalyst Town Halls - July 2021](july-2021/catalyst-town-halls-july-2021.md)
 * [Catalyst Idea Fest - July 2021](july-2021/catalyst-idea-fest-july-2021.md)
+* [Swarm Sessions - July 2021](july-2021/swarm-sessions-july-2021.md)
 * [Swarm Governance July 2021](july-2021/swarm-governance-july-2021.md)
 * [Catalyst Community - July 2021](july-2021/catalyst-community-july-2021.md)
 * [Catalyst Circle Election Results - July 2021](july-2021/catalyst-circle-election-results-july-2021.md)
