@@ -37,4 +37,5 @@
 
 * [Overview](governance-tracking/untitled.md)
 * [A GitHub Tracking System](governance-tracking/a-github-tracking-system.md)
+* [An Accessible Dashboard](governance-tracking/an-accessible-dashboard.md)
 
