@@ -6,5 +6,7 @@ description: Building a distributed governance practice with GitHub
 
 ## Adapting the GitHub Issue Management System
 
+GitHub has been predomiatbly oriented towards software development and issues recorded stages in a software development lifecycle \(either as bugs, improvements or feature requests\).
+
 
 
