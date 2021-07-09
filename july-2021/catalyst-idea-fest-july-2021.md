@@ -28,3 +28,9 @@ description: Catalyst Idea Fest for July 2021
 
 ![Idea Fest Discord Announcement](https://user-images.githubusercontent.com/25156451/124841664-a82b8180-df85-11eb-830b-88332cdd6c91.png)
 
+## Final Announcement
+
+
+
+
+
