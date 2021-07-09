@@ -20,7 +20,11 @@ Using a software platform to track the collective's immediate governance needs p
 
 ## A GitHub Issue as the record of a day
 
-In order to meet the immediate and minmum requirements of an emerging collective I propse a basic GitHub Issue as the record of a day's work for that collective.
+In order to meet the immediate and minimum requirements of an emerging collective I propse a basic GitHub Issue as the record of a day's work for that collective.
+
+
+
+
 
 
 
