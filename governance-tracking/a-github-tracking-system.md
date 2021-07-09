@@ -18,7 +18,13 @@ Lack of a structure is a governance choice and will result in issues being forgo
 
 Using a software platform to track the collective's immediate governance needs presents challenges of accessibility, risks of specialized knowledge \(gatekeepers\) and differences of opinion over methodology \(informal versus formal\) and platform \(favored tools\).
 
-## An Issue as the record of a day
+## A GitHub Issue as the record of a day
+
+In order to meet the immediate and minmum requirements of an emerging collective I propse a basic GitHub Issue as the record of a day's work for that collective.
+
+
+
+
 
 
 
