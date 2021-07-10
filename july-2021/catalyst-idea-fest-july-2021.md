@@ -76,7 +76,11 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdmfp7BOY-4edwmDwaLZ12S-6Ec2rqJIqXaWj9UeqKgPLohtQ/viewform" %}
 
+## Catalyst Idea Fest - IOHK Youtube
 
+{% embed url="https://www.youtube.com/watch?v=utfmqQiSMHU" %}
+
+Fund5 voter registrations are open! Join now live & be part of the Catalyst
 
 
 
