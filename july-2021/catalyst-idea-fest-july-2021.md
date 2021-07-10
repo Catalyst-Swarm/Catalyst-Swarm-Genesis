@@ -72,6 +72,10 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 {% embed url="https://docs.google.com/spreadsheets/d/1yyeowtvqNktWUcj\_52HKyKYGYz\_RPIzw2ZgicKOfBFk/edit\#gid=0" %}
 
+## Idea Fest - Your Favorite Proposals
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdmfp7BOY-4edwmDwaLZ12S-6Ec2rqJIqXaWj9UeqKgPLohtQ/viewform" %}
+
 
 
 
