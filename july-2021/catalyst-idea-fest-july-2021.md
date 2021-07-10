@@ -38,7 +38,7 @@ Further, the Idea Fest is an initiative to meet the teams and people behind prop
 
 ![Final Announcement - 10th July 2021](https://user-images.githubusercontent.com/25156451/125138543-bc4abc80-e106-11eb-83f6-9334f27e9faa.png)
 
-### Extras 
+### Extras
 
 Highlights will be edited in a Movie. \( who knows where the Movie will be showed ;\)
 
@@ -46,7 +46,7 @@ Highlights will be edited in a Movie. \( who knows where the Movie will be showe
 
 NFT & FT awards that will recognise & reward the participation in the event of all parties and highlight the best presented proposals. Awards by New MIndflow
 
-### This is an experiment and pilot. 
+### This is an experiment and pilot.
 
 This is an experiment and pilot. Please, be patient with all of us as we navigate this concept collectively. We appreciate your interest in participating. See you there, your Project Catalyst & Catalyst Swarm Crew
 
@@ -70,20 +70,19 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 ## Breakout Room Organization
 
-{% embed url="https://docs.google.com/spreadsheets/d/1yyeowtvqNktWUcj\_52HKyKYGYz\_RPIzw2ZgicKOfBFk/edit\#gid=0" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1yyeowtvqNktWUcj\_52HKyKYGYz\_RPIzw2ZgicKOfBFk/edit\#gid=0" caption="" %}
 
 ## Idea Fest - Your Favorite Proposals
 
 ## Catalyst Idea Fest - IOHK Youtube
 
-{% embed url="https://www.youtube.com/watch?v=utfmqQiSMHU" %}
+{% embed url="https://www.youtube.com/watch?v=utfmqQiSMHU" caption="" %}
 
 Fund5 voter registrations are open! Join now live & be part of the Catalyst
 
-![2021-07-10 (2)](https://user-images.githubusercontent.com/25156451/125177928-d1435080-e1d7-11eb-92a1-019437dfbf54.png)
+## Shout-out to the Idea Fest organizers
 
-
-
+![Shout-out to the Idea Fest organizers](https://user-images.githubusercontent.com/25156451/125177928-d1435080-e1d7-11eb-92a1-019437dfbf54.png)
 
 
 
