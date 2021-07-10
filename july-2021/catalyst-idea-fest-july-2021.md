@@ -80,6 +80,9 @@ This is an experiment and pilot. Please, be patient with all of us as we navigat
 
 Fund5 voter registrations are open! Join now live & be part of the Catalyst
 
+![2021-07-10 (2)](https://user-images.githubusercontent.com/25156451/125177928-d1435080-e1d7-11eb-92a1-019437dfbf54.png)
+
+
 
 
 
