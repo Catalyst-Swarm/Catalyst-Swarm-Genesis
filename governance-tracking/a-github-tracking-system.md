@@ -28,5 +28,11 @@ At a minimum this Issue records who is working in the collective that day, the m
 
 ![Major tasks completed](https://user-images.githubusercontent.com/25156451/125093649-6b1cd780-e0ca-11eb-9c33-722b4091c37c.png)
 
+## Catalyst Swarm Weekly Tasks Project Board
+
+![2021-07-12](https://user-images.githubusercontent.com/25156451/125321466-9e629f00-e334-11eb-97d3-51e7accb6025.png)
+
+
+
 
 
