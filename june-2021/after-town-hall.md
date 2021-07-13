@@ -4,6 +4,14 @@ description: For the month of June 2021
 
 # Catalyst Town Halls - June 2021
 
+## June 9th, Town Hall
+
+{% embed url="https://www.youtube.com/watch?v=KMnq8\_p2OXo&t" %}
+
+### Presentation Slides
+
+{% embed url="https://docs.google.com/presentation/d/1QfxA-X-ZQ8fgDIffMnJnASnvEUjl3vdzKg-Y1\_4qkog/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
 ## June 16th, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=z1yU\_dV2JKg" %}
