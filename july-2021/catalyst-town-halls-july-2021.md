@@ -58,6 +58,8 @@ Please note that timestamps open in a new tab:
 
 ### Project Catalyst Town Hall \#16
 
+Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and rest of the community for our weekly Catalyst update.
+
 {% embed url="https://www.youtube.com/watch?v=\_H-dSnMmpA4" %}
 
 
