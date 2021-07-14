@@ -56,7 +56,13 @@ Please note that timestamps open in a new tab:
 
 ## July 14th , Town hall
 
+### Project Catalyst Town Hall \#16
 
+{% embed url="https://www.youtube.com/watch?v=\_H-dSnMmpA4" %}
+
+
+
+### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1S5B1KTHeg1g5WDvRd6bohgHKLMjbr\_X-MBJYgSqVzgo/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
