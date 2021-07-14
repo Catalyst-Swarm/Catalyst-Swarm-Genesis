@@ -54,5 +54,11 @@ Please note that timestamps open in a new tab:
 
 {% embed url="https://docs.google.com/presentation/d/12\_tDa5UgVG4z7jqKEbqQ6S24y-8YE8VhEuNzot5THPM/edit\#slide=id.ge3f9979aed\_0\_0" %}
 
+## July 14th , Town hall
+
+
+
+{% embed url="https://docs.google.com/presentation/d/1S5B1KTHeg1g5WDvRd6bohgHKLMjbr\_X-MBJYgSqVzgo/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
 
 
