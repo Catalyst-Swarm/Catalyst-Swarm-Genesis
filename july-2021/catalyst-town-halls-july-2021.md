@@ -62,7 +62,31 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 {% embed url="https://www.youtube.com/watch?v=\_H-dSnMmpA4" %}
 
+####  [00:00:00](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=0s) Welcome to [\#ProjectCatalyst](https://www.youtube.com/hashtag/projectcatalyst)
 
+#### [00:02:42](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=162s) BIG KUDOS to tonight’s language pioneers
+
+#### [00:04:17](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=257s) Presentation by Stephen Whitenstall from Catalyst GitBook Project
+
+####  [00:16:02](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=962s) Fund6 Challenge Setting Preview with Kriss Baird
+
+####  [00:25:23](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=1523s) [\#wenrewards](https://www.youtube.com/hashtag/wenrewards)? This week!
+
+####  [00:28:49](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=1729s) Fund 5 governance timeline
+
+####  [00:30:05](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=1805s) What will Fund5 bring?
+
+####  [00:31:57](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=1917s) Tell us - why are you voting?
+
+#### [00:42:06](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=2526s) Ways to register & Registration requirements
+
+#### [00:44:01](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=2641s) Catalyst Circle Update
+
+#### [01:00:01](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=3601s) IdeaFest Update with Aidan
+
+#### [01:07:11](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=4031s) Useful Links
+
+#### [01:07:46](https://www.youtube.com/watch?v=_H-dSnMmpA4&t=4066s) Breakout rooms
 
 ### Slides
 
