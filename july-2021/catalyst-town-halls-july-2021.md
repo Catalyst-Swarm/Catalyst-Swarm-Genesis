@@ -92,5 +92,10 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 {% embed url="https://docs.google.com/presentation/d/1S5B1KTHeg1g5WDvRd6bohgHKLMjbr\_X-MBJYgSqVzgo/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
+## After Town Hall
+
+![2021-07-15 (2)](https://user-images.githubusercontent.com/25156451/125838656-0348caba-66ce-4534-a02e-c6fd3f7c521c.png)
+
+
 
 
