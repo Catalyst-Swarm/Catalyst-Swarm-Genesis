@@ -84,5 +84,13 @@ Fund5 voter registrations are open! Join now live & be part of the Catalyst
 
 ![Shout-out to the Idea Fest organizers](https://user-images.githubusercontent.com/25156451/125177928-d1435080-e1d7-11eb-92a1-019437dfbf54.png)
 
+## Awards
+
+{% embed url="https://twitter.com/newmindflow/status/1415656485040922627?s=20" %}
+
+
+
+
+
 
 
