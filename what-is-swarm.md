@@ -4,7 +4,7 @@ description: What is Swarm? Voices from the Catalyst Community share their exper
 
 # What is Swarm ?
 
-{% embed url="https://www.youtube.com/watch?v=mvLAOY8tzFI&t=227s" %}
+{% embed url="https://www.youtube.com/watch?v=mvLAOY8tzFI&t=227s" caption="Voices from the Catalyst Community share their experiences" %}
 
 We are a self organizing Project Catalyst community, supporting the success of Cardano’s Project Catalyst and it’s community of voters, advisors, proposers, SPO's, projects and groups. 
 
