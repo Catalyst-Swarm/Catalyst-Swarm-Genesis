@@ -12,5 +12,9 @@ description: For the month of July 2021
 
 ![Another relaxing day for @everyone to sit down and have a chat about what is going on.](../.gitbook/assets/2021-07-17.png)
 
+#### Discord Context
+
+{% embed url="https://discord.com/channels/756943420660121600/857713710617460746/865888739725017088" %}
+
 
 
