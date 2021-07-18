@@ -22,5 +22,15 @@ description: For the month of July 2021
 
 {% embed url="https://discord.com/channels/756943420660121600/857713710617460746/865888739725017088" %}
 
+### DAO Library hosted by Pete Oliver-Krueger
+
+{% embed url="https://www.youtube.com/watch?v=OvBJhtIMehU" caption="DAO Library hosted by Pete Oliver-Krueger" %}
+
+#### Miro Board link:
+
+{% embed url="https://miro.com/app/board/o9J\_l6MT8rY=/?moveToWidget=3074457361478716256&cot=10" %}
+
+
+
 
 
