@@ -33,10 +33,10 @@
 
 * [Swarm Sessions - March 2021](march-2021/untitled.md)
 
-## Governance Tracking
+## Governance
 
-* [Overview](governance-tracking/overview.md)
-* [A GitHub Tracking System](governance-tracking/a-github-tracking-system.md)
-* [After Town Halls](governance-tracking/after-town-halls.md)
-* [Saturday Swarm Sessions](governance-tracking/saturday-swarm-sessions.md)
+* [Overview](governance/overview.md)
+* [A GitHub Tracking System](governance/a-github-tracking-system.md)
+* [After Town Halls](governance/after-town-halls.md)
+* [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
