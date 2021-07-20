@@ -14,5 +14,13 @@ description: >-
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues?q=is%3Aopen+is%3Aissue+project%3ACatalyst-Swarm%2FCatalyst-Beehive%2F4" %}
 
+## Checklist
 
+
+
+## Zoom
+
+
+
+## Miro Boards
 
