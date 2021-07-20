@@ -34,7 +34,7 @@ description: For the month of July 2021
 
 {% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" caption="Toolmakers and Maintainers problem sensing hosted by Felix" %}
 
-A more detailed breakdown of this session can be found on the Catalyst Circle site.
+A more detailed breakdown of this session can be found on the [Catalyst Circle site](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#toolmakers-and-maintainers-problem-sensing).
 
 
 
