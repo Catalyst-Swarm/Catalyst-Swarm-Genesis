@@ -6,3 +6,13 @@ description: >-
 
 # After Town Halls
 
+## After Town Hall Project Board
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/projects/4" %}
+
+## Open Issues for After Town Hall
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues?q=is%3Aopen+is%3Aissue+project%3ACatalyst-Swarm%2FCatalyst-Beehive%2F4" %}
+
+
+
