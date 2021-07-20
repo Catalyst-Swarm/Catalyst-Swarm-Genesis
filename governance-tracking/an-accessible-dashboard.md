@@ -20,6 +20,12 @@ description: >-
 
 ## Zoom
 
+### Enabling and adding a co-host
+
+{% embed url="https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host" %}
+
+
+
 
 
 ## Miro Boards
