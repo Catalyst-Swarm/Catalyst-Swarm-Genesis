@@ -1,7 +1,5 @@
 ---
-description: >-
-  Building an accessible front-end for the GitHub distributed governance
-  practice.
+description: Requirements and planning for After Town Halls
 ---
 
 # After Town Halls
