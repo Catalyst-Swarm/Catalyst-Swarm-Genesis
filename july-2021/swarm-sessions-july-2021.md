@@ -30,8 +30,6 @@ description: For the month of July 2021
 
 {% embed url="https://miro.com/app/board/o9J\_l6MT8rY=/?moveToWidget=3074457361478716256&cot=10" %}
 
-
-
 ### Toolmakers and Maintainers problem sensing hosted by Felix
 
 {% embed url="https://www.youtube.com/watch?v=r6Un6sJL\_wQ" caption="Toolmakers and Maintainers problem sensing hosted by Felix" %}
