@@ -38,4 +38,5 @@
 * [Overview](governance-tracking/overview.md)
 * [A GitHub Tracking System](governance-tracking/a-github-tracking-system.md)
 * [After Town Halls](governance-tracking/after-town-halls.md)
+* [Saturday Swarm Sessions](governance-tracking/saturday-swarm-sessions.md)
 
