@@ -98,6 +98,10 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 ## July 21st, Town Hall
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/17IOv5yTlr1Mj0YjuBIARazVUNSPG1amYWnqoMYi5huk/edit" %}
+
 ### After Town Hall
 
 ![July 21st, After Town Hall](../.gitbook/assets/2021-07-21-4-.png)
