@@ -14,13 +14,10 @@ description: Requirements and planning for After Town Halls
 
 ## Checklist
 
-Before each session a host should have prepared some content or know what they intend to present.
-
-
-
-
-
-
+- [ ] Before each session a host should have prepared some content or know what they intend to present.
+- [ ] When the session starts the host should ask if the attendees mind being recorded.
+- [ ] The host should record the session (if there are no objections).
+- [ ] The host should end the recording after the session times out (45 minutes).
 
 ## Zoom
 
