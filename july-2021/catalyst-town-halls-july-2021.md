@@ -96,5 +96,11 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 ![After Town Hall](https://user-images.githubusercontent.com/25156451/125838656-0348caba-66ce-4534-a02e-c6fd3f7c521c.png)
 
+## July 21st, Town Hall
+
+### After Town Hall
+
+![July 21st, After Town Hall](../.gitbook/assets/2021-07-21-4-.png)
+
 
 
