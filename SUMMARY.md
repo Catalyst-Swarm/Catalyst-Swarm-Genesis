@@ -36,7 +36,7 @@
 ## Governance
 
 * [Overview](governance/overview.md)
-* [A GitHub Tracking System](governance/a-github-tracking-system.md)
+* [Our GitHub Tracking System](governance/a-github-tracking-system.md)
 * [After Town Halls](governance/after-town-halls.md)
 * [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
