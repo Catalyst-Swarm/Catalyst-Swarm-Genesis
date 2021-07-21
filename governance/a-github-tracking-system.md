@@ -34,3 +34,15 @@ At a minimum this Issue records who is working in the collective that day, the m
 
 ![Catalyst Swarm Weekly Tasks Project Board](https://user-images.githubusercontent.com/25156451/125321466-9e629f00-e334-11eb-97d3-51e7accb6025.png)
 
+## Issues
+
+A list of all Issues for Catalyst-Swarm / Catalyst-Beehive can be seen here
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues" %}
+
+### The Issue list interface
+
+![The Issue list interface](../.gitbook/assets/2021-07-21.png)
+
+
+
