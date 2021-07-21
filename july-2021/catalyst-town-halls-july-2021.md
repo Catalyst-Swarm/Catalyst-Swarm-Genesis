@@ -98,6 +98,10 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 ## July 21st, Town Hall
 
+Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and rest of the community for our weekly Catalyst update.
+
+{% embed url="https://www.youtube.com/watch?v=5988qJvf-FQ" %}
+
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/17IOv5yTlr1Mj0YjuBIARazVUNSPG1amYWnqoMYi5huk/edit" %}
