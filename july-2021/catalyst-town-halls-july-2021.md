@@ -14,7 +14,7 @@ A recording of June 30th, Town Hall for the Eastern Hemisphere Timezone.
 
 ## July 7th Town Hall
 
-#### Project Catalyst Town Hall \#15
+### Project Catalyst Town Hall \#15
 
 {% embed url="https://www.youtube.com/watch?v=langx68O9QE" caption="" %}
 
@@ -97,6 +97,8 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 ![After Town Hall](https://user-images.githubusercontent.com/25156451/125838656-0348caba-66ce-4534-a02e-c6fd3f7c521c.png)
 
 ## July 21st, Town Hall
+
+### Project Catalyst Town Hall \#17
 
 Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and rest of the community for our weekly Catalyst update.
 
