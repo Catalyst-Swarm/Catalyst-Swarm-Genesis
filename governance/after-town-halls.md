@@ -14,6 +14,10 @@ description: Requirements and planning for After Town Halls
 
 ## Checklist
 
+Before each session a host should have prepared some content or know what they intend to present.
+
+
+
 
 
 
