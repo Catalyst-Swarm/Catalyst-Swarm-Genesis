@@ -112,5 +112,17 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 ![July 21st, After Town Hall](../.gitbook/assets/2021-07-21-4-.png)
 
+### Catalyst School Session
+
+#### Simon and Stephen
+
+{% embed url="https://drive.google.com/file/d/1MJOJl7QWifRu9pXDm8tPtRPSiYnj0B\_L/view?usp=sharing" %}
+
+
+
+
+
+
+
 
 
