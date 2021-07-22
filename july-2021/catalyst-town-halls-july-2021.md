@@ -116,7 +116,11 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 #### Simon and Stephen
 
-{% embed url="https://drive.google.com/file/d/1MJOJl7QWifRu9pXDm8tPtRPSiYnj0B\_L/view?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1vCeRn6KdBxNJd\_XezaKijGduxfavaa9lFNeqKQzf64U/edit?usp=sharing" %}
+
+
+
+
 
 
 
