@@ -14,6 +14,7 @@ description: Requirements and planning for After Town Halls
 
 ## Checklist
 
+- [ ] The host or co-host should assert the main subject over anyone who misdirects the session.
 - [ ] Before each session a host should have prepared some content or know what they intend to present.
 - [ ] When the session starts the host should ask if the attendees mind being recorded.
 - [ ] The host should record the session (if there are no objections).
