@@ -58,6 +58,50 @@ Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is
 
 [06:29:25](https://www.youtube.com/watch?v=HMn7bDB4JxM&t=23365s) Africa Opensource Pharma & Medicine [https://bit.ly/3Bw4HbK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hNYkQzV0Izb1dZa2xJQ21CdTdBaFgyUUZXQXxBQ3Jtc0tsZWJmd3JYS3NnWEQ0bVRRaWpmOFlwMW1tWjd4RFZzekliNy00ZUlFSUZpYlFqV1V6MmFMUWpUSnFxek80ZmlLb3V3Q3ZkbktXWUNZWHFRWnNoRmJ6cklrcFVUNndjSzZ6d0EzRm5TWUdMTjJLLXJsOA&q=https%3A%2F%2Fbit.ly%2F3Bw4HbK)
 
+## Project Catalyst IdeaFest - Part 2
+
+ [00:00:00](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=0s) Mobile Plutus and Marlowe Dev Tools [https://bit.ly/2VTWo9l](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJLY25kMkl0MHUxX0dPT09TMkYyUG5ZZlItUXxBQ3Jtc0tsclpnVHN6TFVLS2RjaDlCX0NpaVN3bi1xdE5lVElCRFZkaFF2U1F3X0FvU1d2U0ZzU09yZ1NMODc2MkFXdkFXbWYzOUpvbU1KcXhqTmJ6UjFIejZsZDJScDZBU2RyRHh3S3U3dl9JbGM1Z1lzaEpJZw&q=https%3A%2F%2Fbit.ly%2F2VTWo9l) 
+
+[00:13:50](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=830s) The Million ADA Homepage [https://bit.ly/3wVzcEG](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVdPV2lKUTBoTnBObTFHMnpnVW01TjN4M1Fud3xBQ3Jtc0ttTV9NNWs5eVc2Z3B3N2N1NmhTVHMyaUJuR01TV2lfbFVqaDZLU0J1Z1pZbXVhdm1PbDNCeHJmUkQ1UGRyZ0wyT3BNNWVSSEEzU2FyN3lKQ2tta3NEWmUxTTl0N3RJUUh6cE9XTlVvN2xLUDRlSmJMQQ&q=https%3A%2F%2Fbit.ly%2F3wVzcEG)
+
+[00:31:14](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=1874s) Youbiquitor Dapp for gig workers [https://bit.ly/3xW2zYM](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFZ0LWMweHdzMGFWNXZjbWZON1FqeGhVM2t2QXxBQ3Jtc0tsTXNaWDJsdHdOaXBZS2twN3dlbXMybVFUUmxoVXB3X29JZzZKeGx6NGRxdWp3Y3BQR0ZaVUxyRXZ4VEJuQVNLVWNYUVZXQ2lUMTZmUVhnMmJwcHVLOXlqY0RYaGVZZ1JuaWJyWnJZc29XeUtTUEU1TQ&q=https%3A%2F%2Fbit.ly%2F3xW2zYM) 
+
+[00:48:47](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=2927s) NFTDOT.IO-enable adoption of NFT&FT [https://bit.ly/3eCQznu](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnhGYjU3R096eURDR1IxSGh4ZXFkVnJoYmFyd3xBQ3Jtc0ttLVp1SzJqRGlncEFXU3FieWRjV3plU2toQ2FEMnBXb1pQb0pUQTNRcXhCaFFvay1SdlczWWVsQWNpcHU4VENMajhESUZubDZxdlpMRnZtVFNsbGF0eUh1QkFNMmY1YVFkTmMxbVo1dllYN2Q4aWlDQQ&q=https%3A%2F%2Fbit.ly%2F3eCQznu)
+
+[01:09:37](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=4177s) PCDiscord Miro board for Onboarding [https://bit.ly/3hVOHs2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGpzbXRIaVh0UkdhMEZ4b0ttLW1GNU9ER19nd3xBQ3Jtc0trVE92cnBzeFpKSDhKZVlEZUVXUDl5ZnZLbHh4RmJleDZnYkFQdG1vQ0ZRWFl3YUhHSGVrZnJZT3p6T25RQnlZdlFQUFZHalB2eVdqaC0zUlRlOW1PLWZTZEFVWlFPSHYxUlZXLUx1UnNEQ0Fvckk0RQ&q=https%3A%2F%2Fbit.ly%2F3hVOHs2) 
+
+[01:22:39](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=4959s) Open Ideas and Data For Cooperation [https://bit.ly/3hTF8JV](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3RhYkFuSmdZZVhoeVk0dHhxYlhveVUxMy1hd3xBQ3Jtc0tsUTdRbU9GU2UtTlR6MnA2NEN0YWNucllaWFVZLTdEcExoWXl2U3F3Ym04andQVjlBc2xyYkFSdEZEdWg4WVBNcUxFUTJweTF0TWU1QkJQc3R2QkZVdzNyRERabC1mcktnbUNnOU1fTERudEJ1X2kzcw&q=https%3A%2F%2Fbit.ly%2F3hTF8JV)
+
+[01:41:12](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=6072s) On Chain Trust [https://bit.ly/2UxZEqH](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbV9FMjZUV1JjWHZyN2M2LVhhdFlRRXBMWFdIZ3xBQ3Jtc0ttNWtaSTB2Rm02NV9TclZJbnZMWC1WMFEyNlRaWU9mRl9jS0FRYlFzUG9kUXE2SFdWN2IzbFJQRHpPNWR1Y2d4VTlUNEdoVjNrU0pvY2J6UWJaek54MU9pTFpqYmpRT2F0SWt5X2w4dEVzZ1J1MTZHRQ&q=https%3A%2F%2Fbit.ly%2F2UxZEqH)
+
+[02:00:10](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=7210s) DeFi/CeFi Cardano&...TBC in Fund 7 [https://bit.ly/3zmgYxK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXhBNkFOQ3otcW5lNGE2aTh6NUwwRkF6RmJFQXxBQ3Jtc0tsZC1ZVVo5S3p3Mlp3V2N6WTNIdVRlUGdCOTM3VGRqN1BBc3dheTAtbWVEVHNIbU40OXBsZlJ0R25TY0NJc1BVaDV6V2NSenVzLUZKd1BlX1NzRVhLSXNJTnBlc2U1eEFyVGJyaHVVZXlILTNzTDloWQ&q=https%3A%2F%2Fbit.ly%2F3zmgYxK)
+
+[02:14:53](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=8093s) Decentralized Real Estate [https://bit.ly/3rpDTVV](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnFKVmhTeW9tRWFCLTVxVFVYaDYybjcxU3J3UXxBQ3Jtc0ttRm5fd0FMSUEwUzVyajJGaUM4MjBqalFtSGxZR1ZpWmZrN1lXcTVaT3RHRFBINmJWckVtczA4b3FvUW1rOFZqdjg5eXJUeWwyODB1cC1raXdqOHhCVFFCemVFcHF2bVVva2dseFZKaDdRTVp1RFJ4bw&q=https%3A%2F%2Fbit.ly%2F3rpDTVV) 
+
+[02:32:00](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=9120s) Prsona: Dapp for political personas [https://bit.ly/3BrghEX](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmtOZnB3ZThIOERuMFhxeE1TQ3BidzNyUjNaQXxBQ3Jtc0trQUhVVW9WLWlkdG40ZktNdlJZVHVzSDFheTZ2NEVaYzhMVGlkMF9jNXdicTJPWFppRnZTY1FiSndfd2dfMnFtVGhjUDRFdGlUMW5PcC0wNjBOdTZ5OEdSNVZfeHJXemVyMzZsUGI1VHJrNmJjT0hCYw&q=https%3A%2F%2Fbit.ly%2F3BrghEX)
+
+[02:50:05](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=10205s) nft-maker.io - Full NFT platform [https://bit.ly/36QHWkY](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0stRFNGLWRCMGx5LWpKcVNIZnpmREN1Qm9nUXxBQ3Jtc0tsZ1FkSWFacDBNV3otUHZkQUlQRkhKNVNVUVQ1dDNmZXR2RW1FYU1fV1g3Z3JoLWdVaVVXSk1oaHlIcDZvWnNBYUZEX2FPb2RNWjNqQ1Q5UzA1cjh4OW4tSFFnNVpWb2RibF9pTzVrY204WktZY3JxQQ&q=https%3A%2F%2Fbit.ly%2F36QHWkY) 
+
+[03:08:43](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=11323s) Catalyst Incubation Centers [https://bit.ly/3rqadYR](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEVKeWZDdm1maGEwOGJ2dXFaNWJIZFZLcWlRZ3xBQ3Jtc0tuMHlEd2JfdDdFUUw3QmdIYTR6SGdobkdxRVRMWGRMalJsZ3hyQ2EyeHN1ZUVGQ28xZWdvZE1jNzRQeDFvUVlSNXlDNGRnRU5ETWRpYjRaRVZuTE9aY1VLc0c2VkdwQkg3N01JUi1IX29BaWNsOVZFWQ&q=https%3A%2F%2Fbit.ly%2F3rqadYR) 
+
+[03:25:57](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=12357s) NFTDAO: Industry Standards 1 \(dues\) [https://bit.ly/3wVymHK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFsQkwxN1hxZDdRRWE4Y1pBUzl2djdjUjFSQXxBQ3Jtc0tsX25SOFVxNFFxaDdGNEJ3WWxJeTZFMUlvS2U2aFByRERHQTBMbkxOa2RnYXd2blRRallxR3ZROTE0alp2c0lXc2RPTXY5QldGem9TOG9BZVFsQ2VBVmo4VW9JUEtQbmE4WUlENzZ6NzloMWdsXzB1cw&q=https%3A%2F%2Fbit.ly%2F3wVymHK)
+
+[03:43:54](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=13434s) Daedalus Wallet Node SBC Devices [https://bit.ly/2TsyYao](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXdtVWk1SWtWRE40WGVVVUZQNmhvRGdiZmR3Z3xBQ3Jtc0tsNWYtaWRtYVVIYzYxbkk1Z0xhOVZsQ01pN01XTTZzRGpwN0tlc1ppTlZYOGZ3bUhWeWpHdHlGRlo4aEs0YVR6MFl6VEFvbVNzNVlHbm9INEw1WU1HS3N5TU1EZGRiYUJmUGdRU2JKdDVvLXJ1SWV6MA&q=https%3A%2F%2Fbit.ly%2F2TsyYao)
+
+[03:51:40](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=13900s) Banking The Unbanked [https://bit.ly/3kHndYO](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlZd3NJM0E4bDQxbzYyXzFNcmlxSC1XQU52d3xBQ3Jtc0tsWWpoS2VOcW5LWm9TXy1JSjZSV21Ud0UtUkN6d3Q5VHhHcHU0eWFOdlZVZllPdXZwNUduZlBFWnJGajB2T2lYcTA2M0F6dEtXaTRqUVJXT0F2RFhZZUVSME05X0JpSnhzeTR0QmlEMkF3bktnYVR6Yw&q=https%3A%2F%2Fbit.ly%2F3kHndYO) 
+
+[04:19:05](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=15545s) Step-by-Step Guide: Off-Chain Code [https://bit.ly/2W4kwX4](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JrUlRURWpOYjA4bHhGc0JXN21fTzhQTEgtUXxBQ3Jtc0tuTXJBV01uTjRQdzZyY2JscEcxM3NrVU5xdEozMlRlbFo3Tm82V01QNkJGY0piX2Z6eng5SmdqcU5NX1YtSnd0LUZ0UTZjMlFTOXA4OFFTcjNudk5QS1Zlanl1LUxzUWd4VkRFWmFPbkU1YW1BVm9QOA&q=https%3A%2F%2Fbit.ly%2F2W4kwX4)
+
+[04:28:10](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=16090s) Arnot - iOS SDK [https://bit.ly/3wVzhZ0](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUJuYWRwYm1PeW5uYUNUUXJRYUFsWWhPSWNsUXxBQ3Jtc0ttZl9OeEF4eVEtTzh2QmJtWVJEQTZ1dVZUTU1vU3dDZk9jQ0NNZDNoV1JjbEo3eEhKaGExOW1hSVNURDRRX29rSkRxal9kRDduMW9mekJHZTRSUE9SeGloc3ZjVGFjenhVelBhbmhwZENZWmVTU1kxYw&q=https%3A%2F%2Fbit.ly%2F3wVzhZ0)
+
+[04:35:10](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=16510s) MicroTask/Development Challenge [https://bit.ly/2W08xJX](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEJmemRvbXBOVk5Gck9ZY2lNRGNFeDVVLWRFQXxBQ3Jtc0tubkZwd3kta1l6MDFVUW9RenF5dUViQmVqQThza3ZZNnNOa1FXZ0xUeFhhVUpuV3M4Rk9nZnpuWWs3T3p0cFA0NEcxejFQQnBaZzNtMER6X2pycGdUaDMtSGFJWnREZ2VaYUt2WVBERGJNRXJ3ODJndw&q=https%3A%2F%2Fbit.ly%2F2W08xJX) 
+
+[04:52:25](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=17545s) PlayerMint P2: MetaVerse Toolkit [https://bit.ly/3eIIUUq](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFJnbVlEVnBvS0d0cDBlMEVBUUVPSnR5NVZ1d3xBQ3Jtc0ttdXFUczZISmxrZmlydG9xRDdJQ0pydWV1RS04NlZhOGV5ZlJxN2lweV9GVjdSNlNWQjJ5MXlRNDJJZmJCX3Zqclp0a2U1ZHpERjFDamIyaFpIOFNoQkpDMVN4S3BwLW5KREo2allhNTFNalFKWUM0NA&q=https%3A%2F%2Fbit.ly%2F3eIIUUq) 
+
+[05:12:10](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=18730s) Cardano Wallet Flutter SDK [https://bit.ly/2VWf3Bo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazNfR1VwamtzdGxNZ3FOMkl1UzFVY2FHMmJIZ3xBQ3Jtc0tsNFFySFo1VmZPb0dVUWplLWFVeV9BV2ZCTTNaTmZaTEF4b1V1MDFDaU9OV1B1RkRodjBMeEhvOGM1aVl4VXVPdWpiYTVxRkpVODR5Wlk1SFlDSllYbU9qRUE4bTNLZTllbEhmcGN4VC1WZnpjZjFjOA&q=https%3A%2F%2Fbit.ly%2F2VWf3Bo)
+
+[05:40:15](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=20415s) IdeaFest afterparty & voting
+
 ## 
 
 ## 
