@@ -6,7 +6,7 @@ description: Catalyst Idea Fest for July 2021
 
 ## Idea Fest Highlight Videos
 
-#### Edited by AdaTruth
+#### Edited by AdaTruth \( [https://www.adatruth.com/fund-5-proposal](https://www.adatruth.com/fund-5-proposal)\)
 
 ### Part One
 
@@ -16,7 +16,7 @@ description: Catalyst Idea Fest for July 2021
 
 {% embed url="https://www.youtube.com/watch?v=nTFIGX2YTuY" %}
 
-### Part 3
+### Part Three
 
 {% embed url="https://www.youtube.com/watch?v=yXf7EduzSfo" %}
 
