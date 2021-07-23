@@ -4,7 +4,7 @@ description: Catalyst Idea Fest for July 2021
 
 # Catalyst Idea Fest - July 2021
 
-## Project Catalyst IdeaFest - Part 1
+## Project Catalyst IdeaFest
 
 {% embed url="https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s" %}
 
