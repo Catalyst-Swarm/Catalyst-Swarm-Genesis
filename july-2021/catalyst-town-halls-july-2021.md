@@ -118,6 +118,12 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and res
 
 {% embed url="https://docs.google.com/presentation/d/1vCeRn6KdBxNJd\_XezaKijGduxfavaa9lFNeqKQzf64U/edit?usp=sharing" %}
 
+### Collective Live Voting
+
+In this video, we are using the community-created tool to look at the proposals and give our collective view of how we would vote on Catalyst Proposals.
+
+{% embed url="https://www.youtube.com/watch?v=THFYj2-YZLA" %}
+
 
 
 
