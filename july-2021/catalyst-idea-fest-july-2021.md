@@ -24,11 +24,11 @@ description: Catalyst Idea Fest for July 2021
 
 ## Project Catalyst IdeaFest YouTube Recordings
 
-{% embed url="https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s" %}
-
 Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is a recording of all the participants that took place in all break-out rooms. Recording is broken down to two parts.
 
 ### IdeaFest - Part 1 Timestamps :
+
+{% embed url="https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s" %}
 
 [00:00:00](https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s) IdeaFest welcome & event schedule
 
