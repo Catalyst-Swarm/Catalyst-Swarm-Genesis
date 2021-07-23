@@ -78,6 +78,10 @@ Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is
 
 ### IdeaFest - Part 2 Timestamps :
 
+{% embed url="https://www.youtube.com/watch?v=wWzxaHoiEZc" %}
+
+
+
  [00:00:00](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=0s) Mobile Plutus and Marlowe Dev Tools [https://bit.ly/2VTWo9l](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJLY25kMkl0MHUxX0dPT09TMkYyUG5ZZlItUXxBQ3Jtc0tsclpnVHN6TFVLS2RjaDlCX0NpaVN3bi1xdE5lVElCRFZkaFF2U1F3X0FvU1d2U0ZzU09yZ1NMODc2MkFXdkFXbWYzOUpvbU1KcXhqTmJ6UjFIejZsZDJScDZBU2RyRHh3S3U3dl9JbGM1Z1lzaEpJZw&q=https%3A%2F%2Fbit.ly%2F2VTWo9l) 
 
 [00:13:50](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=830s) The Million ADA Homepage [https://bit.ly/3wVzcEG](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVdPV2lKUTBoTnBObTFHMnpnVW01TjN4M1Fud3xBQ3Jtc0ttTV9NNWs5eVc2Z3B3N2N1NmhTVHMyaUJuR01TV2lfbFVqaDZLU0J1Z1pZbXVhdm1PbDNCeHJmUkQ1UGRyZ0wyT3BNNWVSSEEzU2FyN3lKQ2tta3NEWmUxTTl0N3RJUUh6cE9XTlVvN2xLUDRlSmJMQQ&q=https%3A%2F%2Fbit.ly%2F3wVzcEG)
