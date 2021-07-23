@@ -4,6 +4,10 @@ description: Catalyst Idea Fest for July 2021
 
 # Catalyst Idea Fest - July 2021
 
+The goal behind the Catalyst Idea Fest \(CIF\) is to create, evolve and establish a new format to present community driven projects. As well to offer a stage to proposers and their activities
+
+Further, the Idea Fest is an initiative to meet the teams and people behind proposals and learn about exciting projects which build the future of Cardano.
+
 ## Idea Fest Highlight Videos
 
 #### Edited by AdaTruth \( [https://www.adatruth.com/fund-5-proposal](https://www.adatruth.com/fund-5-proposal)\)
