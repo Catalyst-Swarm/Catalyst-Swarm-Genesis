@@ -170,7 +170,23 @@ Today I will talk to Tevo and Steve about their proposals and also talk about Th
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Planting-Roots-In-Africa/350764-48088" %}
 
+### Catalyst Fund 5 Artano NFT market place. Mint NFT and earn royalties
 
+{% embed url="https://www.youtube.com/watch?v=Yy6AigRdEMc" %}
+
+ Today I will talk with Matt and Maria about their proposal on Catalyst called Artano NFT Market Palce. - 
+
+Reddit: [https://www.reddit.com/r/Artano/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbS16eXZGemRYVU1HSzQ0eVhvYUNuWkNFRnRDQXxBQ3Jtc0tsbGxzLV83SmE4bUlRTmQzQ21EX2s1S05kYXNIaXZXd3QxUDB0dXlCb3Y1d25yQ1lYdzlieEVTZXBncXVxYl85dGFLb3oySmVyMjBoU1c5MThNSnJydDYyTFdrUGp6SjNtWTFwUGNxRXQ2R19zR0EwOA&q=https%3A%2F%2Fwww.reddit.com%2Fr%2FArtano%2F) \(r/artano\) - 
+
+Twitter: [https://twitter.com/artano\_\_io](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJ0bXRSSXBjUWNDWThpZWJwcktqMGNucDRqd3xBQ3Jtc0tuaXAyRjdFQmQtaGxvV0ZmMVJfbDhfS3JhVjBQeS1rZFQ1ak1QZi1yZFZ2ZVIxWVduRkdLVkV2elFERWNyLWxJdnBmQlNlNXpjZjl1UWNPQ1NQVEppbE5Mb0dacDJKWjJua0FRX3Z5alA1SjFpTlJ3TQ&q=https%3A%2F%2Ftwitter.com%2Fartano__io) \(@artano\_\_io\) - 
+
+Instagram: [https://www.instagram.com/artano.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWxGcm1YWDd2M1R1a3VHNzhWRlZZbVphSktqUXxBQ3Jtc0ttckJqNHhWZ2FnWDRQSFV3TzhiLUpRUWZCTFFHbjJFb3dWN1FUUkp0bk1rdENUR3A0VVRrREctSW5aOUg4cVFMX1UtRmhDemN1N1BVTkg0T3NDeEJ5MGJhejZxcTZTaktXcTBrbW1zWW1qakZNZXlHMA&q=https%3A%2F%2Fwww.instagram.com%2Fartano.io%2F) \(@artano.io\) - 
+
+Linkedin: [https://www.linkedin.com/company/arta...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnhRWDZLa0RrMXlQVmtwT19uV09ianU0WXRlQXxBQ3Jtc0tsbW5fM1FrTXFodVVodHZaRGlGNWc2WHpTQllIeU9LWVJKcUd2XzZSSG0tWmdBY2xBY3FMTElUT3c2a25neWt2d2pCcFJlSkpPVkV3SVd5V0RRZDl5RHdXRnlmWE9UNUtOX2tEZWlWNzhQZHlWVnl1bw&q=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fartanoio%2F) - 
+
+Website: artano.io - Artamint: artano.io/artamint - 
+
+Telegram: [https://t.me/artanonftmarketplace](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW1LTTk2ckh3UWd4eXdxSXNHc2ZxRmFTTFlrQXxBQ3Jtc0tteGo3V3BaOC1kMjVoYzkwYWsxS1dsd2ROYTdsM1hPNUlBVGhNUzNqY1F4eDVCMTg2TGY0OEIwUUJqVTlMZXhrazFENjdXNW9zVlJDSFQ2NDFpYVY0aThublcyWTNlcHhqampKOTJTYXo1YmFxcTJ4dw&q=https%3A%2F%2Ft.me%2Fartanonftmarketplace) \(artanonftmarketplace\)
 
 
 
