@@ -102,9 +102,9 @@ Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is
 
 [05:40:15](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=20415s) IdeaFest afterparty & voting
 
-## 
+"Please note that IOHK does not endorse any of the above projects and every voter is asked to do their own due diligence when participating in the voting process."
 
-## 
+ This was a community-run event. 🎯 IdeaFest goal? To connect voters and proposers ensuring a successful funding round 5. Learn more via this slide deck presentation: [https://bit.ly/3qW3vJK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBNYzBVbmJRcVBHb2RfZUJ4Um9QT3kxbjJhUXxBQ3Jtc0ttdFYxcUhRSDBlTTNweHdVbkxZdmV3eWxXdHZjWW5kS3NDeXhWb1B2UmZTcTVmaTZYYnJhcHNwLUphMDhkUHoxNFBkWl9IcWQtSFdvb01vdV9BX3VmV0wxU1YzUUtRQ3JwNXNuQ1lJbWJZZzk0d0xjZw&q=https%3A%2F%2Fbit.ly%2F3qW3vJK) Note: These are NOT all projects on the Fund5 ballot. These are the projects that decided and/or were able to participate in an inaugural Catalyst IdeaFest in order to bridge the gap between proposals and voters. For a complete list, please visit www.cardano.ideascale.com
 
 ## Announcement
 
