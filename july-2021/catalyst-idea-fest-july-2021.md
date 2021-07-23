@@ -10,7 +10,7 @@ description: Catalyst Idea Fest for July 2021
 
 Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is a recording of all the participants that took place in all break-out rooms. Recording is broken down to two parts.
 
-### Part 1 timestamps:         
+### IdeaFest - Part 1 Timestamps :
 
 [00:00:00](https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s) IdeaFest welcome & event schedule
 
@@ -58,7 +58,7 @@ Catalyst IdeaFest was a live 2-hour event that took place two weeks ago. This is
 
 [06:29:25](https://www.youtube.com/watch?v=HMn7bDB4JxM&t=23365s) Africa Opensource Pharma & Medicine [https://bit.ly/3Bw4HbK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hNYkQzV0Izb1dZa2xJQ21CdTdBaFgyUUZXQXxBQ3Jtc0tsZWJmd3JYS3NnWEQ0bVRRaWpmOFlwMW1tWjd4RFZzekliNy00ZUlFSUZpYlFqV1V6MmFMUWpUSnFxek80ZmlLb3V3Q3ZkbktXWUNZWHFRWnNoRmJ6cklrcFVUNndjSzZ6d0EzRm5TWUdMTjJLLXJsOA&q=https%3A%2F%2Fbit.ly%2F3Bw4HbK)
 
-## Project Catalyst IdeaFest - Part 2
+### IdeaFest - Part 2 Timestamps :
 
  [00:00:00](https://www.youtube.com/watch?v=wWzxaHoiEZc&t=0s) Mobile Plutus and Marlowe Dev Tools [https://bit.ly/2VTWo9l](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJLY25kMkl0MHUxX0dPT09TMkYyUG5ZZlItUXxBQ3Jtc0tsclpnVHN6TFVLS2RjaDlCX0NpaVN3bi1xdE5lVElCRFZkaFF2U1F3X0FvU1d2U0ZzU09yZ1NMODc2MkFXdkFXbWYzOUpvbU1KcXhqTmJ6UjFIejZsZDJScDZBU2RyRHh3S3U3dl9JbGM1Z1lzaEpJZw&q=https%3A%2F%2Fbit.ly%2F2VTWo9l) 
 
