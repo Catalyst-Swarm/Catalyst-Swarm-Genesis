@@ -138,3 +138,39 @@ Note - links open in new tab
 
 {% embed url="https://www.regenerativeteams.com/2021/03/17/6-key-interactions-for-a-regenerative-team/" caption="" %}
 
+## 14th July, 2021
+
+### Empowa how to solve the problem for affordable houses in Moçambique Mozambique
+
+{% embed url="https://www.youtube.com/watch?v=l4Bwnx8kGhg" %}
+
+ Hi everyone, Empowa is a Fund 5 proposal to build a network for affordable houses in Moçambique. Glen the CEO of the project explain to us what he plan to do with the money if his proposal gets funded.
+
+####  Proposal link: 
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Introducing-Empowa/352666-48088" %}
+
+## 22nd July 2021
+
+### Catalyst Proposal Fund 5 from Tevo and Steve, The Catalyst Circle
+
+Today I will talk to Tevo and Steve about their proposals and also talk about The Catalyst Circle
+
+{% embed url="https://www.youtube.com/watch?v=pPeqYDMQOcc" %}
+
+#### Tevo Links:
+
+{% embed url="https://cardano.ideascale.com/a/dtd/MicroTask-Development-Challenge/352818-48088" %}
+
+{% embed url="https://cardano.ideascale.com/a/dtd/PCDiscord-Miro-board-for-Onboarding/352801-48088" %}
+
+{% embed url="https://cardano.ideascale.com/a/dtd/cardanocataly-st-Community-Page/350824-48088" %}
+
+#### Steve Link
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Planting-Roots-In-Africa/350764-48088" %}
+
+
+
+
+
