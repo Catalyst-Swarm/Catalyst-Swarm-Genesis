@@ -4,6 +4,24 @@ description: Catalyst Idea Fest for July 2021
 
 # Catalyst Idea Fest - July 2021
 
+## Idea Fest Highlight Videos
+
+#### Edited by AdaTruth
+
+### Part One
+
+{% embed url="https://www.youtube.com/watch?v=zFU5rJm8ieg" %}
+
+### Part Two
+
+{% embed url="https://www.youtube.com/watch?v=nTFIGX2YTuY" %}
+
+### Part 3
+
+{% embed url="https://www.youtube.com/watch?v=yXf7EduzSfo" %}
+
+
+
 ## Project Catalyst IdeaFest YouTube Recordings
 
 {% embed url="https://www.youtube.com/watch?v=HMn7bDB4JxM&t=0s" %}
