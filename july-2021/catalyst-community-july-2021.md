@@ -150,6 +150,12 @@ Note - links open in new tab
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Introducing-Empowa/352666-48088" %}
 
+## 21st July
+
+### The Eastern Hemisphere Discussion evolved and created a project
+
+![](../.gitbook/assets/2021-07-24.png)
+
 ## 22nd July 2021
 
 ### Catalyst Proposal Fund 5 from Tevo and Steve, The Catalyst Circle
