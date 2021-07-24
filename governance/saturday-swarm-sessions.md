@@ -12,8 +12,6 @@ description: Requirements and planning for Saturday Swarm Sessions
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues?q=is%3Aopen+is%3Aissue+project%3ACatalyst-Swarm%2FCatalyst-Beehive%2F5" caption="" %}
 
-## 
-
 ## Checklist
 
 * [ ] The host or co-host should assert the main subject over anyone who misdirects the session.
