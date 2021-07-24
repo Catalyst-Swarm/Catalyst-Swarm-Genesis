@@ -124,7 +124,17 @@ In this video, we are using the community-created tool to look at the proposals 
 
 {% embed url="https://www.youtube.com/watch?v=THFYj2-YZLA" %}
 
+ We focused on Distributed Decision Making challenge. 
 
+Our collective Expert Ballot:
+
+{% embed url="https://cardanocataly.st/voter-tool/\#/f5/shared/3184d49e-e048-4d3b-84db-f2d75546e782" %}
+
+
+
+Session Notes on Miro Board:
+
+ [https://miro.com/app/board/o9J\_l5PsgAQ=/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2FfUjBRcTBnamxNRU5QT1AtdmZHMVRoaG51UXxBQ3Jtc0ttQVVHTUM3cGsydTJkY08xb09Va0JtMmhkaVhRSDlKUy1pVkdVbHI2MjcxZjc3aEVESi1rdlpOS1RvME03R2twVmhOWVVOS3JaUFBTY2VNTnRfSnhMbDhJOTF1SVFCTnA4SF81d1kxUzl2cjVxQ3ZTMA&q=https%3A%2F%2Fmiro.com%2Fapp%2Fboard%2Fo9J_l5PsgAQ%3D%2F)
 
 
 
