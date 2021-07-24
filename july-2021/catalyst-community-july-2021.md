@@ -154,7 +154,13 @@ Note - links open in new tab
 
 ### The Eastern Hemisphere Discussion evolved and created a project
 
-![](../.gitbook/assets/2021-07-24.png)
+![The Eastern Hemisphere Discussion evolved and created a project](../.gitbook/assets/2021-07-24.png)
+
+#### Discord context
+
+{% embed url="https://discord.com/channels/756943420660121600/860083438823407636/867336974113308673" %}
+
+
 
 ## 22nd July 2021
 
