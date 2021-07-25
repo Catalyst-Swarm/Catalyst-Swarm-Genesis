@@ -36,5 +36,27 @@ description: For the month of July 2021
 
 A more detailed breakdown of this session can be found on the [Catalyst Circle site](https://catalyst-swarm.gitbook.io/catalyst-circle/toolmakers-and-maintainers/activity#toolmakers-and-maintainers-problem-sensing).
 
+## Saturday, 24th July 2021
+
+![Discord Annoucement](../.gitbook/assets/2021-07-24-6-.png)
+
+#### Discord context
+
+{% embed url="https://discord.com/channels/832894680290951179/836129396778991616/868489165879267358" %}
+
+
+
+### DAO Library Session
+
+An open session for the Cardano Catalyst Swarm open space. The topic today was different models for how to allocate and record contributions of effort in a Decentralized Autonomous Organization \(DAO\).
+
+{% embed url="https://www.youtube.com/watch?v=edHrTrMKJ68" %}
+
+#### DAO Library working Doc
+
+{% embed url="https://docs.google.com/document/d/1GVvHvSlgx1It9EI38ZuLluyuzt9Y336hOKrgUN1xR4o/edit" %}
+
+test
+
 
 
