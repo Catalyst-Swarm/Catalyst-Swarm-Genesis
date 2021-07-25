@@ -56,7 +56,7 @@ An open session for the Cardano Catalyst Swarm open space. The topic today was d
 
 {% embed url="https://docs.google.com/document/d/1GVvHvSlgx1It9EI38ZuLluyuzt9Y336hOKrgUN1xR4o/edit" %}
 
-test
+
 
 
 
