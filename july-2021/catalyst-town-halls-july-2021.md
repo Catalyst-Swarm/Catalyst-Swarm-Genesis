@@ -162,6 +162,14 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 [00:38:57](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2337s) Open Space
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1NGPulZ4FxMuxT8ewWDt0x8B9gjiDb\_sGe4MEO6zgI4c/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
+
+
+
+
 
 
 
