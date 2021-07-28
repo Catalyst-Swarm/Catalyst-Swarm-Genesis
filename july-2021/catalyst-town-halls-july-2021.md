@@ -134,7 +134,33 @@ In this video, we are using the community-created tool to look at the proposals 
 
 {% embed url="https://miro.com/app/board/o9J\_l5PsgAQ=/?moveToWidget=3074457361730698146&cot=10" %}
 
+## July 28th, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=dLWrq0u\_Qwg" %}
+
+Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
+
+ Timestamps:
+
+[00:00:00](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=0s) Welcome to Project Catalyst Town Hall \#17 
+
+[00:04:28](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=268s) Introduction of Eastern Hemisphere Town Halls 
+
+[00:19:16](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=1156s) Our goal: Legitimize decentralized governance 
+
+[00:33:29](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2009s) Fund 5 governance timeline
+
+[00:33:54](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2034s) Fund5 Ballot Updates 
+
+[00:35:28](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2128s) Ready for Fund6?
+
+[00:36:21](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2181s) General Voter Circle Seat 
+
+[00:38:00](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2280s) Next Town Hall 
+
+[00:38:29](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2309s) Useful links 
+
+[00:38:57](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=2337s) Open Space
 
 
 
