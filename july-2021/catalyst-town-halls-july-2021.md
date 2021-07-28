@@ -140,7 +140,7 @@ In this video, we are using the community-created tool to look at the proposals 
 
 Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
 
- Timestamps:
+###  Timestamps:
 
 [00:00:00](https://www.youtube.com/watch?v=dLWrq0u_Qwg&t=0s) Welcome to Project Catalyst Town Hall \#17 
 
