@@ -4,17 +4,19 @@ description: Requirements and planning for After Town Halls
 
 # After Town Halls
 
-## After Town Hall - Project Board
+## After Town Halls
+
+### After Town Hall - Project Board
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/projects/4" caption="" %}
 
-## After Town Hall - Open Issues
+### After Town Hall - Open Issues
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues?q=is%3Aopen+is%3Aissue+project%3ACatalyst-Swarm%2FCatalyst-Beehive%2F4" caption="" %}
 
-## Checklist
+### Checklist
 
-# Moderator Checklist for sessions
+#### Moderator Checklist for sessions
 
 * [ ] Give co-host access to all the facilitators.
 * [ ] Describe what is this event about
@@ -22,7 +24,7 @@ description: Requirements and planning for After Town Halls
 * [ ] Give voice to facilitators to allow them invite people to their room
 * [ ] Suggest using collective Miro Board
 
-# Host Checklist for sessions
+#### Host Checklist for sessions
 
 * [ ] The host or co-host should assert the main subject over anyone who misdirects the session.
 * [ ] This will help to keep the discussion and get the expected results
@@ -30,14 +32,14 @@ description: Requirements and planning for After Town Halls
 * [ ] Some preparation always helps
 * [ ] When the session starts the host should ask if the attendees mind being recorded.
 * [ ] This will help us to find out if we can upload the video to the Swarm session Youtube channel.
-* [ ] The host should record the session (if there are no objections).
+* [ ] The host should record the session \(if there are no objections\).
 * [ ] The host or co-host should take notes of the session.
 
-## Zoom
+### Zoom
 
-### Enabling and adding a co-host
+#### Enabling and adding a co-host
 
 {% embed url="https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host" caption="" %}
 
-## Miro Boards
+### Miro Boards
 
