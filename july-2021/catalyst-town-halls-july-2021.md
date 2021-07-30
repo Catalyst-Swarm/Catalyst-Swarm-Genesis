@@ -166,7 +166,13 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://docs.google.com/presentation/d/1NGPulZ4FxMuxT8ewWDt0x8B9gjiDb\_sGe4MEO6zgI4c/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
+### After Town Hall
 
+### Sala de Café After Townhall Project Catalyst Cardano Español \# 1
+
+{% embed url="https://www.youtube.com/watch?v=N-5ZL8OlIPs" %}
+
+Aquí les traemos la primera entrega de "Sala de café" After Townhall Swarm Session en donde disponemos de un espacio libre para hablar sobre el ecosistema blockchain enfocado a Cardano y Project Catalyst.
 
 
 
