@@ -80,7 +80,9 @@ An open session for the Cardano Catalyst Swarm open space. The topic today was d
 
 
 
+## Saturday, 31st July 2021
 
+![Lets play games and have fun](../.gitbook/assets/2021-08-02-14-.png)
 
 
 
