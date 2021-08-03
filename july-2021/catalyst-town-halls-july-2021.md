@@ -174,6 +174,36 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 Aquí les traemos la primera entrega de "Sala de café" After Townhall Swarm Session en donde disponemos de un espacio libre para hablar sobre el ecosistema blockchain enfocado a Cardano y Project Catalyst.
 
+### Mini Proposal Workshop hosted by Tevo Saks
+
+{% embed url="https://www.youtube.com/watch?v=gPifzITmqsk" %}
+
+This was 2nd attempt at gathering people and working on Mini-proposals In this session, we chose to continue with ideas started in the first session by a different group.
+
+#### Chapters:
+
+[00:00](https://www.youtube.com/watch?v=gPifzITmqsk&t=0s) - Opening Introductions
+
+[04:15](https://www.youtube.com/watch?v=gPifzITmqsk&t=255s) - How we work on Mini-proposals
+
+[07:15](https://www.youtube.com/watch?v=gPifzITmqsk&t=435s) - How do we proceed with this session?
+
+[13:00](https://www.youtube.com/watch?v=gPifzITmqsk&t=780s) - Repeating Introductions
+
+[14:05](https://www.youtube.com/watch?v=gPifzITmqsk&t=845s) - New Introductions
+
+[20:00](https://www.youtube.com/watch?v=gPifzITmqsk&t=1200s) - About Mini-Proposals again
+
+[21:50](https://www.youtube.com/watch?v=gPifzITmqsk&t=1310s) - Starting the Workshop
+
+[54:40](https://www.youtube.com/watch?v=gPifzITmqsk&t=3280s) - Session Feedback
+
+#### Miro Board
+
+{% embed url="https://miro.com/app/board/o9J\_l47gOrs=/?moveToWidget=3074457361915493500&cot=14" %}
+
+
+
 
 
 
