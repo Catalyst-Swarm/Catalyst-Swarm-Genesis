@@ -4,6 +4,10 @@
 * [What is Swarm ?](what-is-swarm.md)
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 
+## August 2021
+
+* [Catalyst Town Halls - August 2021](august-2021/untitled.md)
+
 ## July 2021
 
 * [Catalyst Town Halls - July 2021](july-2021/catalyst-town-halls-july-2021.md)
@@ -40,7 +44,4 @@
 * [After Town Halls](governance/after-town-halls.md)
 * [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
-## August 2021
-
-* [Catalyst Town Halls - August 2021](august-2021/untitled.md)
 
