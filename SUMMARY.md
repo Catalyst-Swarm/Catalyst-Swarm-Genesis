@@ -42,5 +42,5 @@
 
 ## August 2021
 
-* [Untitled](august-2021/untitled.md)
+* [Catalyst Town Halls - August 2021](august-2021/untitled.md)
 
