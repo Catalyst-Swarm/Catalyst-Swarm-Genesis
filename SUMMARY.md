@@ -40,3 +40,7 @@
 * [After Town Halls](governance/after-town-halls.md)
 * [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
+## August 2021
+
+* [Untitled](august-2021/untitled.md)
+
