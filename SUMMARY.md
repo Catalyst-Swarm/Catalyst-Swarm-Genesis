@@ -44,4 +44,3 @@
 * [After Town Halls](governance/after-town-halls.md)
 * [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
-
