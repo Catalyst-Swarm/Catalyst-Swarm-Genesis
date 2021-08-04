@@ -10,5 +10,7 @@ description: Catalyst Town Halls for the month of August 2021
 
 ### After Town Hall
 
-![After Town Hall Discord Annoucement](../.gitbook/assets/2021-08-04-1-.png)
+![After Town Hall Discord Announcement](../.gitbook/assets/2021-08-04-1-.png)
+
+
 
