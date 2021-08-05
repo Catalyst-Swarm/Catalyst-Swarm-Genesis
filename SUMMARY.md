@@ -6,7 +6,7 @@
 
 ## August 2021
 
-* [Catalyst Town Halls - August 2021](august-2021/untitled.md)
+* [Catalyst Town Halls - August 2021](august-2021/catalyst-town-halls-august-2021.md)
 
 ## July 2021
 
