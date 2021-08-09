@@ -40,6 +40,12 @@ description: Fund 5 Voting Results - August 2021
 
 ![Catalyst Value On-Boarding](../.gitbook/assets/09.png)
 
+### Metadata Challenge
+
+![Metadata Challenge](../.gitbook/assets/10.png)
+
+
+
 
 
 
