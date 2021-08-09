@@ -54,6 +54,14 @@ description: Fund 5 Voting Results - August 2021
 
 ![Scale Up Cardano &amp; DEFI Ecosystem](../.gitbook/assets/13.png)
 
+### Fund 7 - Challenge Setting
+
+![Fund 7 - Challenge Setting](../.gitbook/assets/14.png)
+
+### Leftover Funds Allocation
+
+![](../.gitbook/assets/15.png)
+
 
 
 
