@@ -26,7 +26,9 @@ description: Fund 5 Voting Results - August 2021
 
 ![](../.gitbook/assets/05.png)
 
+### Distributed Decision Making
 
+![](../.gitbook/assets/06.png)
 
 
 
