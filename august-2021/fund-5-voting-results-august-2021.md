@@ -50,6 +50,12 @@ description: Fund 5 Voting Results - August 2021
 
 ![Grow Africa, Grow Cardano](../.gitbook/assets/12.png)
 
+### Scale Up Cardano & DEFI Ecosystem
+
+![Scale Up Cardano &amp; DEFI Ecosystem](../.gitbook/assets/13.png)
+
+
+
 
 
 
