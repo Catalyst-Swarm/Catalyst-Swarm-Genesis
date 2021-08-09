@@ -44,6 +44,12 @@ description: Fund 5 Voting Results - August 2021
 
 ![Metadata Challenge](../.gitbook/assets/10.png)
 
+### Grow Africa, Grow Cardano
+
+![Grow Africa, Grow Cardano](../.gitbook/assets/11.png)
+
+
+
 
 
 
