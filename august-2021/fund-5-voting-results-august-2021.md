@@ -34,6 +34,16 @@ description: Fund 5 Voting Results - August 2021
 
 ![Proposer Outreach](../.gitbook/assets/07.png)
 
+### Catalyst Value On-Boarding
+
+![Catalyst Value On-Boarding](../.gitbook/assets/08.png)
+
+![Catalyst Value On-Boarding](../.gitbook/assets/09.png)
+
+
+
+
+
 
 
 
