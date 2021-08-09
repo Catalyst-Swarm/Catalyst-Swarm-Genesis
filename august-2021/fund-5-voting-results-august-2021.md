@@ -24,11 +24,15 @@ description: Fund 5 Voting Results - August 2021
 
 ### DAPP & Integration
 
-![](../.gitbook/assets/05.png)
+![DAPP &amp; Integration](../.gitbook/assets/05.png)
 
 ### Distributed Decision Making
 
-![](../.gitbook/assets/06.png)
+![Distributed Decision Making](../.gitbook/assets/06.png)
+
+### Proposer Outreach
+
+![Proposer Outreach](../.gitbook/assets/07.png)
 
 
 
