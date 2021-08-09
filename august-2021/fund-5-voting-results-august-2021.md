@@ -10,7 +10,7 @@ description: Fund 5 Voting Results - August 2021
 
 ![Which proposals received funding ?](../.gitbook/assets/00.png)
 
-## Overview
+## Funded Proposals
 
 ### Developer Ecosystem
 
