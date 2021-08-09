@@ -8,3 +8,7 @@ description: Fund 5 Voting Results - August 2021
 
 {% file src="../.gitbook/assets/project-catalyst-fund5-voting-results-official-.pdf" caption="Voting results for Catalyst’s Fund5" %}
 
+![Which proposals received funding ?](../.gitbook/assets/00.png)
+
+
+
