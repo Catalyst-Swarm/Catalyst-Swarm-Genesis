@@ -14,6 +14,8 @@ description: Fund 5 Voting Results - August 2021
 
 ![01 - Developer Ecosystem](../.gitbook/assets/01.png)
 
+![02 - Developer Ecosystem](../.gitbook/assets/02.png)
+
 
 
 
