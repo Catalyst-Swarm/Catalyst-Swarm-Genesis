@@ -10,7 +10,9 @@ description: Fund 5 Voting Results - August 2021
 
 ![Which proposals received funding ?](../.gitbook/assets/00.png)
 
-## Developer Ecosystem
+## Overview
+
+### Developer Ecosystem
 
 ![01 - Developer Ecosystem](../.gitbook/assets/01.png)
 
@@ -20,7 +22,9 @@ description: Fund 5 Voting Results - August 2021
 
 ![04 - Developer Ecosystem](../.gitbook/assets/04.png)
 
+### DAPP & Integration
 
+![](../.gitbook/assets/05.png)
 
 
 
