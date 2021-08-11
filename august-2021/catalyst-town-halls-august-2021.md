@@ -16,5 +16,17 @@ description: Catalyst Town Halls for the month of August 2021
 
 ![After Town Hall Discord Announcement](../.gitbook/assets/2021-08-04-1-.png)
 
+## August 11th, Town Hall
+
+### Slides
+
+### After Town Hall
+
+![Come join us for our weekly town hall today directly in Zoom!](../.gitbook/assets/2021-08-11-2-.png)
+
+
+
+
+
 
 
