@@ -8,6 +8,12 @@ description: Swarm Sessions - August 2021
 
 ![This Saturday is going to be a Holiday Gaming Edition.](../.gitbook/assets/2021-08-11-1-.png)
 
+### Discord Context
+
+{% embed url="https://discord.com/channels/832894680290951179/836129396778991616/873273608858918932" %}
+
+
+
 
 
 
