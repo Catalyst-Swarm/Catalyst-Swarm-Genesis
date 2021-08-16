@@ -12,13 +12,19 @@ description: Swarm Sessions - August 2021
 
 {% embed url="https://discord.com/channels/832894680290951179/836129396778991616/873273608858918932" %}
 
-## 13th August, 2021
+## 14th August, 2021
 
 ![](../.gitbook/assets/2021-08-13-15-.png)
 
 ### Discord Context
 
 {% embed url="https://discord.com/channels/832894680290951179/836129396778991616/875782037875851304" %}
+
+### Catalyst Swarm - Challenge Team discussion
+
+{% embed url="https://www.youtube.com/watch?v=pAy4VjjbsEY&t=818s" %}
+
+
 
 
 
