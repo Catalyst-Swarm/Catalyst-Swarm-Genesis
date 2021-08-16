@@ -2,7 +2,7 @@
 
 ## Insight Sharing
 
-### Introducing Catalyst Swarm
+###  [F6: Developer ecosystem](https://cardano.ideascale.com/a/campaign-home/26094) - Introducing Catalyst Swarm
 
 Hello and happy Fund6 everyone. We are a self-organizing Project Catalyst community, supporting the success of Cardano's Project Catalyst and its community of voters, advisors, proposers, SPO's, projects & groups.
 
