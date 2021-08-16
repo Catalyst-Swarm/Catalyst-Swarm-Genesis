@@ -16,6 +16,24 @@ description: Catalyst Town Halls for the month of August 2021
 
 ![After Town Hall Discord Announcement](../.gitbook/assets/2021-08-04-1-.png)
 
+### Mini Proposal Workshop \#2 by Tevo
+
+{% embed url="https://www.youtube.com/watch?v=uusg5gOAbFk" %}
+
+####  Chapters:
+
+[00:00](https://www.youtube.com/watch?v=uusg5gOAbFk&t=0s) - What are mini-proposals
+
+[03:12](https://www.youtube.com/watch?v=uusg5gOAbFk&t=192s) - What are your expectations?
+
+[08:45](https://www.youtube.com/watch?v=uusg5gOAbFk&t=525s) - Explaining Options we vote on
+
+1[3:00](https://www.youtube.com/watch?v=uusg5gOAbFk&t=780s) - Voting results
+
+[14:20](https://www.youtube.com/watch?v=uusg5gOAbFk&t=860s) - Recap of previous workshops
+
+ [21:20](https://www.youtube.com/watch?v=uusg5gOAbFk&t=1280s) - Starting the Workshop
+
 ## August 11th, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=crs3lVaGejY" %}
