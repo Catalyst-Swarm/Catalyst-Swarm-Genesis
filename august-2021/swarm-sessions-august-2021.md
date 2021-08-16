@@ -24,7 +24,7 @@ description: Swarm Sessions - August 2021
 
 {% embed url="https://www.youtube.com/watch?v=pAy4VjjbsEY&t=818s" %}
 
-
+Community chat about the new role in Cardanos ecosystem, Project Catalyst - The Challenge Team
 
 
 
