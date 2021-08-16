@@ -1,3 +1,7 @@
+---
+description: Swarm participation in Project Catalyst - Fund 6
+---
+
 # Project Catalyst - Fund 6
 
 ## Insight Sharing
