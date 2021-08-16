@@ -9,6 +9,7 @@
 * [Catalyst Town Halls - August 2021](august-2021/catalyst-town-halls-august-2021.md)
 * [Fund 5 Voting Results - August 2021](august-2021/fund-5-voting-results-august-2021.md)
 * [Swarm Sessions - August 2021](august-2021/swarm-sessions-august-2021.md)
+* [Project Catalyst - Fund 6](august-2021/project-catalyst-fund-6.md)
 
 ## July 2021
 
