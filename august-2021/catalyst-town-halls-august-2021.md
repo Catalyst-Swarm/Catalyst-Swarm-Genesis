@@ -132,6 +132,12 @@ Join Daniel Ribar \(Community Manager\) and the rest of the community for our we
 
 Kriss Baird \( Product Owner - Catalyst \) and the community discussion about the Challenge of onboarding and educating Entrepreneurs in the Cardano Ecosystem.
 
+### Cardano Atala Prism - AMA with John O'Connor
+
+{% embed url="https://www.youtube.com/watch?v=q5bn8yweqPs" %}
+
+
+
 
 
 
