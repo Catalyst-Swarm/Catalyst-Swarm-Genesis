@@ -8,7 +8,41 @@ description: Catalyst Town Halls for the month of August 2021
 
 {% embed url="https://www.youtube.com/watch?v=iJ72NzpGk80" %}
 
-### Slides
+  Timestamps:
+
+[00:00:00](https://www.youtube.com/watch?v=josSLLQKZZ4&t=0s) Welcome to Project Catalyst Town Hall \#17
+
+[00:02:59](https://www.youtube.com/watch?v=josSLLQKZZ4&t=179s) Keynote Speaker - John O’Connor
+
+[00:18:30](https://www.youtube.com/watch?v=josSLLQKZZ4&t=1110s) Cohort Update with Kriss Baird
+
+[00:30:18](https://www.youtube.com/watch?v=josSLLQKZZ4&t=1818s) What are we going to accomplish together & Fund6 innovation phase
+
+[00:31:44](https://www.youtube.com/watch?v=josSLLQKZZ4&t=1904s) The proposer, referrer and the implementer
+
+[00:50:58](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3058s) Fund6 challenges
+
+[00:51:26](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3086s) Fund7 challenge setting
+
+[00:51:45](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3105s) Challenge Teams
+
+[00:52:30](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3150s) Catalyst Circle update with Felix
+
+[00:56:08](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3368s) Proposal forming & writing
+
+[01:05:09](https://www.youtube.com/watch?v=josSLLQKZZ4&t=3909s) Catalyst School Intro with Victor Corcino
+
+[01:09:25](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4165s) Providing structured feedback
+
+[01:13:17](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4397s) What to do next?
+
+[01:13:45](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4425s) Registration For Fund6 ongoing
+
+[01:16:20](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4580s) Wada team update
+
+[01:19:45](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4785s) Useful links
+
+[01:21:10](https://www.youtube.com/watch?v=josSLLQKZZ4&t=4870s) Open Space with Swarm
 
 {% embed url="https://docs.google.com/presentation/d/1zhQryJQwKzUI1mFvaNfIoZdKIB25NzRtBbNQH2JtHLo" %}
 
