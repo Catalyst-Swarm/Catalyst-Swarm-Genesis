@@ -124,6 +124,14 @@ Join Daniel Ribar \(Community Manager\) and the rest of the community for our we
 
 {% embed url="https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit\#slide=id.ge93db40e52\_0\_0" %}
 
+### After Town Hall
+
+### Entrepreneur Toolkit with Kriss Baird
+
+{% embed url="https://www.youtube.com/watch?v=u-GnXscMEX4" %}
+
+Kriss Baird \( Product Owner - Catalyst \) and the community discussion about the Challenge of onboarding and educating Entrepreneurs in the Cardano Ecosystem.
+
 
 
 
