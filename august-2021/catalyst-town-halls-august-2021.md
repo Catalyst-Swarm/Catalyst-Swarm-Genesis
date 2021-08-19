@@ -82,6 +82,10 @@ description: Catalyst Town Halls for the month of August 2021
 
 ## 18th August 2021
 
+{% embed url="https://www.youtube.com/watch?v=josSLLQKZZ4" %}
+
+Join Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
+
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit\#slide=id.ge93db40e52\_0\_0" %}
