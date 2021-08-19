@@ -80,6 +80,26 @@ description: Catalyst Town Halls for the month of August 2021
 
 ![Come join us for our weekly town hall today directly in Zoom!](../.gitbook/assets/2021-08-11-2-.png)
 
+## 18th August 2021
+
+### Slides
+
+[https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit\#slide=id.ge93db40e52\_0\_0](https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit#slide=id.ge93db40e52_0_0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
