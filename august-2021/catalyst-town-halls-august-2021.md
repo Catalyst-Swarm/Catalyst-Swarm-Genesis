@@ -84,7 +84,9 @@ description: Catalyst Town Halls for the month of August 2021
 
 ### Slides
 
-[https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit\#slide=id.ge93db40e52\_0\_0](https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit#slide=id.ge93db40e52_0_0)
+{% embed url="https://docs.google.com/presentation/d/1nKfCxEIZmVsd5iAro7rTlqdy8MHdk-8fplsp4dANHqY/edit\#slide=id.ge93db40e52\_0\_0" %}
+
+
 
 
 
