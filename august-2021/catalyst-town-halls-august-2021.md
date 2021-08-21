@@ -114,6 +114,10 @@ description: Catalyst Town Halls for the month of August 2021
 
 ![Come join us for our weekly town hall today directly in Zoom!](../.gitbook/assets/2021-08-11-2-.png)
 
+### Mini Proposal Workshop \#3 by Tevo Saks
+
+{% embed url="https://www.youtube.com/watch?v=vOMMK8pklrA" %}
+
 ## 18th August 2021, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=josSLLQKZZ4" %}
