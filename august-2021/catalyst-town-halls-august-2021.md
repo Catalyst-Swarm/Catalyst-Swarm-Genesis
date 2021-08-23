@@ -176,7 +176,13 @@ Kriss Baird \( Product Owner - Catalyst \) and the community discussion about th
 
 {% embed url="https://www.youtube.com/watch?v=q5bn8yweqPs" %}
 
+### Mini Proposal Workshop \#4
 
+{% embed url="https://www.youtube.com/watch?v=sYQKCW\_JMJo" %}
+
+In this session, we created spent quite some time do write an understandable problem statement for something as complex as visualizing DAO's
+
+Hosted by Tevo and Stephen
 
 
 
