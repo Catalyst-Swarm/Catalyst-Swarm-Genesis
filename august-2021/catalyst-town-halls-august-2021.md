@@ -184,6 +184,8 @@ In this session, we created spent quite some time do write an understandable pro
 
 Hosted by Tevo and Stephen
 
+## 25th August 2021, Town Hall
+
 
 
 
