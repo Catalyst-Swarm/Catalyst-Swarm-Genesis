@@ -186,6 +186,42 @@ Hosted by Tevo and Stephen
 
 ## 25th August 2021, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=C1pcZWFqAV8" %}
+
+###  Timestamps:
+
+[00:00:15](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=15s) Welcome to Project Catalyst Fund 6 Town Hall \#3
+
+[00:04:25](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=265s) Final call for proposal submission
+
+[00:09:01](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=541s) Cohort update by Ashish Prajapati, Cardanoscan.io
+
+[00:14:58](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=898s) Cohort update by Sebastien Guillemot, dcSpark - Cardano Message Signing
+
+00: [21:45](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=1305s) Catalyst Coordinator
+
+[00:25:21](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=1521s) Welcome Fund6 Proposers!
+
+00: [27:19](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=1639s) Challenge Setting
+
+[00:31:15](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=1875s) Fund6 innovation phase
+
+[00:32:45](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=1965s) Proposer checklist & The self-assessment checklist
+
+[00:34:46](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=2086s) How to refine proposals
+
+[00:38:32](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=2312s) Merge efforts when sensible
+
+[00:40:15](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=2415s) Giving feedback
+
+[00:47:35](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=2855s) Catalyst circle update
+
+[00:53:49](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=3229s) We’re hiring!
+
+[00:56:25](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=3385s) Useful links
+
+[00:58:20](https://www.youtube.com/watch?v=C1pcZWFqAV8&t=3500s) Open Space with Swarm
+
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1CCkVN0jNpEBZjzjVWkrft2XBxNH2U8NwxvaZdOwRxIY/edit\#slide=id.ge93db40e52\_0\_0" %}
