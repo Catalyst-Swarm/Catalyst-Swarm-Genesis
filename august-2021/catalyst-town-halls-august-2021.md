@@ -186,6 +186,12 @@ Hosted by Tevo and Stephen
 
 ## 25th August 2021, Town Hall
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1CCkVN0jNpEBZjzjVWkrft2XBxNH2U8NwxvaZdOwRxIY/edit\#slide=id.ge93db40e52\_0\_0" %}
+
+
+
 
 
 
