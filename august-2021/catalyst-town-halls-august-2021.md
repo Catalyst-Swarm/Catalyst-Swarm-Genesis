@@ -226,7 +226,13 @@ Hosted by Tevo and Stephen
 
 {% embed url="https://docs.google.com/presentation/d/1CCkVN0jNpEBZjzjVWkrft2XBxNH2U8NwxvaZdOwRxIY/edit\#slide=id.ge93db40e52\_0\_0" %}
 
+### After Town Hall
 
+### Project Catalyst Challenge Setting Proposals for Fund 7
+
+{% embed url="https://www.youtube.com/watch?v=iU8lSHQ0JAo" %}
+
+Steve Lockhart and Dominik Tilman discussed in the breakout room "Challenge Setting Proposals" about the need of mission driven challenges for Project Catalyst in the After Town Hall on August 25, 2021.
 
 
 
