@@ -234,6 +234,12 @@ Hosted by Tevo and Stephen
 
 Steve Lockhart and Dominik Tilman discussed in the breakout room "Challenge Setting Proposals" about the need of mission driven challenges for Project Catalyst in the After Town Hall on August 25, 2021.
 
+### RFM Challenge Team Candidates
+
+{% embed url="https://www.youtube.com/watch?v=CbfTWlwYPpU" %}
+
+In this Video the candidates for the rapid funding mechanism \(RFM\) Challenge Team present themself to the Catalyst Community
+
 
 
 
