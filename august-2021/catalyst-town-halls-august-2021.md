@@ -240,6 +240,18 @@ Steve Lockhart and Dominik Tilman discussed in the breakout room "Challenge Sett
 
 In this Video the candidates for the rapid funding mechanism \(RFM\) Challenge Team present themself to the Catalyst Community
 
+### GameChanger Wallet Demo by Adriano
+
+{% embed url="https://www.youtube.com/watch?v=EszwePT8XfQ" %}
+
+GameChanger Wallet allows all the standard wallet functionalities + NFT batch minting + multiple transactions at one time. It also allows users to create shareable URLs and customizable HTML code. 
+
+Check it out at:
+
+{% embed url="http://gamechanger.finance/" %}
+
+
+
 
 
 
