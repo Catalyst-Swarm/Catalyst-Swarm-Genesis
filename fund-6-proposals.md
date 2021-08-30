@@ -10,3 +10,9 @@ description: Summary of Swarm Fund 6 Proposals
 
 ## After Town Hall by Swarm
 
+#### Ideascale link
+
+{% embed url="https://cardano.ideascale.com/a/dtd/After-Town-Hall-by-Swarm/366709-48088" %}
+
+
+
