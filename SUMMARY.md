@@ -3,6 +3,7 @@
 * [Catalyst-Swarm-Genesis](README.md)
 * [What is Swarm ?](what-is-swarm.md)
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
+* [Fund 6 Proposals](fund-6-proposals.md)
 
 ## August 2021
 
