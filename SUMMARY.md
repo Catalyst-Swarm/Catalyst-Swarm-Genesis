@@ -49,5 +49,5 @@
 
 ---
 
-* [Untitled](transparent-work-in-swarm.md)
+* [Transparent Work in Swarm](transparent-work-in-swarm.md)
 
