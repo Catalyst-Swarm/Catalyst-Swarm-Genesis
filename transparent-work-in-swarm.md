@@ -1,3 +1,7 @@
+---
+description: Jakob and Stephen
+---
+
 # Transparent Work in Swarm
 
 **Transparent Work in Swarm**
