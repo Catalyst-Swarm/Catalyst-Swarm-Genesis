@@ -48,7 +48,7 @@ First time we hosted a Channel after townhall, we were glad with the interest an
 
 Several Catalyst projects came in and introduced themselves. Very fruitful and educational discussion.
 
-Abig thank you to all participants and even Dor passed by at the end and joined in.
+A big thank you to all participants and even Dor passed by at the end and joined in.
 
 We invite everyone to join us in the next townhalls - swarm sessions
 
