@@ -40,3 +40,15 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 ### After Town Hall
 
+### Cardano Language & Culture Breakout Room 
+
+{% embed url="https://www.youtube.com/watch?v=ajiLN1YvkhI" %}
+
+First time we hosted a Channel after townhall, we were glad with the interest and participants. We forgot to start the recording so it is the session minus the first 10 minutes, we ll do better next time ;\)
+
+Several Catalyst projects came in and introduced themselves. Very fruitful and educational discussion.
+
+Abig thank you to all participants and even Dor passed by at the end and joined in.
+
+We invite everyone to join us in the next townhalls - swarm sessions
+
