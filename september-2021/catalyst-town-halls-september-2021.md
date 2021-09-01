@@ -10,7 +10,7 @@ description: Catalyst Town Halls for the month of September 2021
 
 Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
 
- Timestamps:
+###  Timestamps:
 
 [00:00:35](https://www.youtube.com/watch?v=9LfHn5mZJZk&t=35s) Welcome to Project Catalyst Fund 6 Town Hall \#
 
