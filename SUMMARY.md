@@ -5,6 +5,11 @@
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Fund 6 Proposals](fund-6-proposals.md)
 
+## September 2021
+
+* [Untitled](september-2021/untitled.md)
+
+
 ## August 2021
 
 * [Catalyst Town Halls - August 2021](august-2021/catalyst-town-halls-august-2021.md)
@@ -52,7 +57,4 @@
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
 
-## September 2021
-
-* [Untitled](september-2021/untitled.md)
 
