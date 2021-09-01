@@ -7,8 +7,7 @@
 
 ## September 2021
 
-* [Untitled](september-2021/untitled.md)
-
+* [Catalyst Town Halls - September 2021](september-2021/untitled.md)
 
 ## August 2021
 
@@ -56,5 +55,4 @@
 ---
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
-
 
