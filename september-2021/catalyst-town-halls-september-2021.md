@@ -40,6 +40,12 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 ### After Town Hall
 
+### Blockademia Verification System
+
+{% embed url="https://www.youtube.com/watch?v=F1MfTWOtB1M" %}
+
+
+
 ### Cardano Language & Culture Breakout Room 
 
 {% embed url="https://www.youtube.com/watch?v=ajiLN1YvkhI" %}
