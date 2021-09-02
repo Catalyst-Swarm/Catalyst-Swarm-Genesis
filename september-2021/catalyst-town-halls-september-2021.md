@@ -44,6 +44,10 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://www.youtube.com/watch?v=F1MfTWOtB1M" %}
 
+#### Ideascale link
+
+{% embed url="https://cardano.ideascale.com/a/dtd/Blockademia-Verification-System/366827-48088" %}
+
 
 
 ### Cardano Language & Culture Breakout Room 
