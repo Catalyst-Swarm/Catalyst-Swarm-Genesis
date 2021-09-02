@@ -44,6 +44,8 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://www.youtube.com/watch?v=F1MfTWOtB1M" %}
 
+Partnering with institutions to create and publicly sign their certificates on the Cardano blockchain.
+
 #### Ideascale link
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Blockademia-Verification-System/366827-48088" %}
