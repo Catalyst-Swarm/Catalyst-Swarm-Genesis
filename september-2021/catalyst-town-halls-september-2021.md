@@ -64,3 +64,15 @@ A big thank you to all participants and even Dor passed by at the end and joined
 
 We invite everyone to join us in the next townhalls - swarm sessions
 
+## 8th September, Town Hall
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1yfbQQfynQ6jz4U1wpluUucpkjECuPNoMUkYLY32foCQ/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
+### After Town Hall
+
+
+
+
+
