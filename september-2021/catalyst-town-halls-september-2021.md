@@ -66,6 +66,40 @@ We invite everyone to join us in the next townhalls - swarm sessions
 
 ## 8th September, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=0674oS\_glAE" %}
+
+Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
+
+####  Timestamps:
+
+[00:00:00](https://www.youtube.com/watch?v=0674oS_glAE&t=0s) Welcome to the experiment
+
+[00:03:35](https://www.youtube.com/watch?v=0674oS_glAE&t=215s) Dominik Tilman - Tutorial for Community Advisors
+
+[00:10:00](https://www.youtube.com/watch?v=0674oS_glAE&t=600s) George Lovegrove - Catalyst Community Website
+
+[00:17:20](https://www.youtube.com/watch?v=0674oS_glAE&t=1040s) Fund6 Timeline
+
+[00:18:10](https://www.youtube.com/watch?v=0674oS_glAE&t=1090s) Finalization stage updates
+
+[00:20:24](https://www.youtube.com/watch?v=0674oS_glAE&t=1224s) Fund7 Challenge Setting updates by Kriss Baird
+
+[00:26:49](https://www.youtube.com/watch?v=0674oS_glAE&t=1609s) Cardano Summit - Catalyst World
+
+[00:31:30](https://www.youtube.com/watch?v=0674oS_glAE&t=1890s) Community Advisor registration
+
+[00:32:25](https://www.youtube.com/watch?v=0674oS_glAE&t=1945s) Catalyst Circle Updates
+
+[00:45:50](https://www.youtube.com/watch?v=0674oS_glAE&t=2750s) Community Advising - overview
+
+[00:55:03](https://www.youtube.com/watch?v=0674oS_glAE&t=3303s) Register for next town hall
+
+[00:55:10](https://www.youtube.com/watch?v=0674oS_glAE&t=3310s) We're hiring - open positions at Voltaire team
+
+[00:56:17](https://www.youtube.com/watch?v=0674oS_glAE&t=3377s) Useful Links
+
+[00:57:18](https://www.youtube.com/watch?v=0674oS_glAE&t=3438s) After town hall
+
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1yfbQQfynQ6jz4U1wpluUucpkjECuPNoMUkYLY32foCQ/edit\#slide=id.gb756fa1b15\_0\_0" %}
