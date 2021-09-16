@@ -6,6 +6,10 @@ description: Saturday Swarm Sessions for the month of September 2021
 
 ## Saturday, September 11, 2021
 
+A link to the GitHub Issue for this event :
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/199" %}
+
 ### Future of Swarm: Reputation Systems
 
 {% embed url="https://www.youtube.com/watch?v=Y-rRJ9sBzJE&t=895s" caption="Future of Swarm: Reputation Systems - Part 1" %}
