@@ -1,5 +1,5 @@
 ---
-description: Swarm Sessions - August 2021
+description: Saturday Swarm Sessions for the month of August 2021
 ---
 
 # Swarm Sessions - August 2021
