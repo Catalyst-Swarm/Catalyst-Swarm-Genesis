@@ -160,7 +160,11 @@ Learn how to be a Community Advisor in Catalyst Fund 6!
 
 {% embed url="https://docs.google.com/presentation/d/1IN3dJAcz8HB2CJX3WJ9x36taALlmRHVaTQuz7\_SZ8zM/edit\#slide=id.ge9f0cee30e\_0\_0" %}
 
+### Catalyst Circle Feedback & QA
 
+{% embed url="https://www.youtube.com/watch?v=CH\_tesi7K40" %}
+
+The Catalyst Circle Admin team was initiated by the Catalyst Circle with the goal to increase the functionality of the Catalyst Circle. The Admin team includes a Secretary and a Facilitator team.
 
 
 
