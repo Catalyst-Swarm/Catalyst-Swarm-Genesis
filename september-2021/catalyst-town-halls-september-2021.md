@@ -108,5 +108,43 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 
 
+## 16th September, Town Hall
+
+{% embed url="https://www.youtube.com/watch?v=sLisPIgHkLM" %}
+
+Timestamps:
+
+ Timestamps:
+
+[00:00:00](https://www.youtube.com/watch?v=sLisPIgHkLM&t=0s) Welcome to Project Catalyst Fund 6 Town Hall \#
+
+[00:04:43](https://www.youtube.com/watch?v=sLisPIgHkLM&t=283s) Cohort presentation by Marcin Kugla
+
+[00:13:58](https://www.youtube.com/watch?v=sLisPIgHkLM&t=838s) Cohort Presentation - Project Completion by Kyle Johns
+
+[00:27:51](https://www.youtube.com/watch?v=sLisPIgHkLM&t=1671s) Fund6 innovation phase
+
+[00:29:50](https://www.youtube.com/watch?v=sLisPIgHkLM&t=1790s) Assessments stage
+
+[00:30:40](https://www.youtube.com/watch?v=sLisPIgHkLM&t=1840s) Fund6 assessment week
+
+[00:35:59](https://www.youtube.com/watch?v=sLisPIgHkLM&t=2159s) Cardano Summit - Catalyst World
+
+[00:38:27](https://www.youtube.com/watch?v=sLisPIgHkLM&t=2307s) What’s next for Proposers?
+
+[00:42:34](https://www.youtube.com/watch?v=sLisPIgHkLM&t=2554s) What’s next for Community Advisors?
+
+[00:45:14](https://www.youtube.com/watch?v=sLisPIgHkLM&t=2714s) Fund6 Dry-Runs \(public testing\)
+
+[00:47:15](https://www.youtube.com/watch?v=sLisPIgHkLM&t=2835s) Catalyst Circle
+
+[01:07:43](https://www.youtube.com/watch?v=sLisPIgHkLM&t=4063s) We’re hiring! Currently Open Positions
+
+[01:09:19](https://www.youtube.com/watch?v=sLisPIgHkLM&t=4159s) Useful links
+
+[01:10:09](https://www.youtube.com/watch?v=sLisPIgHkLM&t=4209s) Breakout rooms
+
+
+
 
 
