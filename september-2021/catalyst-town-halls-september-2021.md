@@ -174,7 +174,7 @@ The Catalyst Circle Admin team was initiated by the Catalyst Circle with the goa
 
 {% embed url="https://www.youtube.com/watch?v=7zfiOdy3BBQ" %}
 
- In this Video the Climate Change - Challenge Team from Project Catalyst talks about their vision for the Challenge as well as potential future proposals and ways to fight Climate Change on the blockchain.
+ In this Video the Climate Change - Challange Team from Project Catalyst talks about their vision for the Challenge as well as potential future proposals and ways to fight Climate Change on the blockchain.
 
 Catalyst Climate Change Challenge
 
