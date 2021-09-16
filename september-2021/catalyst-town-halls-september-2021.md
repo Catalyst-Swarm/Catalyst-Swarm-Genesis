@@ -38,7 +38,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://docs.google.com/presentation/d/1Xi8COzkjn7vINiWNnSRay0as2nyrHNRLkng\_oh8JYzU/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
-### After Town Hall
+### 1st September, After Town Hall
 
 ### Blockademia Verification System
 
@@ -104,7 +104,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://docs.google.com/presentation/d/1yfbQQfynQ6jz4U1wpluUucpkjECuPNoMUkYLY32foCQ/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
-### After Town Hall
+### 8th September, After Town Hall
 
 
 
@@ -148,7 +148,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://docs.google.com/presentation/d/1\_BGhCFyPgpzoHmx\_wuHcskOWDAQYU9pcVu0XXYCV6g4/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
-### After Town Hall
+### 15th September, After Town Hall
 
 ### How to be a Veteran Community Advisor? - The Catalyst School
 
@@ -174,7 +174,7 @@ The Catalyst Circle Admin team was initiated by the Catalyst Circle with the goa
 
 {% embed url="https://www.youtube.com/watch?v=7zfiOdy3BBQ" %}
 
- In this Video the Climate Change - Challange Team from Project Catalyst talks about their vision for the Challenge as well as potential future proposals and ways to fight Climate Change on the blockchain.
+ In this Video the Climate Change - Challenge Team from Project Catalyst talks about their vision for the Challenge as well as potential future proposals and ways to fight Climate Change on the blockchain.
 
 Catalyst Climate Change Challenge
 
