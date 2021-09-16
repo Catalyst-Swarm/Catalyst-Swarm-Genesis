@@ -70,7 +70,7 @@ We invite everyone to join us in the next townhalls - swarm sessions
 
 Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the rest of the community for our weekly Catalyst update.
 
-####  Timestamps:
+###  Timestamps:
 
 [00:00:00](https://www.youtube.com/watch?v=0674oS_glAE&t=0s) Welcome to the experiment
 
@@ -112,7 +112,9 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://www.youtube.com/watch?v=sLisPIgHkLM" %}
 
- Timestamps:
+ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the rest of the community for our weekly Catalyst update.
+
+### Timestamps:
 
 [00:00:00](https://www.youtube.com/watch?v=sLisPIgHkLM&t=0s) Welcome to Project Catalyst Fund 6 Town Hall \#
 
@@ -141,6 +143,12 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 [01:09:19](https://www.youtube.com/watch?v=sLisPIgHkLM&t=4159s) Useful links
 
 [01:10:09](https://www.youtube.com/watch?v=sLisPIgHkLM&t=4209s) Breakout rooms
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1\_BGhCFyPgpzoHmx\_wuHcskOWDAQYU9pcVu0XXYCV6g4/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
+
 
 
 
