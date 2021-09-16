@@ -112,8 +112,6 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 {% embed url="https://www.youtube.com/watch?v=sLisPIgHkLM" %}
 
-Timestamps:
-
  Timestamps:
 
 [00:00:00](https://www.youtube.com/watch?v=sLisPIgHkLM&t=0s) Welcome to Project Catalyst Fund 6 Town Hall \#
