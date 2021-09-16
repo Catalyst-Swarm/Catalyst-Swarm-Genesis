@@ -108,7 +108,7 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 
 
 
-## 16th September, Town Hall
+## 15th September, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=sLisPIgHkLM" %}
 
@@ -147,6 +147,18 @@ Join Dor Garbash \(Product Manager\), Daniel Ribar \(Community Manager\) and the
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1\_BGhCFyPgpzoHmx\_wuHcskOWDAQYU9pcVu0XXYCV6g4/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
+### After Town Hall
+
+### How to be a Veteran Community Advisor? - The Catalyst School
+
+{% embed url="https://www.youtube.com/watch?v=9z8CGWXxoxw" %}
+
+Learn how to be a Community Advisor in Catalyst Fund 6!
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1IN3dJAcz8HB2CJX3WJ9x36taALlmRHVaTQuz7\_SZ8zM/edit\#slide=id.ge9f0cee30e\_0\_0" %}
 
 
 
