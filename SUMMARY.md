@@ -8,6 +8,7 @@
 ## September 2021
 
 * [Catalyst Town Halls - September 2021](september-2021/catalyst-town-halls-september-2021.md)
+* [Swarm Sessions - September 2021](september-2021/swarm-sessions-september-2021.md)
 
 ## August 2021
 
