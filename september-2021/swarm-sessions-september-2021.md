@@ -10,7 +10,7 @@ A link to the GitHub Issue for this event :
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/182" %}
 
-## Saturday, September 11, 2021
+## Saturday, 11th September , 2021
 
 A link to the GitHub Issue for this event :
 
