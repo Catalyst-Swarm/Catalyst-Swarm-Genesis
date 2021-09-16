@@ -170,7 +170,17 @@ The Catalyst Circle Admin team was initiated by the Catalyst Circle with the goa
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle/meetings/meeting-5-september-9th-2021" %}
 
+### Climate Change Challenge
 
+{% embed url="https://www.youtube.com/watch?v=7zfiOdy3BBQ" %}
+
+ In this Video the Climate Change - Challenge Team from Project Catalyst talks about their vision for the Challenge as well as potential future proposals and ways to fight Climate Change on the blockchain.
+
+Catalyst Climate Change Challenge
+
+Discord: [https://discord.gg/QhfN53xf](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1paYW5yR3IzbVBWTDJGUmNkNnMwd1BBUVpLd3xBQ3Jtc0tudnVuWWFud1ppaFlRUTlybHR3Tk9taWJWUm9oaGIzVzdwMlJYaDc3V0FtYjM0elZQMFh2RndVczI3YXlBcHNhTE1EamFiaUR4YXZ0ZjR1WTd4UHA3cjU3ZUVvSzBxeW5DYUk2eWpEWGxGak04c3V3Zw&q=https%3A%2F%2Fdiscord.gg%2FQhfN53xf) 
+
+Telegram: [https://t.me/ClimateChange\_THEChallenge](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUtPdlRBZWwwOW9jZEE4Q2dYb0o1N2FWOUVUQXxBQ3Jtc0ttenFKSmpfVTIxTXdGbGFLNVRkYV9iZWdST0VkenM4TWVTQmtEWWlHTmpubmlVUXV5cXl2TWFaNGQ1ckdTZHNzeUh6VFB5RXBMREpsYk9wVVNscDZ3S0RoWWFacEhfR1dhTkpZRDFPTEhrOW9DMTF3UQ&q=https%3A%2F%2Ft.me%2FClimateChange_THEChallenge)
 
 
 
