@@ -20,6 +20,8 @@ A link to the GitHub Issue for this event :
 
 {% embed url="https://www.youtube.com/watch?v=qYrLnJ0WCMg" %}
 
+{% embed url="https://www.youtube.com/watch?v=5nVOXY9ixSg" %}
+
 
 
 
