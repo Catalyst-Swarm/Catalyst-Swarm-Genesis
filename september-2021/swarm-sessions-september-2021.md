@@ -24,6 +24,14 @@ A link to the GitHub Issue for this event :
 
 
 
+## Saturday, 18th September, 2021
+
+### The Beginning - Reputation, Reward & On boarding Structures and Systems - Community Collaboration
+
+{% embed url="https://www.youtube.com/watch?v=DPIvW5ycBIo" %}
+
+
+
 
 
 
