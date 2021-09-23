@@ -182,6 +182,40 @@ Discord: [https://discord.gg/QhfN53xf](https://www.youtube.com/redirect?event=vi
 
 Telegram: [https://t.me/ClimateChange\_THEChallenge](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUtPdlRBZWwwOW9jZEE4Q2dYb0o1N2FWOUVUQXxBQ3Jtc0ttenFKSmpfVTIxTXdGbGFLNVRkYV9iZWdST0VkenM4TWVTQmtEWWlHTmpubmlVUXV5cXl2TWFaNGQ1ckdTZHNzeUh6VFB5RXBMREpsYk9wVVNscDZ3S0RoWWFacEhfR1dhTkpZRDFPTEhrOW9DMTF3UQ&q=https%3A%2F%2Ft.me%2FClimateChange_THEChallenge)
 
+## 22nd September, Town Hall
+
+{% embed url="https://www.youtube.com/watch?v=7\_171-XgPdI" %}
+
+Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the rest of the community for our weekly Catalyst update.
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1-2GfEnkkK01bp3KzbAVKb7nW6LYXkTOrIZ0qVvNTs9k/edit\#slide=id.gb756fa1b15\_0\_0" %}
+
+### 22nd September, After Town Hall
+
+### GitHub Issue record
+
+{% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/216" %}
+
+### Reward and Reputation systems
+
+{% embed url="https://www.youtube.com/watch?v=PbMEchSYw18" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
