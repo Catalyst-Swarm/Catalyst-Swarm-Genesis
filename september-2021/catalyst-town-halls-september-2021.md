@@ -206,6 +206,10 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 {% embed url="https://miro.com/app/board/o9J\_lvFE7y4=/?moveToWidget=3074457364434471100&cot=14" %}
 
+### How to be a Veteran Community Advisor? - The Catalyst School
+
+{% embed url="https://www.youtube.com/watch?v=\_eSYgNqoot8" %}
+
 
 
 
