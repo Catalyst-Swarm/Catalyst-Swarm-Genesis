@@ -202,6 +202,10 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 {% embed url="https://www.youtube.com/watch?v=PbMEchSYw18" %}
 
+#### Miro Board - Jonathan
+
+{% embed url="https://miro.com/app/board/o9J\_lvFE7y4=/?moveToWidget=3074457364434471100&cot=14" %}
+
 
 
 
