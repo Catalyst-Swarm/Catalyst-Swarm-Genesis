@@ -224,6 +224,8 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 ### 29th September, After Town Hall
 
+#### Announcement
+
 ![](../.gitbook/assets/2021-09-29-4-.png)
 
 
