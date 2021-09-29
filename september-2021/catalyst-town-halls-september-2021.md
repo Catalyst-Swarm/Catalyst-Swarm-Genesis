@@ -216,6 +216,8 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 ## 29th September, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=GQwlHL380g0" %}
+
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1w9OifBgNN2Ts9QxNosRmzP7RbO14OwLs71ukrmVIKnY/edit\#slide=id.gb756fa1b15\_0\_0" %}
