@@ -194,6 +194,8 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 ### 22nd September, After Town Hall
 
+![](../.gitbook/assets/2021-09-29-5-.png)
+
 ### GitHub Issue record
 
 {% embed url="https://github.com/Catalyst-Swarm/Catalyst-Beehive/issues/216" %}
