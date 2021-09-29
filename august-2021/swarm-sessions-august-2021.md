@@ -38,6 +38,14 @@ Catalyst Swarm website: [https://www.swarm4catalyst.com/](https://www.youtube.co
 
 Cardano Innovation Platform: [https://cardano.ideascale.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUMyVVpxdDJDWmtucXhlNnAzS0E0X04xdTRVUXxBQ3Jtc0tsSVgwVHJwOUQ0TVpucThSazNrYjFWaG5UVkpkdEludFh4VnUtNUVESnIzVjU0SWF4V0hPUHY2aUV3S19oY3pQeE0wbF96U0czT185Y3dQZGtwUTVQY3owU3AtenVuVDBtRm5LNklld0xudXNEZUQyMA&q=https%3A%2F%2Fcardano.ideascale.com%2F)
 
+## 25th August, 2021
+
+### Mini Proposal workshop v1 overview
+
+{% embed url="https://www.youtube.com/watch?v=6XnPZZsw0w8&t=1811s" %}
+
+
+
 
 
 
