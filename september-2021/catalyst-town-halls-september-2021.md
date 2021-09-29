@@ -212,17 +212,13 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 {% embed url="https://www.youtube.com/watch?v=LWwQCVsyNIY" %}
 
-
-
-
-
 ### How to be a Veteran Community Advisor? - The Catalyst School
 
 ## 29th September, Town Hall
 
+### Slides
 
-
-
+{% embed url="https://docs.google.com/presentation/d/1w9OifBgNN2Ts9QxNosRmzP7RbO14OwLs71ukrmVIKnY/edit\#slide=id.gb756fa1b15\_0\_0" %}
 
 ### 29th September, After Town Hall
 
