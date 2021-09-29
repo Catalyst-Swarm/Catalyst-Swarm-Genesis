@@ -44,7 +44,13 @@ Cardano Innovation Platform: [https://cardano.ideascale.com](https://www.youtube
 
 {% embed url="https://www.youtube.com/watch?v=6XnPZZsw0w8&t=1811s" %}
 
+### Rapid funding mechanism \(RFM\) Challenge Team
 
+{% embed url="https://www.youtube.com/watch?v=CbfTWlwYPpU&t=929s" %}
+
+On 25th August 2021 candidates for the rapid funding mechanism \(RFM\) Challenge Team presented themselves to the Catalyst Community,
+
+Interviewed by Jonathan Adjei, Nori Nishigaya and Felix Weber
 
 
 
