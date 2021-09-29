@@ -250,7 +250,11 @@ Check it out at:
 
 {% embed url="http://gamechanger.finance/" %}
 
+### Mini Proposal workshop v1 overview
 
+{% embed url="https://www.youtube.com/watch?v=6XnPZZsw0w8&t" %}
+
+Hosted by Tevo and Stephen
 
 
 
