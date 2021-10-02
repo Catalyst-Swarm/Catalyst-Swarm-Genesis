@@ -232,9 +232,9 @@ Join Daniel Ribar \(Community Manager\), Kriss Baird \(Product Owner\) and the r
 
 {% embed url="https://www.youtube.com/watch?v=hl\_ftbgyeZU" %}
 
-On Wednesday's After Town Hall, Members of WADA hosted a room and discussed the topic of "Diversify Voting Influence" with the community. 
+On Wednesday, 29th September 2021 at After Town Hall, Members of WADA hosted a room and discussed the topic of "Diversify Voting Influence" with the community.
 
-Learn more and get in touch with WADA [https://wadalliance.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0YtcE5pOTdSZzVoNVV5amRFWXl5dDZOQ3Rrd3xBQ3Jtc0tsYjlWTFBtaW5ZRnVDTW1FeWQ2NW12VUNQMVQzbF9zcjJ1WlllbG1uZlRmR1JtVXZqOVJnS2M1T0paWlFqN0p4ZWZMZUdlVnh1ZVpqaWJORTFoT0l1aDRZTVROQ3czb2hGcUFUMjFGX0s4T2xYWjFXbw&q=https%3A%2F%2Fwadalliance.com%2F)
+Learn more and get in touch with WADA [https://wadalliance.com/](https://wadalliance.com/)
 
 
 
