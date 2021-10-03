@@ -7,5 +7,5 @@
 | 15:15 | Mark Moore | Trust Funds By Ada | [https://cardano.ideascale.com/a/dtd/Trust-Funds-by-Ada/366848-48088](https://cardano.ideascale.com/a/dtd/Trust-Funds-by-Ada/366848-48088) | Dapps & Integration |
 | 15:30 | Liwen Zhang | WILD NFT | [https://cardano.ideascale.com/a/dtd/WILD-NFT/369340-48088](https://cardano.ideascale.com/a/dtd/WILD-NFT/369340-48088) | NFT Business models |
 | 15:45 | Mike Dietrich | Play-to-learn-and-earn DID-Platform | [https://cardano.ideascale.com/a/dtd/Play-to-learn-and-earn-DID-Platform/367037-48088](https://cardano.ideascale.com/a/dtd/Play-to-learn-and-earn-DID-Platform/367037-48088) | ATALA PRISM DID Mass scale adoption |
-|  |  |  |  |  |
+| 16:35:00 | Shawn Boehm | Empowering Artists In Film | [https://cardano.ideascale.com/a/dtd/Collude-Empowering-Artists-In-Film/366753-48088](https://cardano.ideascale.com/a/dtd/Collude-Empowering-Artists-In-Film/366753-48088) | Dapps & Integration |
 
