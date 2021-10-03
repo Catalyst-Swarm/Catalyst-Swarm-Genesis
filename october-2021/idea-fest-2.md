@@ -1,4 +1,4 @@
-# Idea Fest - October 2021
+# Idea Fest 2 - October 2021
 
 ## 30th September
 
