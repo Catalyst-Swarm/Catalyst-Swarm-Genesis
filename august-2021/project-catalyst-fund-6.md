@@ -10,7 +10,7 @@ description: Swarm participation in Project Catalyst - Fund 6
 
 ![](../.gitbook/assets/2021-10-04.png)
 
-Hello and happy Fund6 everyone. We are a self-organizing Project Catalyst community, supporting the success of Cardano's Project Catalyst and its community of voters, advisors, proposers, SPO's, projects & groups.
+**Hello and happy Fund6 everyone**. We are a self-organizing Project Catalyst community, supporting the success of Cardano's Project Catalyst and its community of voters, advisors, proposers, SPO's, projects & groups.
 
 We facilitate the After Town Halls, weekly Saturday Swarm Sessions, currently running Hackathon & the Idea fest.
 
