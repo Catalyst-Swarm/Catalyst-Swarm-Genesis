@@ -11,3 +11,7 @@
 | 16:50 | Benjamin Hartin | Interactive News Journal | [https://cardano.ideascale.com/a/dtd/Interactive-News-Journal/368687-48088](https://cardano.ideascale.com/a/dtd/Interactive-News-Journal/368687-48088) | Distributed Decision making |
 | 17:05 | Nori Nishigaya | Salmon Nation Decentralized Alliance | [https://cardano.ideascale.com/a/dtd/SalmonNation-Decentralized-Alliance/368369-48088](https://cardano.ideascale.com/a/dtd/SalmonNation-Decentralized-Alliance/368369-48088) | Scale up Cardano's community hubs |
 
+## Room 2 - Ron
+
+
+
