@@ -16,9 +16,11 @@ We facilitate the After Town Halls, weekly Saturday Swarm Sessions, currently ru
 
 How can we improve and include more people from the community? Start a conversation with us.
 
+{% hint style="info" %}
 To find out more – check out "What is Swarm?"
 
 [https://tinyurl.com/buw6e5t5](https://tinyurl.com/buw6e5t5)
+{% endhint %}
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Introducing-Catalyst-Swarm/365894-48088?submitted=1" %}
 
