@@ -1,4 +1,4 @@
-# Idea Fest 2
+# Idea Fest - October 2021
 
 ### 3rd October 2021 - Announcements
 

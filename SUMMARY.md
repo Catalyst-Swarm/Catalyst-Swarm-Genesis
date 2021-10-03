@@ -9,7 +9,7 @@
 
 * [Catalyst Town Halls - September 2021](september-2021/catalyst-town-halls-september-2021.md)
 * [Swarm Sessions - September 2021](september-2021/swarm-sessions-september-2021.md)
-* [Idea Fest 2](september-2021/idea-fest-2.md)
+* [Idea Fest - October 2021](september-2021/idea-fest-2.md)
 
 ## August 2021
 
