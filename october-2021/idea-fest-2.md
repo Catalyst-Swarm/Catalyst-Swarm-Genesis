@@ -44,7 +44,7 @@
 
 ![](../.gitbook/assets/2021-10-03.png)
 
-### Feedback Ideafest Fund 6 
+### Feedback Ideafest Fund 6
 
 ### Method:
 
