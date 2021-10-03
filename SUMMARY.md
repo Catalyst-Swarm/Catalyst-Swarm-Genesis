@@ -5,6 +5,11 @@
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Fund 6 Proposals](fund-6-proposals.md)
 
+## October 2021
+
+* [Idea Fest - October 2021](october-2021/idea-fest-2.md)
+* [Untitled](october-2021/untitled.md)
+
 ## September 2021
 
 * [Catalyst Town Halls - September 2021](september-2021/catalyst-town-halls-september-2021.md)
@@ -56,9 +61,4 @@
 ---
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
-
-## October 2021
-
-* [Idea Fest - October 2021](october-2021/idea-fest-2.md)
-* [Untitled](october-2021/untitled.md)
 
