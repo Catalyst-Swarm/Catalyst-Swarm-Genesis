@@ -44,19 +44,17 @@
 
 ![](../.gitbook/assets/2021-10-03.png)
 
-### Feedback
+### Feedback Ideafest Fund 6 
 
-#### Feedback Ideafest Fund 6 
-
-#### Method:
+### Method:
 
 * Survey of the participants right after voting via google forms. 
 
-#### Sample:
+### Sample:
 
 * N = 28 \(8=General / Other, 15=Proposer, 5=Host\)
 
-#### Questions:
+### Questions:
 
 * What is your level of satisfaction for this event? \(Likert scale from 1 = Very low to 5 = very high\)
   * Average = 4,464
@@ -98,7 +96,7 @@
   * 3 = Newsletter / Ideascale
   * 0 = Twitter / Reddit
 
-#### Lessons learned: What could be changed for Ideafest F7?
+### Lessons learned: What could be changed for Ideafest F7?
 
 * Room categorization according to funding challenge 
 * More breaks / less tight schedule
