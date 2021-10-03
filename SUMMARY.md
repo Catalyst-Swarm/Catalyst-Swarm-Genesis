@@ -8,7 +8,7 @@
 ## October 2021
 
 * [Idea Fest - October 2021](october-2021/idea-fest-2.md)
-* [Untitled](october-2021/untitled.md)
+* [Idea Fest 2 - Rooms](october-2021/untitled.md)
 
 ## September 2021
 
