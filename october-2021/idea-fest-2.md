@@ -4,6 +4,16 @@
 
 ### Room Host Presentation
 
+Slide 1
+
+![](../.gitbook/assets/2021-10-03-4-.png)
+
+Slide 2
+
+![](../.gitbook/assets/2021-10-03-5-.png)
+
+![](../.gitbook/assets/2021-10-03-6-.png)
+
 ## 1st October 2021
 
 ### Zoom Backgrounds by Felix
