@@ -58,3 +58,7 @@
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
 
+## October 2021
+
+* [Untitled](october-2021/untitled.md)
+
