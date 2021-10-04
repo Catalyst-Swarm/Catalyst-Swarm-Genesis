@@ -24,9 +24,7 @@ To find out more – check out "What is Swarm?"
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Introducing-Catalyst-Swarm/365894-48088?submitted=1" %}
 
- 
-
-## Proposals
+##  Proposals
 
 ### F6: Proposer outreach -  After Town Hall by Swarm
 
