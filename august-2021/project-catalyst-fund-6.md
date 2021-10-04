@@ -26,7 +26,7 @@ To find out more – check out "What is Swarm?"
 
 ##  Proposals
 
-### F6: Proposer outreach -  After Town Hall by Swarm
+### After Town Hall by Swarm - F6: Proposer outreach -  
 
 ![](../.gitbook/assets/2021-10-04-1-.png)
 
@@ -37,6 +37,8 @@ Town Hall is attended by highly engaged participants of the Cardano ecosystem. T
  **Describe your solution to the problem**
 
 Organize breakout rooms after each weekly Town Hall to discuss current events. Provide space for funded and upcoming projects and ideas.
+
+{% embed url="https://cardano.ideascale.com/a/dtd/After-Town-Hall-by-Swarm/366709-48088" %}
 
 
 
