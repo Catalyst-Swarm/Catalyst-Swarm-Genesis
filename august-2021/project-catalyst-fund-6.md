@@ -24,7 +24,21 @@ To find out more – check out "What is Swarm?"
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Introducing-Catalyst-Swarm/365894-48088?submitted=1" %}
 
+ 
 
+## Proposals
+
+### F6: Proposer outreach -  After Town Hall by Swarm
+
+![](../.gitbook/assets/2021-10-04-1-.png)
+
+ **Problem statement :**
+
+Town Hall is attended by highly engaged participants of the Cardano ecosystem. They need a moderated space for discussion and networking.
+
+ **Describe your solution to the problem**
+
+Organize breakout rooms after each weekly Town Hall to discuss current events. Provide space for funded and upcoming projects and ideas.
 
 
 
