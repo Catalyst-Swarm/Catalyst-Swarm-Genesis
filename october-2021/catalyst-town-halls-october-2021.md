@@ -1,6 +1,10 @@
+---
+description: Catalyst Town Halls for the month of October 2021
+---
+
 # Catalyst Town Halls - October 2021
 
-## 6th October, 2021
+## 6th October, 2021 - Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=JZyJiGEt6T8" %}
 
