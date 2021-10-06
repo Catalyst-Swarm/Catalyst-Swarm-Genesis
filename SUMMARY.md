@@ -7,6 +7,7 @@
 
 ## October 2021
 
+* [Catalyst Town Halls - October 2021](october-2021/catalyst-town-halls-october-2021.md)
 * [Idea Fest 2 - October 2021](october-2021/idea-fest-2.md)
 * [Idea Fest 2 - Rooms](october-2021/untitled.md)
 
