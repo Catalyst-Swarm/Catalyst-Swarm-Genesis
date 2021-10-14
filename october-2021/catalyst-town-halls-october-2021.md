@@ -10,7 +10,12 @@ description: Catalyst Town Halls for the month of October 2021
 
 ### Slides
 
-{% embed url="https://docs.google.com/presentation/d/1DpMHy-2s9wiELKK-Vf0KLsheJK5fThidQmgI5Gld41o/edit\#slide=id.gb756fa1b15\_0\_0" %}
+{% embed url="https://docs.google.com/presentation/d/1DpMHy-2s9wiELKK-Vf0KLsheJK5fThidQmgI5Gld41o/edit#slide=id.gb756fa1b15_0_0" %}
 
+## 13th October, 2021, Town Hall
 
+{% embed url="https://www.youtube.com/watch?v=Pw6VdcWi8NE" %}
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/10Xk7dbkuSveM0oJefMzTbZqsniikn0Hoe-Rtgx3v8oI/edit#slide=id.gb756fa1b15_0_0" %}
