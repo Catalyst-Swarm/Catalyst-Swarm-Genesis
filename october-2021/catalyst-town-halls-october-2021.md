@@ -12,6 +12,12 @@ description: Catalyst Town Halls for the month of October 2021
 
 {% embed url="https://docs.google.com/presentation/d/1DpMHy-2s9wiELKK-Vf0KLsheJK5fThidQmgI5Gld41o/edit#slide=id.gb756fa1b15_0_0" %}
 
+### Fund 6 Proposer Retrospective
+
+{% embed url="https://youtu.be/Dt5lYOdlpPs" %}
+Fund 6 Proposer Retrospective - hosted by Victor
+{% endembed %}
+
 ## 13th October, 2021, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=Pw6VdcWi8NE" %}
