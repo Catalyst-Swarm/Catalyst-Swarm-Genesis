@@ -20,6 +20,10 @@ Fund 6 Proposer Retrospective - hosted by Victor
 
 ### Fund 6 Proposer Retrospective, hosted by Nori
 
+{% embed url="https://youtu.be/sG1m3UGX5_A" %}
+Fund 6 Proposer retrospective, host
+{% endembed %}
+
 ## 13th October, 2021, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=Pw6VdcWi8NE" %}
