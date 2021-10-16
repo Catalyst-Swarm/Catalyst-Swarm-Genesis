@@ -8,6 +8,7 @@
 ## October 2021
 
 * [Catalyst Town Halls - October 2021](october-2021/catalyst-town-halls-october-2021.md)
+* [Swarm Sessions - October 2021](october-2021/swarm-sessions-october-2021.md)
 * [Idea Fest 2 - October 2021](october-2021/idea-fest-2.md)
 * [Idea Fest 2 - Rooms](october-2021/untitled.md)
 
@@ -59,7 +60,6 @@
 * [After Town Halls](governance/after-town-halls.md)
 * [Saturday Swarm Sessions](governance/saturday-swarm-sessions.md)
 
----
+***
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
-
