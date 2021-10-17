@@ -106,7 +106,7 @@ Robert - Research on voting - revealing preferences via pricing systems - four q
 
 Simon - (quoting Stephen ) working meetings between IOG and Catalyst community [1:14:53](https://www.youtube.com/watch?v=24ImaWIiChg\&t=4493s) 
 
-Speaker - Path from the community to Cardano - [1:16:59](https://www.youtube.com/watch?v=24ImaWIiChg\&t=4619s) 
+Harris - Path from the community to Cardano - [1:16:59](https://www.youtube.com/watch?v=24ImaWIiChg\&t=4619s) 
 
 Johnny - A map of the ecosystem - hard problems of blockchain governance - [1:20:25](https://www.youtube.com/watch?v=24ImaWIiChg\&t=4825s) 
 
