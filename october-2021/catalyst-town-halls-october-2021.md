@@ -128,11 +128,7 @@ Fund 6 Proposer retrospective, host
 
 ## 20th October 2021, Town Hall
 
-
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=VudbBWPh-qA" %}
 
 ### Slides
 
