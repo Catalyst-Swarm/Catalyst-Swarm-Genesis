@@ -16,7 +16,7 @@ Discussion with Proposer, Community Adviser and veteran Community Advisor about 
 
 {% embed url="https://www.youtube.com/watch?v=hXKcDuL287w&t=710s" %}
 
-Mercy, co-founder from WADA \( West-Africa- Decentralized- Alliance \) invites you to have a look in the WADA projects get in touch with WADA: 
+Mercy, co-founder from WADA ( West-Africa- Decentralized- Alliance ) invites you to have a look in the WADA projects get in touch with WADA:&#x20;
 
 #### Website:
 
@@ -36,7 +36,9 @@ Mercy, co-founder from WADA \( West-Africa- Decentralized- Alliance \) invites y
 
 ### Swarm Session Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l\_ETdso=/" caption="Miro Board" %}
+{% embed url="https://miro.com/app/board/o9J_l_ETdso=/" %}
+Miro Board
+{% endembed %}
 
 ### Organizing Ideascale Problem Sensing Ideas - Session
 
@@ -46,13 +48,13 @@ Discussion about the user experience of the Ideascale Problem Sensing section an
 
 #### Miro Board for this session
 
-{% embed url="https://miro.com/app/board/o9J\_l-K92IU=/" %}
+{% embed url="https://miro.com/app/board/o9J_l-K92IU=/" %}
 
 #### GitHub Repository for this session
 
 {% embed url="https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session" %}
 
-### DAO Circle - Session  
+### DAO Circle - Session &#x20;
 
 {% embed url="https://www.youtube.com/watch?v=vlBAqOKLwK0&t=2464s" %}
 
@@ -60,11 +62,13 @@ Sharing knowledge and thoughts about the concept of a DAO
 
 ### Chill Out Circle
 
-{% embed url="https://www.youtube.com/watch?v=yScOAnTGeH4" caption="Chill Out Circle" %}
+{% embed url="https://www.youtube.com/watch?v=yScOAnTGeH4" %}
+Chill Out Circle
+{% endembed %}
 
 ### Session Feedback
 
-{% embed url="https://www.youtube.com/watch?v=VfYHKj7\_iKQ" %}
+{% embed url="https://www.youtube.com/watch?v=VfYHKj7_iKQ" %}
 
 ## Saturday 26th June 2021
 
@@ -72,11 +76,11 @@ Sharing knowledge and thoughts about the concept of a DAO
 
 Link to Discord context
 
-{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/858366468516872223" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/836129396778991616/858366468516872223" %}
 
 ### Swarm Session Miro Board
 
-{% embed url="https://miro.com/app/board/o9J\_l9SW-wM=/" caption="" %}
+{% embed url="https://miro.com/app/board/o9J_l9SW-wM=/" %}
 
 ### Ideation Incubator Circle
 
@@ -90,21 +94,20 @@ Swarm Session 26th June 2021 - moderated by N-Fold
 
 Exploring a process framework to identify problems that are worthy to motivate funding proposals, creating community-based consensus of a value-proposition that proposers can point to and not reinvent the "why bother?" part of Catalyst funding proposals
 
-#### [0:00](https://www.youtube.com/watch?v=94MnBLi40d8&t=0s) reducing wheel-reinvention in Catalyst community
+#### [0:00](https://www.youtube.com/watch?v=94MnBLi40d8\&t=0s) reducing wheel-reinvention in Catalyst community
 
-#### [10:30](https://www.youtube.com/watch?v=94MnBLi40d8&t=630s) review: what makes a good problem statement?
+#### [10:30](https://www.youtube.com/watch?v=94MnBLi40d8\&t=630s) review: what makes a good problem statement?
 
-#### [16:30](https://www.youtube.com/watch?v=94MnBLi40d8&t=990s) a small experiment in process for finding interesting problems
+#### [16:30](https://www.youtube.com/watch?v=94MnBLi40d8\&t=990s) a small experiment in process for finding interesting problems
 
-#### [21:00](https://www.youtube.com/watch?v=94MnBLi40d8&t=1260s) 4 people get experience together
+#### [21:00](https://www.youtube.com/watch?v=94MnBLi40d8\&t=1260s) 4 people get experience together
 
-#### [56:15](https://www.youtube.com/watch?v=94MnBLi40d8&t=3375s) finding consensus
+#### [56:15](https://www.youtube.com/watch?v=94MnBLi40d8\&t=3375s) finding consensus
 
-#### [58:45](https://www.youtube.com/watch?v=94MnBLi40d8&t=3525s) reviewing, feedback, learning
+#### [58:45](https://www.youtube.com/watch?v=94MnBLi40d8\&t=3525s) reviewing, feedback, learning
 
 ### DAO Circle Part 2 - DAO City
 
 {% embed url="https://www.youtube.com/watch?v=0xOFAx3H7H8" %}
 
 Swarm Session 26th June 2021 - moderated by Filip
-

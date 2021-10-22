@@ -12,35 +12,35 @@ description: Swarm Governance for the month of June 2021
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857887059913211904/857888250826719253" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/857887059913211904/857888250826719253" %}
 
 ### IOHK Youtube Channel
 
-{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=YRxEKtpoL2o" %}
 
 ### Catalyst Circle definition
 
-{% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit\#heading=h.h4fzm78ihptp" caption="" %}
+{% embed url="https://docs.google.com/document/d/1IgyOWMvMEtM0nkrGutN8pgcWa3HtmEwhRZ4ZO-veF5g/edit#heading=h.h4fzm78ihptp" %}
 
 ### Catalyst Circle Voting Procedure
 
-{% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2\_8aqZ9UFKc/edit" caption="" %}
+{% embed url="https://docs.google.com/document/d/11JW-Tr80Zq8FL3AjMAsek0eHH9WDAkyd2_8aqZ9UFKc/edit" %}
 
 ### Town Hall Slides
 
-{% embed url="https://docs.google.com/presentation/d/1k\_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit\#slide=id.ge00bc5ea9a\_0\_2845" caption="" %}
+{% embed url="https://docs.google.com/presentation/d/1k_jnLp9Cm5jBsNan9VJoPjAm2Ko8jCSu-klwYA1HuDI/edit#slide=id.ge00bc5ea9a_0_2845" %}
 
 ### @InputOutputHK Twitter
 
 ### Cardano Forum Post
 
-{% embed url="https://forum.cardano.org/t/catalyst-circle-nominations-elections-form-leadership-layer-for-cardano-v1/65592" caption="" %}
+{% embed url="https://forum.cardano.org/t/catalyst-circle-nominations-elections-form-leadership-layer-for-cardano-v1/65592" %}
 
 ## Catalyst Circle Elections
 
 ### Candidate Nomination Form
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe4tmJb0lWhk0KpxyPzRWzMEA5NYlMWAh2QNe5pY6gdAErhzw/viewform" caption="" %}
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSe4tmJb0lWhk0KpxyPzRWzMEA5NYlMWAh2QNe5pY6gdAErhzw/viewform" %}
 
 ![Screenshot](https://user-images.githubusercontent.com/25156451/123558713-a3015200-d78f-11eb-942f-431533021ab9.png)
 
@@ -50,47 +50,47 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 ![Nominations last call](https://user-images.githubusercontent.com/25156451/123558325-8cf29200-d78d-11eb-83ba-8556b9b2990f.png)
 
-{% embed url="https://docs.google.com/document/d/1jVNCqztO\_s88TC1yfB9xLOJOWC2ANhyxtgJbdsofKZw/edit" caption="" %}
+{% embed url="https://docs.google.com/document/d/1jVNCqztO_s88TC1yfB9xLOJOWC2ANhyxtgJbdsofKZw/edit" %}
 
 Link to Discord context
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857890206299848705" %}
 
 ![nominate @FelixWeber, @whitevo and @JacobD](https://user-images.githubusercontent.com/25156451/123561240-2b3b2380-d79f-11eb-8d08-1b8bf5c9f849.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857893815201038356" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857893815201038356" %}
 
 ![nominate @stephen.rowan, @Steven.Aldrich, @Steve.Lockhart and Jason Pocaro](https://user-images.githubusercontent.com/25156451/123561325-9ab11300-d79f-11eb-874b-4c1504beeca3.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857905118229954590" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/857890034610208778/857905118229954590" %}
 
 ### CA Nominations
 
-![Welcome to \#ca-nominations &amp; nominate Victor Corcino](../.gitbook/assets/2021-06-27-12-.png)
+![Welcome to #ca-nominations & nominate Victor Corcino](../.gitbook/assets/2021-06-27-12-.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858750400528908348" %}
 
 ![nominate @jamesdunseith](../.gitbook/assets/2021-06-27-13-.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858775762580930566" %}
 
 #### Victor petition
 
 ![Victor petition](https://user-images.githubusercontent.com/25156451/123613166-1c825a00-d7fb-11eb-935f-d0fb5f57e50d.png)
 
-{% embed url="https://docs.google.com/document/d/1aqpXPLb0K0UMDBXWbCJfvqqkLJEIJIjrkiG2nosFYmM/edit" caption="" %}
+{% embed url="https://docs.google.com/document/d/1aqpXPLb0K0UMDBXWbCJfvqqkLJEIJIjrkiG2nosFYmM/edit" %}
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858973054956470282" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/858973054956470282" %}
 
 #### Victor nomination statement
 
@@ -98,7 +98,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858742168386142228/859195008559874079" %}
 
 #### raghuram withdrawal and nomination of Victor
 
@@ -116,13 +116,13 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858757548789071913" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858757548789071913" %}
 
 ![nominate @Quasar and @mercyA1](https://user-images.githubusercontent.com/25156451/123561142-ae0fae80-d79e-11eb-9cad-8137a9111b28.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858759764486258708" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/858759764486258708" %}
 
 #### Mercy petition
 
@@ -130,7 +130,7 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/859074041478774814" caption="" %}
+{% embed url="https://discordapp.com/channels/832894680290951179/858756737602551818/859074041478774814" %}
 
 ## Catalyst Community Announcements
 
@@ -138,9 +138,8 @@ Link to Discord context on Catalyst Swarm & Sessions
 
 28th June 2021
 
-![2021-06-28 \(2\)](https://user-images.githubusercontent.com/25156451/123624717-d206da80-d806-11eb-84f4-8db221699a11.png)
+![2021-06-28 (2)](https://user-images.githubusercontent.com/25156451/123624717-d206da80-d806-11eb-84f4-8db221699a11.png)
 
 Link to Discord context on Catalyst Swarm & Sessions
 
-{% embed url="https://discordapp.com/channels/756943420660121600/756943420660121603/859019433925935106" caption="" %}
-
+{% embed url="https://discordapp.com/channels/756943420660121600/756943420660121603/859019433925935106" %}
