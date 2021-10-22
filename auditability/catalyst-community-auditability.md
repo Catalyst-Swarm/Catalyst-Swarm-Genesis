@@ -24,6 +24,8 @@ To follow
 
 ![Welcome to #auditability ](../.gitbook/assets/2021-10-22.png)
 
+An auditability channel was created on 20th October 2021 to facilate development of reporting standards for the prospective audit team fund 6 cohort.
+
 {% embed url="https://discord.com/channels/832894680290951179/900513583157362688/900513966453846026" %}
 
 ## **Quest for Taxonomy**
