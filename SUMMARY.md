@@ -5,6 +5,10 @@
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Fund 6 Proposals](fund-6-proposals.md)
 
+## Auditability
+
+* [Catalyst Community Auditability](auditability/catalyst-community-auditability.md)
+
 ## October 2021
 
 * [Catalyst Town Halls - October 2021](october-2021/catalyst-town-halls-october-2021.md)
