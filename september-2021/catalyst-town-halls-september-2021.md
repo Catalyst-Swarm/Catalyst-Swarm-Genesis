@@ -64,6 +64,63 @@ A big thank you to all participants and even Dor passed by at the end and joined
 
 We invite everyone to join us in the next townhalls - swarm sessions
 
+### Mini-Proposal Workshop #5
+
+{% embed url="https://youtu.be/n9XyzC5UbkA" %}
+
+The session was hosted by Tevo Saks and Stephen Whitenstall. Workshop participants: George Lovegrove, Martin Vavrovic, Ngā mihi, Tyler, Jon T
+
+In today's session, we are discovering 2 problem statements.
+
+1. Atala prism is missing continuous incentive onboard users and lacks the means of connection
+2. Cardano community lacks shared global language tools and content
+
+Chapters:
+
+[00:00](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=0s) Session Set-Up
+
+[00:44](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=44s) Member introduction and workshop input
+
+[02:41](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=161s) Last workshops quick recap and the goal of the one in progress
+
+[06:04](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=364s) Introductions done
+
+[07:02](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=422s) Continuation for the workshop process
+
+[09:01](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=541s) Proposal problem #1 solving
+
+[19:47](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=1187s) Is the Proposal too big?
+
+[26:32](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=1592s) Restating the problem statement another way
+
+[29:37](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=1777s) How does creating Problem statement works?
+
+[31:17](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=1877s) Viral Adoption idea
+
+[32:36](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=1956s) Proposal problem #2
+
+[43:52](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=2632s) Assessing Problem Statement&#x20;
+
+[48:29](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=2909s) Community hub problems
+
+[55:23](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3323s) Discussion about Cardano
+
+[57:25](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3445s) Proposal solving continues
+
+[58:40](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3520s) Feedback to the problem claimant&#x20;
+
+[59:06](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3546s) Problem statement challenges&#x20;
+
+[1:00:51](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3651s) Problem statement for Crypto crackdown&#x20;
+
+[1:06:21](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=3981s) Session recap&#x20;
+
+[1:08:16](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=4096s) Session Feedback&#x20;
+
+[1:09:48](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=4188s) Vision while moving into the future&#x20;
+
+[1:12:22](https://www.youtube.com/watch?v=n9XyzC5UbkA\&t=4342s) Session Feedback
+
 ## 8th September, Town Hall
 
 {% embed url="https://www.youtube.com/watch?v=0674oS_glAE" %}
@@ -106,7 +163,13 @@ Join Dor Garbash (Product Manager), Daniel Ribar (Community Manager) and the res
 
 ### 8th September, After Town Hall
 
+### Mini-Proposal Workshop #6 by Tevo Saks
 
+{% embed url="https://youtu.be/_eQrayB1s6Q" %}
+
+Workshop participants: Benjamin Hartin and Gregory
+
+In this workshop we fighting with a problem How to re-establish stolen identity.
 
 ## 15th September, Town Hall
 
