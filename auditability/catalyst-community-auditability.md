@@ -8,7 +8,9 @@ description: >-
 
 ## Background
 
-At the Project Catalyst After Town Hall of 20th October 2021 a workshop session initiated a Catalyst Community Auditability team with the intention to collaborate on common funded cohort reporting standards.
+At the Project Catalyst After Town Hall of 20th October 2021 a workshop session initiated a Catalyst Community Auditability team with the intention to collaborate on a common funded cohort reporting standards.
+
+A pilot is planned that will include a large sample of Fund 6 proposals drawn from the Catalst community network.
 
 ## 20th October 2021 After Town Hall
 
