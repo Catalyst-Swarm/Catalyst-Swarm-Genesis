@@ -32,3 +32,4 @@ An auditability channel was created on 20th October 2021 to facilate development
 
 ## **Quest for Taxonomy**
 
+![Co](<../.gitbook/assets/2021-10-22 (1).png>)
