@@ -67,3 +67,7 @@
 ***
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
+
+## Group 1
+
+* [November 2021](group-1/november-2021.md)
