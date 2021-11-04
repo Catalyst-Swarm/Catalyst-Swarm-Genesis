@@ -9,6 +9,10 @@
 
 * [Catalyst Community Auditability](auditability/catalyst-community-auditability.md)
 
+## November 2021
+
+* [Catalyst Town Halls - November 2021](november-2021/catalyst-town-halls-november-2021.md)
+
 ## October 2021
 
 * [Catalyst Town Halls - October 2021](october-2021/catalyst-town-halls-october-2021.md)
@@ -67,7 +71,3 @@
 ***
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
-
-## Group 1
-
-* [November 2021](group-1/november-2021.md)
