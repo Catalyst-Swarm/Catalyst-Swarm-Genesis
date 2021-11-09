@@ -4,11 +4,15 @@ description: Catalyst Town Halls for the month of November 2021
 
 # Catalyst Town Halls - November 2021
 
-## Catalyst Town Hall 03.11.2021
+## 3rd November 2021
 
 {% embed url="https://www.youtube.com/watch?v=x8134D_Ip9o" %}
 
-### 03.11.2021 After Townhall Breakout Rooms&#x20;
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1I0q0MT1bBfU8Sy-dsbHAJkkwSFnpjimrcYGB4I9RxrU/edit#slide=id.gb756fa1b15_0_0" %}
+
+### After Town hall Breakout Rooms&#x20;
 
 #### Mini Proposal Workshop #7
 
