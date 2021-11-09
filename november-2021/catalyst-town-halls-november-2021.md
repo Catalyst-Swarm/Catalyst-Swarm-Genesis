@@ -14,7 +14,7 @@ description: Catalyst Town Halls for the month of November 2021
 
 ### After Town hall Breakout Rooms&#x20;
 
-#### Mini Proposal Workshop #7
+### Mini Proposal Workshop #7
 
 {% embed url="https://youtu.be/V_tBoLQWELw" %}
 
