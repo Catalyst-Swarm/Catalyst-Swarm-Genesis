@@ -28,6 +28,10 @@ If you are interested in participating in a workshop to help others to improve p
 
 {% embed url="https://www.youtube.com/watch?v=T88_XKzi8ms" %}
 
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/18n2DAT2EK3lHhcj5NxbskfDY9QSf-hyKpYB7OPqOGI4/edit#slide=id.gb756fa1b15_0_0" %}
+
 ### After Townhall Breakout Rooms
 
 ### Mini Proposal Workshop #8
