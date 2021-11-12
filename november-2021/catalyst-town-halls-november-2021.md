@@ -24,6 +24,12 @@ In this video create a solution and problem statement for an educational student
 
 If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in the Discord channel: https://discord.gg/CSCaSdnaWW
 
+### Insight Tool Planning with George Lovegrove
+
+{% embed url="https://www.youtube.com/watch?v=OXRb64dPv3s" %}
+
+Exploring how the community can improve the insight sharing part of Project Catalyst with a new tool. Hosted by [https://twitter.com/lovegrovegeo](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbjZtZGh0Z1MtMEgtZ2I1RFUtbTByNERKTW01QXxBQ3Jtc0ttYmpvbnptNEZsN05BdDNmXzRRbXY0ckEyVUM5N3dlTFB5UVNBU2Q3VzZidk91YWxyNkVndmJpZGxPWmlOYi1TTmJuVlo1UlRqdE1VZzZqZTlpSGktb1BVbUtianBxWGxYeE9FOFhvX0hFLWQ3NWpzRQ\&q=https%3A%2F%2Ftwitter.com%2Flovegrovegeo) on November 3.
+
 ## 10th November 2021
 
 {% embed url="https://www.youtube.com/watch?v=T88_XKzi8ms" %}
