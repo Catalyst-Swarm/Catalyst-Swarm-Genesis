@@ -141,3 +141,10 @@ Fund 6 Proposer retrospective, host
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1KHx-tID5RdWyoXitLQpdf2Ti3EgSF9RjilC8_-jJWwk/edit#slide=id.gb756fa1b15_0_0" %}
+
+### After Town Hall
+
+### Catalyst Circle Q\&A
+
+{% embed url="https://www.youtube.com/watch?v=bfK11kKdfvQ" %}
+
