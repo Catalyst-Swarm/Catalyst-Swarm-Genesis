@@ -142,7 +142,7 @@ Fund 6 Proposer retrospective, host
 
 {% embed url="https://docs.google.com/presentation/d/1KHx-tID5RdWyoXitLQpdf2Ti3EgSF9RjilC8_-jJWwk/edit#slide=id.gb756fa1b15_0_0" %}
 
-### After Town Hall
+### After Town Hall, October 27th
 
 ### Catalyst Circle Q\&A
 
