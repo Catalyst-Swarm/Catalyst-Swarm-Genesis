@@ -133,3 +133,11 @@ Fund 6 Proposer retrospective, host
 ### Slides
 
 {% embed url="https://docs.google.com/presentation/d/1R40XA9w3hdogAkcDJNpL3gM3S9q8pcTIQYCokrEow8s/edit#slide=id.gf7308868a9_0_393" %}
+
+## October 27th, Town Hall
+
+{% embed url="https://www.youtube.com/watch?v=yts3EFEODtU" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1KHx-tID5RdWyoXitLQpdf2Ti3EgSF9RjilC8_-jJWwk/edit#slide=id.gb756fa1b15_0_0" %}
