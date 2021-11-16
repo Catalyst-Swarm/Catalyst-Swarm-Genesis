@@ -152,6 +152,10 @@ Fund 6 Proposer retrospective, host
 
 {% embed url="https://www.youtube.com/watch?v=PnHvoZwhIwY" %}
 
+#### **Cardano DVI Presentation** <a href="blob-path" id="blob-path"></a>
+
+{% embed url="https://github.com/Photrek/Cardano-Catalyst/blob/main/Diversify%20Voting%20Influence/Cardano%20DVI%20Presentation%206Oct2021.pdf" %}
+
 ### Designing a DARE - Ernesto van Peborgh
 
 {% embed url="https://www.youtube.com/watch?v=QX21kmvuDLw" %}
