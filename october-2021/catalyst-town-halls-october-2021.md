@@ -148,6 +148,10 @@ Fund 6 Proposer retrospective, host
 
 {% embed url="https://www.youtube.com/watch?v=bfK11kKdfvQ" %}
 
-## Designing a DARE - Ernesto van Peborgh
+### Diversify Voting Influence. Fund 4 : Final report
+
+{% embed url="https://www.youtube.com/watch?v=PnHvoZwhIwY" %}
+
+### Designing a DARE - Ernesto van Peborgh
 
 {% embed url="https://www.youtube.com/watch?v=QX21kmvuDLw" %}
