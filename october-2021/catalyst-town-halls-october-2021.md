@@ -148,3 +148,6 @@ Fund 6 Proposer retrospective, host
 
 {% embed url="https://www.youtube.com/watch?v=bfK11kKdfvQ" %}
 
+## Designing a DARE - Ernesto van Peborgh
+
+{% embed url="https://www.youtube.com/watch?v=QX21kmvuDLw" %}
