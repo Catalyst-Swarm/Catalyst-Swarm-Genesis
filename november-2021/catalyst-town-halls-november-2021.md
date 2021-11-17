@@ -71,3 +71,11 @@ If you are interested to learn more about Mini Proposal Project Management I inv
 As part of the broader Catalyst project, the Catalyst Natives program opens up the potential of blockchain technology to new use cases for everyday businesses of all sizes. COTI is a first project joining the Natives program in Project Catalyst. COTI & Kriss Baird hosting an open Q\&A Room in the after Town Hall after a presentation in the Town Hall.
 
 More about COTI [https://coti.io/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbi1JRDNhR1pKUXVEazFTM2NlY2RnVW1DZTJoUXxBQ3Jtc0trbmFncTZaRUNDUWwwVmtIQXBxcmFMNkxMS0NJNnFXLVZlTWhMZTFCQnYwa0N0dmstU0RqQ29vTXZZS19rajI4YVdxd1l0d0dBQm1fUDhIWjI3U05YVmM0TG5TZXp6VkFaLThad21YV0xXZVk2Y25nMA\&q=https%3A%2F%2Fcoti.io%2F) WEBSITE: [https://adapay.finance/](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbkoxbmZlU1pDdTcwbkdoSGx4dzdiSUZRSUhUUXxBQ3Jtc0ttZHhQYVMwZy13cTRGczltWkdZMlVYaEhCSkR5cDluM1ltSloxTml4LWItWDdZbFc3OGluRmRfNjNHRFlUazc0Rkg5SXI0YVNpWFdtMUFhQ2dVOXlZQlVTTzNwSjlXR2p5Z0Z5bVV1dGM5Q1NsUXRGTQ\&q=https%3A%2F%2Fadapay.finance%2F) TELEGRAM: [https://t.me/COTINETWORK](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbEJRVWZMX0dsZU1OaTJVM29RWFI4U0lBMFVXQXxBQ3Jtc0tuOVVscEU2Sk1BX21mT2hhMk1hT0R4M0RMR1ZRVk9idVlLVmNiQnVOdWc5cVM1RkdLWDk3ZEhfcDVESXVWM1gyaGh3YUN5QWpYeVBVdEhsZ1gyVV9KU29IV0JLeXI3ZzFCaHZneEJKWEEwWVZLN1pzZw\&q=https%3A%2F%2Ft.me%2FCOTINETWORK) EMAIL: support@coti.io
+
+## 17th November 2021
+
+Recording Placeholder
+
+### Presentation
+
+{% embed url="https://docs.google.com/presentation/d/1NG5Xa1BBMiNBN1NsptR02GSN5tae3RVVA9l4NEbRalY/edit?usp=sharing" %}
