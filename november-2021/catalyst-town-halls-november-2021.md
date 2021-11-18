@@ -85,3 +85,7 @@ More about COTI [https://coti.io/](https://www.youtube.com/redirect?event=video\
 ### Catalyst Circle Discussion
 
 {% embed url="https://www.youtube.com/watch?t=2s&v=vD1h4C1lZ4s" %}
+
+November 17 - Elected representatives of the Catalyst Circle joining the After Town Hall and inviting the community to an open discussion.
+
+Documented and timestamped by Circle Oversight here : [https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021)
