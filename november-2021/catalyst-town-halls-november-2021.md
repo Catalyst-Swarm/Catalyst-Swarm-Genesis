@@ -79,3 +79,9 @@ More about COTI [https://coti.io/](https://www.youtube.com/redirect?event=video\
 ### Presentation
 
 {% embed url="https://docs.google.com/presentation/d/1NG5Xa1BBMiNBN1NsptR02GSN5tae3RVVA9l4NEbRalY/edit?usp=sharing" %}
+
+### After Town Hall, 17th November 2021
+
+### Catalyst Circle Discussion
+
+{% embed url="https://www.youtube.com/watch?t=2s&v=vD1h4C1lZ4s" %}
