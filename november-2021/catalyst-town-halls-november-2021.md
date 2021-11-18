@@ -74,7 +74,7 @@ More about COTI [https://coti.io/](https://www.youtube.com/redirect?event=video\
 
 ## 17th November 2021
 
-Recording Placeholder
+{% embed url="https://www.youtube.com/watch?t=5s&v=nP0r5KwNtQk" %}
 
 ### Presentation
 
