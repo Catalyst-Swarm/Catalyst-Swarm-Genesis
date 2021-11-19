@@ -86,6 +86,18 @@ More about COTI [https://coti.io/](https://www.youtube.com/redirect?event=video\
 
 {% embed url="https://www.youtube.com/watch?t=2s&v=vD1h4C1lZ4s" %}
 
-November 17 - Elected representatives of the Catalyst Circle joining the After Town Hall and inviting the community to an open discussion.
+November 17 - Elected representatives of the Catalyst Circle join the After Town Hall and invite the community to an open discussion.
 
-Documented and timestamped by Circle Oversight here : [https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021)
+Documented and timestamped by Circle Oversight here: [https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/public-engagement-sessions/after-town-hall-17th-november-2021)
+
+### Mini Proposal Workshop #9
+
+{% embed url="https://www.youtube.com/watch?v=u9PyBdmLq8M" %}
+
+Hosted by Tevo Saks and accompanied by Danada, Marco Lopes, Stephen Whitenstall, Patrik Suzzi, Dan, ÖZGÜR, Cem Karaca, and 4 other Community Members
+
+Join us in a discussion where try to scope down a problem "Governance with many people involved is complicated" and end up with tooling discussion, what could we effectively use right now?
+
+If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in this Discord channel: [https://discord.gg/CSCaSdnaWW](https://discord.gg/CSCaSdnaWW)
+
+If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/o9J\_l5NdCwg=/](https://miro.com/app/board/o9J\_l5NdCwg=/)
