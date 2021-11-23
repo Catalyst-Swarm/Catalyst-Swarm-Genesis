@@ -5,9 +5,9 @@
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Fund 6 Proposals](fund-6-proposals.md)
 
-## Auditability
+## Challenge Teams
 
-* [Catalyst Community Auditability](auditability/catalyst-community-auditability.md)
+* [Overview of Challenge Teams](challenge-teams/overview-of-challenge-teams.md)
 
 ## November 2021
 
