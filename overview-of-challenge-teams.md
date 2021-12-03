@@ -8,9 +8,9 @@ description: Community GitBooks
 
 ### Circle Version 1
 
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-circle" %}
 
-
-### Circle Version 1
+### Circle Version 2
 
 {% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2" %}
 
