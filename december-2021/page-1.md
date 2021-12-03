@@ -1,5 +1,5 @@
 ---
-description: Catalyst Town Halls - December 2021
+description: Catalyst Town Halls for the month of December 2021
 ---
 
 # Catalyst Town Halls - December 2021
