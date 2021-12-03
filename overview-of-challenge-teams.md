@@ -14,4 +14,6 @@ description: Community GitBooks
 
 {% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2" %}
 
-####
+## Auditability
+
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-auditing" %}
