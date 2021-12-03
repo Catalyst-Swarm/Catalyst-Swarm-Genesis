@@ -108,4 +108,16 @@ If you are interested to learn more about Mini Proposal Project Management I inv
 
 ### Mini Proposal Workshop #10
 
-Editing this atm
+{% embed url="https://youtu.be/hA2kmxVgTYs" %}
+
+Hosted by Tevo Saks and accompanied by Scott, Shael Riley, Eddie Chu and 6 other Community Members
+
+We are discussing our way into finding a specific problem statement we could then use.
+
+There is a disconnect between Department of Defense and Veteran association identification.
+
+In this session, we also reach to choose a solution for this problem.
+
+If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in this Discord channel: [https://discord.gg/CSCaSdnaWW](https://discord.gg/CSCaSdnaWW)
+
+If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/o9J\_l5NdCwg=/](https://miro.com/app/board/o9J\_l5NdCwg=/)
