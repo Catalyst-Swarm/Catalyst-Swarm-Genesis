@@ -71,3 +71,7 @@
 ***
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
+
+## December 2021
+
+* [Page 1](december-2021/page-1.md)
