@@ -12,4 +12,6 @@ description: Community GitBooks
 
 ### Circle Version 1
 
+{% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2" %}
+
 ####
