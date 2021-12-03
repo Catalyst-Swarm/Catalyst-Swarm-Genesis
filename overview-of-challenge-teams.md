@@ -18,6 +18,10 @@ description: Community GitBooks
 
 {% embed url="https://catalyst-swarm.gitbook.io/the-catalyst-school" %}
 
+## Fund 7 Challenge Teams
+
+{% embed url="https://quality-assurance-dao.gitbook.io/catalyst-fund-7-challenges" %}
+
 ## Auditability
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-auditing" %}
