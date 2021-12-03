@@ -12,6 +12,10 @@ description: Swarm Sessions - December 2021
 
 ![](<../.gitbook/assets/2021-12-03 (13).png>)
 
+{% embed url="https://www.meetup.com/Cardano-Catalyst-Community-Network/events/wlltqsyccqbgb" %}
+
+{% embed url="https://t.me/CardanoCreatives" %}
+
 ### Discord context
 
 {% embed url="https://discord.com/channels/832894680290951179/832894680290951182/916297517409398804" %}
