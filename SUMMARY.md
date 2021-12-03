@@ -7,7 +7,7 @@
 
 ## Challenge Teams
 
-* [Overview of Challenge Teams](challenge-teams/overview-of-challenge-teams.md)
+* [Community GitBooks](challenge-teams/overview-of-challenge-teams.md)
 
 ## December 2021
 

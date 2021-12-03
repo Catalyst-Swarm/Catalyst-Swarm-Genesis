@@ -1,11 +1,9 @@
 ---
-description: >-
-  This section documents the emergence of a Catalyst Community Auditability
-  group
+description: Community GitBooks
 ---
 
-# Overview of Challenge Teams
+# Community GitBooks
 
-
+Community GitBooks
 
 ####
