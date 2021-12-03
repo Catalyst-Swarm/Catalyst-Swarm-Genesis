@@ -4,10 +4,7 @@
 * [What is Swarm ?](what-is-swarm.md)
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Swarm Proposals](fund-6-proposals.md)
-
-## Challenge Teams
-
-* [Community GitBooks](challenge-teams/overview-of-challenge-teams.md)
+* [Community GitBooks](overview-of-challenge-teams.md)
 
 ## December 2021
 
