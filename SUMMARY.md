@@ -11,7 +11,7 @@
 
 ## December 2021
 
-* [Page 1](december-2021/page-1.md)
+* [Catalyst Town Halls - November 2021](december-2021/page-1.md)
 
 ## November 2021
 
@@ -75,4 +75,3 @@
 ***
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
-
