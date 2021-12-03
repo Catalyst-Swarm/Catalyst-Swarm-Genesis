@@ -12,7 +12,7 @@ description: Catalyst Town Halls for the month of December 2021
 
 {% embed url="https://docs.google.com/presentation/d/11StNCcf4sBhWAgWKL7kWLK1adfXg7i9dd2i7KWgrY8U/edit#slide=id.gb756fa1b15_0_0" %}
 
-### After Town Hall
+### After Town Hall Breakout Rooms
 
 ### Mini Proposal Workshop #11
 
