@@ -9,6 +9,10 @@
 
 * [Overview of Challenge Teams](challenge-teams/overview-of-challenge-teams.md)
 
+## December 2021
+
+* [Page 1](december-2021/page-1.md)
+
 ## November 2021
 
 * [Catalyst Town Halls - November 2021](november-2021/catalyst-town-halls-november-2021.md)
@@ -72,6 +76,3 @@
 
 * [Transparent Work in Swarm](transparent-work-in-swarm.md)
 
-## December 2021
-
-* [Page 1](december-2021/page-1.md)
