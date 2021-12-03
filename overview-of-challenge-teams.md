@@ -21,3 +21,7 @@ description: Community GitBooks
 ## Auditability
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-auditing" %}
+
+## Catalyst Coordinator (Funded Proposer)
+
+{% embed url="https://quality-assurance-dao.gitbook.io/catalyst-coordinator" %}
