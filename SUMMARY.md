@@ -9,6 +9,7 @@
 ## December 2021
 
 * [Catalyst Town Halls - December 2021](december-2021/catalyst-town-halls-december-2021.md)
+* [Swarm Sessions - December 2021](december-2021/swarm-sessions-december-2021.md)
 
 ## November 2021
 
