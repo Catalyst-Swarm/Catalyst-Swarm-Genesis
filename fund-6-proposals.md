@@ -1,10 +1,12 @@
 ---
-description: Summary of Swarm Fund 6 Proposals
+description: Summary of Swarm Proposals
 ---
 
-# Fund 6 Proposals
+# Swarm Proposals
 
-##  [F6: Proposer outreach](https://cardano.ideascale.com/a/campaign-home/26105)
+## Fund 6
+
+### &#x20;[F6: Proposer outreach](https://cardano.ideascale.com/a/campaign-home/26105)
 
 ![](.gitbook/assets/2021-08-30-20-.png)
 
@@ -18,7 +20,7 @@ Organize breakout rooms after each weekly Town Hall to discuss current events. P
 
 {% embed url="https://cardano.ideascale.com/a/dtd/After-Town-Hall-by-Swarm/366709-48088" %}
 
-##  [F6: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/26106)
+### &#x20;[F6: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/26106)
 
 ![](.gitbook/assets/2021-08-30-21-.png)
 
@@ -31,8 +33,6 @@ Organize and facilitate weekly Zoom sessions with different breakout rooms on re
 ### Ideascale Link
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Weekly-Swarm-Sessions/366714-48088" %}
-
-
 
 
 
