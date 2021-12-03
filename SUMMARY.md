@@ -11,7 +11,7 @@
 
 ## December 2021
 
-* [Catalyst Town Halls - November 2021](december-2021/page-1.md)
+* [Catalyst Town Halls - December 2021](december-2021/page-1.md)
 
 ## November 2021
 
