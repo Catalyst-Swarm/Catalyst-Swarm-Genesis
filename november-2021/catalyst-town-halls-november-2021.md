@@ -101,3 +101,11 @@ Join us in a discussion where try to scope down a problem "Governance with many 
 If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in this Discord channel: [https://discord.gg/CSCaSdnaWW](https://discord.gg/CSCaSdnaWW)
 
 If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/o9J\_l5NdCwg=/](https://miro.com/app/board/o9J\_l5NdCwg=/)
+
+### After Town Hall, 24th November 2021
+
+{% embed url="https://www.youtube.com/watch?v=n9gDRv_KZNI" %}
+
+### Mini Proposal Workshop #10
+
+Editing this atm
