@@ -102,9 +102,13 @@ If you are interested in participating in a workshop to help others to improve p
 
 If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/o9J\_l5NdCwg=/](https://miro.com/app/board/o9J\_l5NdCwg=/)
 
-### After Town Hall, 24th November 2021
+## 24th November
 
 {% embed url="https://www.youtube.com/watch?v=n9gDRv_KZNI" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1QcyJ8rgeFASn9PVc2Zd2o0zB0p8AdLbm-1MvMp0_7uU/edit?usp=sharing" %}
 
 ### Mini Proposal Workshop #10
 
