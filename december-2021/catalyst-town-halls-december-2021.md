@@ -25,3 +25,13 @@ In this session, we explore how to improve awareness of Cardano in the Ethiopian
 If you are interested in participating in a workshop to help others to improve proposals or elaborate on your idea. Join us in the Discord channel: https://discord.gg/CSCaSdnaWW
 
 Resources: The break-out session starts after the Cardano Townhall. Townhall video: https://youtu.be/olOxEinXrgM Miro Board: https://miro.com/app/board/uXjVOebwuos=/ GitBook: CORRECT\_MONTH\_LINK Project Management Miro Board: https://miro.com/app/board/o9J\_l5NdCwg=/
+
+## 8th December&#x20;
+
+Recording Placeholder
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1ikMLaCmgSDnM12-F5XquvXGbIJdhqwg_4SiolT--YHc/edit?usp=sharing" %}
+Fund 7 Town Hall #5 Slides
+{% endembed %}
