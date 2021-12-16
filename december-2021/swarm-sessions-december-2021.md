@@ -19,3 +19,10 @@ description: Swarm Sessions - December 2021
 ### Discord context
 
 {% embed url="https://discord.com/channels/832894680290951179/832894680290951182/916297517409398804" %}
+
+## Saturday, 11th December&#x20;
+
+### How to get Cardano technology adopted?
+
+{% embed url="https://youtu.be/y3H1jOo3iGk" %}
+
