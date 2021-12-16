@@ -41,3 +41,11 @@ Recording Placeholder
 {% embed url="https://docs.google.com/presentation/d/1ikMLaCmgSDnM12-F5XquvXGbIJdhqwg_4SiolT--YHc/edit?usp=sharing" %}
 Fund 7 Town Hall #5 Slides
 {% endembed %}
+
+### After Town Hall Breakout Rooms
+
+### Presenting Proposals - Fund 7
+
+{% embed url="https://youtu.be/dSMLnU9xTkk" %}
+
+Proposers from Project Catalyst presenting their ideas and projects in the weekly Catalyst After Town Hall.
