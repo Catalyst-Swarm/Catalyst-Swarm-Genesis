@@ -26,6 +26,12 @@ If you are interested in participating in a workshop to help others to improve p
 
 If you are interested to learn more about Mini Proposal Project Management I invite you to check out this public Miro Board: [https://miro.com/app/board/o9J\_l5NdCwg=/](https://miro.com/app/board/o9J\_l5NdCwg=/)
 
+### Open Source Developer Ecosystem Challenge
+
+{% embed url="https://youtu.be/hZqysGrnSiM" %}
+
+Voices of Community Catalyst Community OGs Speaking about the Open Source Dev Ecosystem Challenge in Project Catalyst Fund 7.
+
 ## 8th December&#x20;
 
 Recording Placeholder
