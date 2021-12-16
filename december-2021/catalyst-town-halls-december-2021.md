@@ -49,3 +49,7 @@ Fund 7 Town Hall #5 Slides
 {% embed url="https://youtu.be/dSMLnU9xTkk" %}
 
 Proposers from Project Catalyst presenting their ideas and projects in the weekly Catalyst After Town Hall.
+
+## 15th December 2021
+
+{% embed url="https://www.youtube.com/watch?v=PELxvpPWuYk" %}
