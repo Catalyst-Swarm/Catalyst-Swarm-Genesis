@@ -71,3 +71,9 @@ Proposers from Project Catalyst presenting their ideas and projects in the weekl
 #### Supporting materials
 
 {% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/background/antifragile-success-criteria" %}
+
+## Looking back on 2021
+
+{% embed url="https://www.youtube.com/watch?v=ed_H6o0f3gU" %}
+
+Catalyst Community members ( veterans & newcomer ) looking back on their Catalyst journey so far :)
