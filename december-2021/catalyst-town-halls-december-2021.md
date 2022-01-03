@@ -53,3 +53,13 @@ Proposers from Project Catalyst presenting their ideas and projects in the weekl
 ## 15th December 2021
 
 {% embed url="https://www.youtube.com/watch?v=PELxvpPWuYk" %}
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1ul4ytARXAQIhvkZmyo3ivtIuXS4AV2sJXtwQwmERAW0/edit?usp=sharing" %}
+
+### After Town Hall Breakout Rooms
+
+### Veteran Community Advisors (vCA) Q\&A with Kenric Nelson
+
+{% embed url="https://www.youtube.com/watch?v=tE1ZVaMBLp4" %}
