@@ -63,3 +63,11 @@ Proposers from Project Catalyst presenting their ideas and projects in the weekl
 ### Veteran Community Advisors (vCA) Q\&A with Kenric Nelson
 
 {% embed url="https://www.youtube.com/watch?v=tE1ZVaMBLp4" %}
+
+### Antifragile Success criteria
+
+{% embed url="https://www.youtube.com/watch?v=J1MomJFNfeo" %}
+
+#### Supporting materials
+
+{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/background/antifragile-success-criteria" %}
