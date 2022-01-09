@@ -11,7 +11,7 @@
 * [Catalyst Town Halls - December 2021](december-2021/catalyst-town-halls-december-2021.md)
 * [Swarm Sessions - December 2021](december-2021/swarm-sessions-december-2021.md)
 * [Idea Fest Part 1 - December 2021](december-2021/idea-fest-part-1-december-2021.md)
-* [Idea Fest Part 2 - December 2021](december-2021/idea-fest-part-2-december-2021.md)
+* [Idea Fest Part 2 - December 2021](december-2021/idea-fest-december-2021.md)
 
 ## November 2021
 

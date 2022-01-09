@@ -8,13 +8,11 @@
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Indie-Film-Veterans-Natives-ADA/384697-48088" %}
 
-### KONMA-DAO
+### KONMA-DAO - [19:56](https://www.youtube.com/watch?v=Wr7DTGQLxyE\&t=1196s)&#x20;
 
+{% embed url="https://cardano.ideascale.com/a/dtd/KONMA-DAO/383801-48088" %}
 
-
-[19:56](https://www.youtube.com/watch?v=Wr7DTGQLxyE\&t=1196s)&#x20;
-
-(2) KONMA-DAO - [https://cardano.ideascale.com/a/dtd/K...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbUdJTmRoNWxuanVVbG1TaDNRVFRpcjJfcWMzd3xBQ3Jtc0tuQlhMVktINVQ4TDNOTzIwT2QwQVp1aWVHcURLdmwybEdwN2xtclpOMF84TDd4NHA1SHp4RGZhdXpmNmt4WkplazVOZVFMbkpJZjBydzhPRjlLakRWa0hrbHFPOUdZV01oTUlkNVFhV2RwYTl0NnFMTQ\&q=https%3A%2F%2Fcardano.ideascale.com%2Fa%2Fdtd%2FKONMA-DAO%2F383801-48088\&v=Wr7DTGQLxyE) [31:40](https://www.youtube.com/watch?v=Wr7DTGQLxyE\&t=1900s)&#x20;
+[31:40](https://www.youtube.com/watch?v=Wr7DTGQLxyE\&t=1900s)&#x20;
 
 (3) Konma-Upskill - [https://cardano.ideascale.com/a/dtd/K...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa3dMV3k5MUUzendlR3pleVhnZ1NiN2swLVJ6UXxBQ3Jtc0traFk5VGM1ZUpQVkozZUxRem5xdlVEVDlUeURlQnJrVjUzaTBEX3Y3dkNheGhMWVdra19wLUhSSDZMWnE1dDg2QWlaRWtQVnpzM3l6SlllRDlocFBRZ1hIQVRJT0s1X01pOVFSUEJkTnJlTEpVS2thOA\&q=https%3A%2F%2Fcardano.ideascale.com%2Fa%2Fdtd%2FKonma-Upskill%2F384046-48088\&v=Wr7DTGQLxyE) [47:45](https://www.youtube.com/watch?v=Wr7DTGQLxyE\&t=2865s)&#x20;
 
