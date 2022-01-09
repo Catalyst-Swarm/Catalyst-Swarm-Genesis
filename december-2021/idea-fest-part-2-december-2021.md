@@ -1,8 +1,4 @@
-# Idea Fest - December 2021
-
-## Idea Fest Fund 7 Part 1
-
-{% embed url="https://www.youtube.com/watch?v=TpMZGtgk9Q4" %}
+# Idea Fest Part 2 - December 2021
 
 ## Idea Fest Fund 7 Part 2
 
