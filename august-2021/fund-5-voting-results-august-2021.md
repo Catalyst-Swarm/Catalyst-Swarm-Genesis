@@ -6,7 +6,9 @@ description: Fund 5 Voting Results - August 2021
 
 ## Source :
 
-{% file src="../.gitbook/assets/project-catalyst-fund5-voting-results-official-.pdf" caption="Voting results for Catalyst’s Fund5" %}
+{% file src="../.gitbook/assets/project-catalyst-fund5-voting-results-official-.pdf" %}
+Voting results for Catalyst’s Fund5
+{% endfile %}
 
 ![Which proposals received funding ?](../.gitbook/assets/00.png)
 
@@ -24,7 +26,7 @@ description: Fund 5 Voting Results - August 2021
 
 ### DAPP & Integration
 
-![DAPP &amp; Integration](../.gitbook/assets/05.png)
+![DAPP & Integration](../.gitbook/assets/05.png)
 
 ### Distributed Decision Making
 
@@ -52,17 +54,15 @@ description: Fund 5 Voting Results - August 2021
 
 ### Scale Up Cardano & DEFI Ecosystem
 
-![Scale Up Cardano &amp; DEFI Ecosystem](../.gitbook/assets/13.png)
+![Scale Up Cardano & DEFI Ecosystem](../.gitbook/assets/13.png)
 
-### Fund 7 - Challenge Setting
+### Fund 6 - Challenge Setting
 
 ![Fund 7 - Challenge Setting](../.gitbook/assets/14.png)
 
 ### Leftover Funds Allocation
 
 ![](../.gitbook/assets/15.png)
-
-
 
 
 
