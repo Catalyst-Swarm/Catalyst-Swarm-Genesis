@@ -5,6 +5,7 @@
 * [Catalyst Swarm Media](catalyst-swarm-media.md)
 * [Swarm Proposals](fund-6-proposals.md)
 * [Community GitBooks](Community-GitBooks.md)
+* [Catalyst Swarm 2022](catalyst-swarm-2022.md)
 
 ## December 2021
 
