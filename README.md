@@ -6,9 +6,7 @@ coverY: 0
 
 # Catalyst-Swarm-Genesis
 
-The Catalyst-Swarm-Genesis GitBook has been recording the activities of the Catalyst-Swarm from its formation in April 2021.
-
-{% embed url="https://youtu.be/WvUHA6lhjPw" %}
+This Catalyst-Swarm-Genesis GitBook records the activities of the Catalyst-Swarm from its formation in April 2021 to December 2021.
 
 The evolution of Catalyst-Swarm from Swarm sessions in [April 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/april-2021/swarm-sessions) through organizing After Town Halls from [June 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/june-2021/after-town-hall#june-16th-town-hall) to hosting Idea Fest in [July 2021](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021) is all documented in the Catalyst-Swarm-Genesis GitBook.\
 
